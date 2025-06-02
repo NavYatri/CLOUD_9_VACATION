@@ -1076,7 +1076,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                   0.0, 10.0, 0.0, 0.0),
                                           child: SelectionArea(
                                               child: Text(
-                                            'Golden TRIangle Tour Packages',
+                                            'Golden Triangle Tour Packages',
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyMedium
                                                 .override(
