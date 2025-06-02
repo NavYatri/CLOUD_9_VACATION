@@ -1061,7 +1061,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                         borderRadius:
                                             BorderRadius.circular(0.0),
                                         child: Image.network(
-                                          'https://www.goldentriangletourindia.com/images/delhi-golden-tour.jpg',
+                                          'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/09/a9/22/9b.jpg',
                                           width: 500.0,
                                           height: 400.0,
                                           fit: BoxFit.cover,
