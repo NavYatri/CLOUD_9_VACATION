@@ -450,7 +450,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                         borderRadius:
                                             BorderRadius.circular(0.0),
                                         child: Image.network(
-                                          'https://images.pexels.com/photos/319892/pexels-photo-319892.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+                                          'https://cdn.pixabay.com/photo/2018/10/19/09/17/travel-3758193_1280.jpg',
                                           width: 500.0,
                                           height: 400.0,
                                           fit: BoxFit.cover,
@@ -824,7 +824,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                         borderRadius:
                                             BorderRadius.circular(0.0),
                                         child: Image.network(
-                                          'https://eurasianet.org/sites/default/files/styles/article/public/images/70714_0.jpg?itok=ufhg3cfU',
+                                          'https://cdn.pixabay.com/photo/2019/11/14/19/41/baku-4626962_1280.jpg',
                                           width: 500.0,
                                           height: 400.0,
                                           fit: BoxFit.cover,
@@ -1249,7 +1249,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                         borderRadius:
                                             BorderRadius.circular(0.0),
                                         child: Image.network(
-                                          'https://www.rajasthantourplanner.com/images/Kashmir-01.jpg',
+                                          'https://cdn.pixabay.com/photo/2023/05/03/11/57/lofoten-7967448_1280.jpg',
                                           width: 500.0,
                                           height: 400.0,
                                           fit: BoxFit.cover,
@@ -1343,7 +1343,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                         borderRadius:
                                             BorderRadius.circular(0.0),
                                         child: Image.network(
-                                          'https://imgcld.yatra.com/ytimages/image/upload/v1436507922/Chennai_58.jpg',
+                                          'https://cdn.pixabay.com/photo/2019/12/13/08/21/gokyo-ri-4692458_1280.jpg',
                                           width: 500.0,
                                           height: 400.0,
                                           fit: BoxFit.cover,
@@ -1437,7 +1437,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                         borderRadius:
                                             BorderRadius.circular(0.0),
                                         child: Image.network(
-                                          'https://www.specialholidays.com/admin/images/package/thumb/a2cc365bb6-thumb.jpg',
+                                          'https://cdn.pixabay.com/photo/2018/05/16/10/29/kanyakumari-3405392_1280.jpg',
                                           width: 500.0,
                                           height: 400.0,
                                           fit: BoxFit.cover,
@@ -1798,7 +1798,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                         borderRadius:
                                             BorderRadius.circular(0.0),
                                         child: Image.network(
-                                          'https://www.conceptholidayz.com/products-thumbs/87-30.webp',
+                                          'https://cdn.pixabay.com/photo/2019/06/26/16/16/sea-4300782_1280.jpg',
                                           width: 500.0,
                                           height: 400.0,
                                           fit: BoxFit.cover,
@@ -1893,7 +1893,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                           ClipRRect(
                             borderRadius: BorderRadius.circular(8.0),
                             child: Image.network(
-                              'https://img.freepik.com/premium-photo/scenic-view-field-against-sky-autumn_1048944-30289332.jpg',
+                              'https://cdn.pixabay.com/photo/2016/11/01/18/19/trees-1789120_1280.jpg',
                               width: MediaQuery.sizeOf(context).width * 1.0,
                               height: MediaQuery.sizeOf(context).height * 0.8,
                               fit: BoxFit.cover,
