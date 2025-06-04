@@ -1,13 +1,15 @@
 import '/components/form_widget.dart';
 import '/flutter_flow/flutter_flow_theme.dart';
 import '/flutter_flow/flutter_flow_util.dart';
+import '/flutter_flow/flutter_flow_widgets.dart';
 import 'dart:ui';
+import '/index.dart';
+import '/actions/actions.dart' as action_blocks;
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:provider/provider.dart';
 import 'bottom_container_model.dart';
 export 'bottom_container_model.dart';
-import '/pages/about_us/about_us_widget.dart';
 
 class BottomContainerWidget extends StatefulWidget {
   const BottomContainerWidget({super.key});
@@ -535,8 +537,7 @@ class _BottomContainerWidgetState extends State<BottomContainerWidget> {
                                     hoverColor: Colors.transparent,
                                     highlightColor: Colors.transparent,
                                     onTap: () async {
-                                      await launchURL(
-                                          'https://cloud9vacationmain.flutterflow.app/varanasitours');
+                                      context.pushNamed(VaranasitoursWidget.routeName);
                                     },
                                     child: Text(
                                       'Varanasi Tours',
@@ -574,8 +575,7 @@ class _BottomContainerWidgetState extends State<BottomContainerWidget> {
                                     hoverColor: Colors.transparent,
                                     highlightColor: Colors.transparent,
                                     onTap: () async {
-                                      await launchURL(
-                                          'https://cloud9vacationmain.flutterflow.app/india');
+                                      context.pushNamed(IndiaTourPackagesWidget.routeName);
                                     },
                                     child: Text(
                                       'Domestic Tours',
@@ -613,8 +613,7 @@ class _BottomContainerWidgetState extends State<BottomContainerWidget> {
                                     hoverColor: Colors.transparent,
                                     highlightColor: Colors.transparent,
                                     onTap: () async {
-                                      await launchURL(
-                                          'https://cloud9vacationmain.flutterflow.app/maldives');
+                                      context.pushNamed(MaldivesWidget.routeName);
                                     },
                                     child: Text(
                                       'International Tours',
@@ -652,9 +651,8 @@ class _BottomContainerWidgetState extends State<BottomContainerWidget> {
                                     hoverColor: Colors.transparent,
                                     highlightColor: Colors.transparent,
                                     onTap: () async {
-                                      await launchURL(
-                                          'https://cloud9vacationmain.flutterflow.app/Formpage');
-                                    },
+                                      await action_blocks.greenbutton(context);
+                                      },
                                     child: Text(
                                       'Contact',
                                       style: FlutterFlowTheme.of(context)
