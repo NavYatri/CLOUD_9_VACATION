@@ -481,7 +481,7 @@ class _MorePackagesRussiaWidgetState extends State<MorePackagesRussiaWidget> {
                                               topRight: Radius.circular(0.0),
                                             ),
                                             child: Image.network(
-                                              'https://lidenz.com/wp-content/uploads/2021/11/street-g5ac909a8e_1920-500x331.jpg',
+                                              'https://images.pexels.com/photos/6214466/pexels-photo-6214466.jpeg',
                                               width: double.infinity,
                                               height: 275.0,
                                               fit: BoxFit.cover,
