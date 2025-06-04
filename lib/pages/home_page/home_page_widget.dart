@@ -451,7 +451,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                         borderRadius:
                                             BorderRadius.circular(0.0),
                                         child: Image.network(
-                                          'https://www.flamingotravels.co.in/_next/image?url=https%3A%2F%2Fimgcdn.flamingotravels.co.in%2FImages%2FCountry%2Fsri-lanka-history-culture.jpg&w=1080&q=75',
+                                          'https://images.pexels.com/photos/1998438/pexels-photo-1998438.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                           width: 500.0,
                                           height: 400.0,
                                           fit: BoxFit.cover,
@@ -1894,7 +1894,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                           ClipRRect(
                             borderRadius: BorderRadius.circular(8.0),
                             child: Image.network(
-                              'https://cdn.pixabay.com/photo/2016/11/01/18/19/trees-1789120_1280.jpg',
+                              'https://images.pexels.com/photos/219867/pexels-photo-219867.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                               width: MediaQuery.sizeOf(context).width * 1.0,
                               height: MediaQuery.sizeOf(context).height * 0.8,
                               fit: BoxFit.cover,
