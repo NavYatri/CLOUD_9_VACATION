@@ -450,7 +450,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                         borderRadius:
                                             BorderRadius.circular(0.0),
                                         child: Image.network(
-                                          'https://images.pexels.com/photos/319892/pexels-photo-319892.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+                                          'https://www.flamingotravels.co.in/_next/image?url=https%3A%2F%2Fimgcdn.flamingotravels.co.in%2FImages%2FCountry%2Fsri-lanka-history-culture.jpg&w=1080&q=75',
                                           width: 500.0,
                                           height: 400.0,
                                           fit: BoxFit.cover,
