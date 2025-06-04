@@ -450,7 +450,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                         borderRadius:
                                             BorderRadius.circular(0.0),
                                         child: Image.network(
-                                          'https://cdn.pixabay.com/photo/2018/10/19/09/17/travel-3758193_1280.jpg',
+                                          'https://media.cntraveler.com/photos/64df56c0f3e99758036e9581/16:9/w_4928,h_2772,c_limit/1288609237',
                                           width: 500.0,
                                           height: 400.0,
                                           fit: BoxFit.cover,
