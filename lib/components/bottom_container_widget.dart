@@ -7,6 +7,7 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:provider/provider.dart';
 import 'bottom_container_model.dart';
 export 'bottom_container_model.dart';
+import '/pages/about_us/about_us_widget.dart';
 
 class BottomContainerWidget extends StatefulWidget {
   const BottomContainerWidget({super.key});
@@ -496,9 +497,8 @@ class _BottomContainerWidgetState extends State<BottomContainerWidget> {
                                     hoverColor: Colors.transparent,
                                     highlightColor: Colors.transparent,
                                     onTap: () async {
-                                      await launchURL(
-                                          'https://cloud9vacationmain.flutterflow.app/aboutUs');
-                                    },
+              context.pushNamed(AboutUsWidget.routeName);
+            },
                                     child: Text(
                                       'About Us',
                                       style: FlutterFlowTheme.of(context)
