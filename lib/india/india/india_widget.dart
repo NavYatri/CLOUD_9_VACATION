@@ -304,7 +304,7 @@ class _IndiaWidgetState extends State<IndiaWidget> {
                         Container(
                           decoration: BoxDecoration(),
                           child: Text(
-                            'ndia, with its rich cultural heritage spanning over 5,000 years, is a land that captivates everyone who visits. Its ancient traditions, festivals, and customs leave a lasting impression, making cultural tours a top choice for tourists. To experience the essence of India\'s culture, destinations such as Lucknow, Varanasi, Rajasthan, South India, Gujarat, and Punjab are must-visits. Kerala offers the serene practice of Ayurveda, while Rajasthan dazzles with its vibrant fairs and festivals. In Haridwar, you can reconnect with your inner self through Yoga, an ancient Indian practice.',
+                            'India, with its rich cultural heritage spanning over 5,000 years, is a land that captivates everyone who visits. Its ancient traditions, festivals, and customs leave a lasting impression, making cultural tours a top choice for tourists. To experience the essence of India\'s culture, destinations such as Lucknow, Varanasi, Rajasthan, South India, Gujarat, and Punjab are must-visits. Kerala offers the serene practice of Ayurveda, while Rajasthan dazzles with its vibrant fairs and festivals. In Haridwar, you can reconnect with your inner self through Yoga, an ancient Indian practice.',
                             style: FlutterFlowTheme.of(context)
                                 .bodyMedium
                                 .override(
@@ -790,8 +790,7 @@ class _IndiaWidgetState extends State<IndiaWidget> {
                                                             0.0, 0.0),
                                                     child: FFButtonWidget(
                                                       onPressed: () async {
-                                                        await launchURL(
-                                                            'https://cloud9vacation.flutterflow.app/goldenTrianglewithRanthambore');
+                                                        context.pushNamed(goldenTrianglewithRanthambore);
                                                       },
                                                       text: 'View details',
                                                       options: FFButtonOptions(
@@ -1697,7 +1696,7 @@ class _IndiaWidgetState extends State<IndiaWidget> {
                                                         Radius.circular(0.0),
                                                   ),
                                                   child: Image.network(
-                                                    'https://adventureworx.in/wp-content/uploads/2024/09/Complete-Guide-to-Trekking-in-Ladakh-Front-Image.jpg',
+                                                    'https://images.pexels.com/photos/17889400/pexels-photo-17889400/free-photo-of-ladakh-the-land-of-highpasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                                     width: 428.4,
                                                     height: 300.0,
                                                     fit: BoxFit.cover,

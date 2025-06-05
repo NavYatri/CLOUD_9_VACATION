@@ -122,7 +122,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                         alignment: AlignmentDirectional(-1.0, 0.0),
                         child: Padding(
                           padding: EdgeInsetsDirectional.fromSTEB(
-                              25.0, 0.0, 0.0, 0.0),
+                              25.0, 0.0, 0.0, 25.0),
                           child: SelectionArea(
                               child: Text(
                             'Popular Countries',
@@ -918,7 +918,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                         alignment: AlignmentDirectional(-1.0, 0.0),
                         child: Padding(
                           padding: EdgeInsetsDirectional.fromSTEB(
-                              25.0, 0.0, 0.0, 0.0),
+                              25.0, 0.0, 0.0, 25.0),
                           child: Text(
                             'Popular Tours in India',
                             style: FlutterFlowTheme.of(context)
@@ -956,8 +956,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                   hoverColor: Colors.transparent,
                                   highlightColor: Colors.transparent,
                                   onTap: () async {
-                                    await launchURL(
-                                        'https://cloud9vacation.flutterflow.app');
+                                    context.pushNamed(HomePageWidget.routeName);
                                   },
                                   child: Column(
                                     mainAxisSize: MainAxisSize.max,
@@ -1050,8 +1049,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                   hoverColor: Colors.transparent,
                                   highlightColor: Colors.transparent,
                                   onTap: () async {
-                                    await launchURL(
-                                        'https://cloud9vacation.flutterflow.app');
+                                    context.pushNamed(HomePageWidget.routeName);
                                   },
                                   child: Column(
                                     mainAxisSize: MainAxisSize.max,
@@ -1144,8 +1142,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                   hoverColor: Colors.transparent,
                                   highlightColor: Colors.transparent,
                                   onTap: () async {
-                                    await launchURL(
-                                        'https://cloud9vacation.flutterflow.app');
+                                    context.pushNamed(HomePageWidget.routeName);
+
                                   },
                                   child: Column(
                                     mainAxisSize: MainAxisSize.max,
@@ -1238,8 +1236,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                   hoverColor: Colors.transparent,
                                   highlightColor: Colors.transparent,
                                   onTap: () async {
-                                    await launchURL(
-                                        'https://cloud9vacation.flutterflow.app');
+                                    context.pushNamed(HomePageWidget.routeName);
+
                                   },
                                   child: Column(
                                     mainAxisSize: MainAxisSize.max,
@@ -1332,8 +1330,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                   hoverColor: Colors.transparent,
                                   highlightColor: Colors.transparent,
                                   onTap: () async {
-                                    await launchURL(
-                                        'https://cloud9vacation.flutterflow.app');
+                                    context.pushNamed(HomePageWidget.routeName);
                                   },
                                   child: Column(
                                     mainAxisSize: MainAxisSize.max,
@@ -1426,8 +1423,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                   hoverColor: Colors.transparent,
                                   highlightColor: Colors.transparent,
                                   onTap: () async {
-                                    await launchURL(
-                                        'https://cloud9vacation.flutterflow.app');
+                                    context.pushNamed(HomePageWidget.routeName);
                                   },
                                   child: Column(
                                     mainAxisSize: MainAxisSize.max,
@@ -1531,7 +1527,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                         alignment: AlignmentDirectional(-1.0, 0.0),
                         child: Padding(
                           padding: EdgeInsetsDirectional.fromSTEB(
-                              25.0, 0.0, 0.0, 0.0),
+                              25.0, 0.0, 0.0, 25.0),
                           child: SelectionArea(
                               child: Text(
                             'Popular Destinations in India',

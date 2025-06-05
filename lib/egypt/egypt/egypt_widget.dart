@@ -1244,7 +1244,7 @@ class _EgyptWidgetState extends State<EgyptWidget> {
                                                           Radius.circular(0.0),
                                                     ),
                                                     child: Image.network(
-                                                      'https://www.thetimes.com/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F0636c382-ffa0-4979-941c-7bddb13cb190.jpg?crop=1320%2C880%2C440%2C0',
+                                                      'https://images.pexels.com/photos/2445852/pexels-photo-2445852.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                                       width: 350.0,
                                                       height: 300.0,
                                                       fit: BoxFit.cover,
@@ -2311,7 +2311,7 @@ class _EgyptWidgetState extends State<EgyptWidget> {
                                                           Radius.circular(0.0),
                                                     ),
                                                     child: Image.network(
-                                                      'https://egypttimetravel.com/wp-content/uploads/2023/10/A-picture-from-the-top-of-one-of-Alexandrias-beaches-from-above.jpg',
+                                                      'https://images.pexels.com/photos/31659551/pexels-photo-31659551/free-photo-of-historic-hotel-in-aswan-by-the-nile-river.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                                       width: 350.0,
                                                       height: 300.0,
                                                       fit: BoxFit.cover,

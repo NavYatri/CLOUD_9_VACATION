@@ -70,7 +70,7 @@ class _DiscoverAlmatyTheCityofApplesWidgetState
                         child: ClipRRect(
                           borderRadius: BorderRadius.circular(8.0),
                           child: Image.network(
-                            'https://www.rjtravelagency.com/wp-content/uploads/2023/10/Kazakhstan-2.jpg',
+                            'https://images.pexels.com/photos/32357361/pexels-photo-32357361/free-photo-of-majestic-view-of-astana-s-grand-mosque.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                             width: MediaQuery.sizeOf(context).width,
                             height: 736.0,
                             fit: BoxFit.fitWidth,

@@ -70,7 +70,7 @@ class _BestofKashmirTourWidgetState extends State<BestofKashmirTourWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://lp-cms-production.imgix.net/2019-06/384e10f39ebc6fab9b991467541ce8ed-dal-lake.jpg?sharp=10&vib=20&w=1200&w=600&h=400',
+                                    'https://images.pexels.com/photos/32420541/pexels-photo-32420541/free-photo-of-stunning-himalayan-landscape-at-sunrise.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.cover,

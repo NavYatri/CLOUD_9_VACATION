@@ -976,7 +976,7 @@ class _RussiaWidgetState extends State<RussiaWidget> {
                                                           Radius.circular(0.0),
                                                     ),
                                                     child: Image.network(
-                                                      'https://media.istockphoto.com/id/185080916/photo/moscow-cityscape-in-winter.jpg?s=612x612&w=0&k=20&c=yE1nPVW12vvHStEtElsLxaKZ3D3biVwkCb_wggy2ODs=',
+                                                      'https://images.pexels.com/photos/164583/pexels-photo-164583.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                                       width: 350.0,
                                                       height: 300.0,
                                                       fit: BoxFit.cover,

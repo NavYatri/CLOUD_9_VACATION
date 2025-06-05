@@ -86,7 +86,7 @@ class _KazakhstanWidgetState extends State<KazakhstanWidget> {
                                           borderRadius:
                                               BorderRadius.circular(8.0),
                                           child: Image.network(
-                                            'https://www.rjtravelagency.com/wp-content/uploads/2023/10/Kazakhstan-2.jpg',
+                                            'https://images.pexels.com/photos/2475746/pexels-photo-2475746.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                             width: MediaQuery.sizeOf(context)
                                                 .width,
                                             height: 739.0,

@@ -636,7 +636,7 @@ class _IndiaTourPackagesWidgetState extends State<IndiaTourPackagesWidget> {
                                             topRight: Radius.circular(0.0),
                                           ),
                                           child: Image.network(
-                                            'https://www.capertravelindia.com/images/tour-tab-thumb/shimla-thumb.jpg',
+                                            'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/640px-Taj_Mahal_%28Edited%29.jpeg',
                                             width: double.infinity,
                                             height: 270.0,
                                             fit: BoxFit.cover,

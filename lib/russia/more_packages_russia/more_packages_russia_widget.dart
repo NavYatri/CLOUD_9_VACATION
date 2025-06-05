@@ -303,7 +303,7 @@ class _MorePackagesRussiaWidgetState extends State<MorePackagesRussiaWidget> {
                                               topRight: Radius.circular(0.0),
                                             ),
                                             child: Image.network(
-                                              'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIFBqjV01OID7w9QxkkwTIdMHB7gYZH2kYKA&s',
+                                              'https://lp-cms-production.imgix.net/2023-03/500pxRF_61786861.jpg',
                                               width: double.infinity,
                                               height: 300.0,
                                               fit: BoxFit.cover,
@@ -1032,7 +1032,7 @@ class _MorePackagesRussiaWidgetState extends State<MorePackagesRussiaWidget> {
                                               topRight: Radius.circular(0.0),
                                             ),
                                             child: Image.network(
-                                              'https://travelwithbender.com/files/7815/6344/4618/moscow-1556561_1280.jpg',
+                                              'https://images.pexels.com/photos/164583/pexels-photo-164583.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                               width: double.infinity,
                                               height: 300.0,
                                               fit: BoxFit.cover,
@@ -1388,7 +1388,7 @@ class _MorePackagesRussiaWidgetState extends State<MorePackagesRussiaWidget> {
                                               topRight: Radius.circular(0.0),
                                             ),
                                             child: Image.network(
-                                              'https://imgcdn.stablediffusionweb.com/2024/11/26/2b4bd5ec-cac3-4f35-b7e1-4490a121c8c0.jpg',
+                                              'https://images3.bovpg.net/r/back/uk/sale/59b274ba3162bo.jpg',
                                               width: double.infinity,
                                               height: 300.0,
                                               fit: BoxFit.cover,
@@ -1744,7 +1744,7 @@ class _MorePackagesRussiaWidgetState extends State<MorePackagesRussiaWidget> {
                                               topRight: Radius.circular(0.0),
                                             ),
                                             child: Image.network(
-                                              'https://cdn.kimkim.com/files/a/content_articles/featured_photos/854795b3432f7a3c9d39d2135c1b1c0976f16b1a/big-c78f2387aaf6078c747dacb6614628e8.jpg',
+                                              'https://mf.b37mrtl.ru/rbthmedia/images/2018.03/article/5a9e4c6a85600a6de9791f62.jpg',
                                               width: double.infinity,
                                               height: 300.0,
                                               fit: BoxFit.cover,
@@ -2456,7 +2456,7 @@ class _MorePackagesRussiaWidgetState extends State<MorePackagesRussiaWidget> {
                                               topRight: Radius.circular(0.0),
                                             ),
                                             child: Image.network(
-                                              'https://www.reuters.com/resizer/v2/JPHWWWQYINOZZKITXM2EHX4JYA.jpg?auth=9a33c1b78b32623b704e557c5dae62e1bf0da6ae505c676e328de70c2b7dab74&width=1080&quality=80',
+                                              'https://images.pexels.com/photos/15323982/pexels-photo-15323982/free-photo-of-square-near-palace-in-old-town.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                               width: double.infinity,
                                               height: 270.0,
                                               fit: BoxFit.cover,

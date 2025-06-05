@@ -482,7 +482,7 @@ class _MorepackagesdubaiWidgetState extends State<MorepackagesdubaiWidget> {
                                               topRight: Radius.circular(0.0),
                                             ),
                                             child: Image.network(
-                                              'https://www.planetware.com/wpimages/2020/11/united-arab-emirates-abu-dhabi-to-dubai-best-ways-to-get-there-by-car.jpg',
+                                              'https://images.pexels.com/photos/32410197/pexels-photo-32410197/free-photo-of-stunning-night-view-of-dubai-skyline-by-the-waterfront.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                               width: double.infinity,
                                               height: 300.0,
                                               fit: BoxFit.cover,
@@ -660,7 +660,7 @@ class _MorepackagesdubaiWidgetState extends State<MorepackagesdubaiWidget> {
                                               topRight: Radius.circular(0.0),
                                             ),
                                             child: Image.network(
-                                              'https://a.travel-assets.com/findyours-php/viewfinder/images/res70/60000/60518-Dubai-Desert-Conservation-Area.jpg',
+                                              'https://images.pexels.com/photos/5614592/pexels-photo-5614592.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                               width: double.infinity,
                                               height: 300.0,
                                               fit: BoxFit.cover,
@@ -1195,7 +1195,7 @@ class _MorepackagesdubaiWidgetState extends State<MorepackagesdubaiWidget> {
                                               topRight: Radius.circular(0.0),
                                             ),
                                             child: Image.network(
-                                              'https://cdn.britannica.com/27/178627-050-AF162D33/Palm-Jumeirah-Dubai-United-Arab-Emirates-International-2005.jpg',
+                                              'https://images.pexels.com/photos/10549886/pexels-photo-10549886.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                               width: double.infinity,
                                               height: 300.0,
                                               fit: BoxFit.cover,
@@ -1373,7 +1373,7 @@ class _MorepackagesdubaiWidgetState extends State<MorepackagesdubaiWidget> {
                                               topRight: Radius.circular(0.0),
                                             ),
                                             child: Image.network(
-                                              'https://bsmedia.business-standard.com/_media/bs/img/article/2024-10/21/full/1729486826-6805.jpg?im=FitAndFill=(826,465)',
+                                              'https://images.pexels.com/photos/3629227/pexels-photo-3629227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                               width: double.infinity,
                                               height: 300.0,
                                               fit: BoxFit.cover,
