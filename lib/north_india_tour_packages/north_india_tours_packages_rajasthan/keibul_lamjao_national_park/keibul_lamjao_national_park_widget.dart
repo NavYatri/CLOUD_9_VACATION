@@ -69,7 +69,7 @@ class _KeibulLamjaoNationalParkWidgetState
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://darter.in/wp-content/uploads/2016/09/rajasthan-photography-5.jpg',
+                                    'https://s7ap1.scene7.com/is/image/incredibleindia/cityscape-of-shimla-himachal-pradesh-city-1-hero?qlt=82&ts=1726730693575',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,

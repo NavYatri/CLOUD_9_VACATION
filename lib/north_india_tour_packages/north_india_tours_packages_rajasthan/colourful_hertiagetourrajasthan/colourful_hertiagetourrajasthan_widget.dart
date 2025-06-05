@@ -71,7 +71,7 @@ class _ColourfulHertiagetourrajasthanWidgetState
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://darter.in/wp-content/uploads/2016/09/rajasthan-photography-5.jpg',
+                                    'https://s7ap1.scene7.com/is/image/incredibleindia/cityscape-of-shimla-himachal-pradesh-city-1-hero?qlt=82&ts=1726730693575',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,
@@ -151,7 +151,7 @@ class _ColourfulHertiagetourrajasthanWidgetState
                                   child: ClipRRect(
                                     borderRadius: BorderRadius.circular(8.0),
                                     child: Image.network(
-                                      'https://urbanjaipur.com/wp-content/uploads/2024/03/amber-fort-muust-visit-jaipur-.jpg',
+                                      'https://images.pexels.com/photos/30725009/pexels-photo-30725009/free-photo-of-camel-ride-through-jaisalmer-desert-sands.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                       width: MediaQuery.sizeOf(context).width *
                                           0.4,
                                       height: 600.0,
@@ -166,7 +166,7 @@ class _ColourfulHertiagetourrajasthanWidgetState
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://www.ranthamborenationalpark.in/blog/wp-content/uploads/2023/08/rajasthan-camels.gif',
+                                    'https://images.pexels.com/photos/815880/pexels-photo-815880.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width:
                                         MediaQuery.sizeOf(context).width * 0.4,
                                     height: 600.0,

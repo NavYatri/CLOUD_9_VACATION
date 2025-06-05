@@ -72,7 +72,7 @@ class _GoldenTrianglewithkeralaandMumbaiWidgetState
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://indiasomeday.com/wp-content/uploads/2014/09/Konkan-Rail-Route-in-Monsoons.jpg',
+                                    'https://s7ap1.scene7.com/is/image/incredibleindia/cityscape-of-shimla-himachal-pradesh-city-1-hero?qlt=82&ts=1726730693575',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,

@@ -72,7 +72,7 @@ class _PushkarFairTourwithgoldenTriangleWidgetState
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://www.coxandkings.co.uk/-/media/cox-and-kings/images/page-header-images/destinations/indian-subcontinent/india/rural-rajasthan/india-city-of-pushkar-rajasthan-shutterstock120015172.jpg?w=1920&h=940',
+                                    'https://s7ap1.scene7.com/is/image/incredibleindia/cityscape-of-shimla-himachal-pradesh-city-1-hero?qlt=82&ts=1726730693575',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.cover,

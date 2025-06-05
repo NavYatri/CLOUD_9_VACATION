@@ -72,7 +72,7 @@ class _IndiaBeachesTourPackagesWidgetState
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://www.godigit.com/content/dam/godigit/directportal/en/contenthm/kavaratti-beach.jpg',
+                                    'https://s7ap1.scene7.com/is/image/incredibleindia/cityscape-of-shimla-himachal-pradesh-city-1-hero?qlt=82&ts=1726730693575',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,
@@ -909,7 +909,7 @@ class _IndiaBeachesTourPackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://www.flamingotravels.co.in/blog/wp-content/uploads/2020/08/kerala.jpg',
+                                                'https://images.pexels.com/photos/1049771/pexels-photo-1049771.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,

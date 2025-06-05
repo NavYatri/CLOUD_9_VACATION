@@ -944,7 +944,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                         alignment: AlignmentDirectional(-1.0, 0.0),
                         child: Padding(
                           padding: EdgeInsetsDirectional.fromSTEB(
-                              25.0, 20.0, 0.0, 0.0),
+                              25.0, 20.0, 0.0, 25.0),
                           child: SingleChildScrollView(
                             scrollDirection: Axis.horizontal,
                             child: Row(
@@ -956,7 +956,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                   hoverColor: Colors.transparent,
                                   highlightColor: Colors.transparent,
                                   onTap: () async {
-                                    context.pushNamed(HomePageWidget.routeName);
+                                    context.pushNamed(IndiaTourPackagesWidget.routeName);
                                   },
                                   child: Column(
                                     mainAxisSize: MainAxisSize.max,
@@ -1049,7 +1049,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                   hoverColor: Colors.transparent,
                                   highlightColor: Colors.transparent,
                                   onTap: () async {
-                                    context.pushNamed(HomePageWidget.routeName);
+                                    context.pushNamed(GoldenTriangleTourPackagesWidget.routeName);
                                   },
                                   child: Column(
                                     mainAxisSize: MainAxisSize.max,
@@ -1142,7 +1142,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                   hoverColor: Colors.transparent,
                                   highlightColor: Colors.transparent,
                                   onTap: () async {
-                                    context.pushNamed(HomePageWidget.routeName);
+                                    context.pushNamed(BrahmaputracruisespackagesWidget.routeName);
 
                                   },
                                   child: Column(
@@ -1236,7 +1236,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                   hoverColor: Colors.transparent,
                                   highlightColor: Colors.transparent,
                                   onTap: () async {
-                                    context.pushNamed(HomePageWidget.routeName);
+                                    context.pushNamed(NorthIndiaTourPackagesWidget.routeName);
 
                                   },
                                   child: Column(
@@ -1330,7 +1330,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                   hoverColor: Colors.transparent,
                                   highlightColor: Colors.transparent,
                                   onTap: () async {
-                                    context.pushNamed(HomePageWidget.routeName);
+                                    context.pushNamed(NorthEastIndiaTourPackagesWidget.routeName);
                                   },
                                   child: Column(
                                     mainAxisSize: MainAxisSize.max,
@@ -1423,7 +1423,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                   hoverColor: Colors.transparent,
                                   highlightColor: Colors.transparent,
                                   onTap: () async {
-                                    context.pushNamed(HomePageWidget.routeName);
+                                    context.pushNamed(IndiaBeachesTourPackagesWidget.routeName);
                                   },
                                   child: Column(
                                     mainAxisSize: MainAxisSize.max,

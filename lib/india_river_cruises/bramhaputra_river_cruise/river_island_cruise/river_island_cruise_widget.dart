@@ -70,7 +70,7 @@ class _RiverIslandCruiseWidgetState extends State<RiverIslandCruiseWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://content3.jdmagicbox.com/comp/kasaragod/n2/9999p4994.4994.220812202912.a8n2/catalogue/island-river-cruise-kasaragod-tourist-attraction-yvg7faqhgi.jpg',
+                                    'https://s7ap1.scene7.com/is/image/incredibleindia/cityscape-of-shimla-himachal-pradesh-city-1-hero?qlt=82&ts=1726730693575',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,

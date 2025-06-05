@@ -203,7 +203,7 @@ class _BrahmaputracruisespackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://c.ndtvimg.com/2025-04/9gsjkb3o_antara_625x300_23_April_25.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738',
+                                                'https://images.pexels.com/photos/15065661/pexels-photo-15065661/free-photo-of-view-of-a-boat-on-a-body-of-water-and-palm-trees-in-the-background.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -686,7 +686,7 @@ class _BrahmaputracruisespackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://assets.cntraveller.in/photos/650d73fc5a6baecb3dc930a0/16:9/w_1024%2Cc_limit/1569908662',
+                                                'https://images.pexels.com/photos/32429711/pexels-photo-32429711/free-photo-of-scenic-boating-adventure-in-poovar-backwaters.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,

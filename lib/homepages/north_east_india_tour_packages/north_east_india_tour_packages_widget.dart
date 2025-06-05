@@ -661,7 +661,7 @@ class _NorthEastIndiaTourPackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://www.capertravelindia.com/images/tour-tab-thumb/shimla-thumb.jpg',
+                                                'https://images.pexels.com/photos/23522680/pexels-photo-23522680/free-photo-of-key-gompa-monastery-in-mountains-in-india.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
