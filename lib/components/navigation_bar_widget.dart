@@ -179,7 +179,7 @@ class _NavigationBarWidgetState extends State<NavigationBarWidget> {
                                         hoverColor: Colors.transparent,
                                         highlightColor: Colors.transparent,
                                         onTap: () async {
-                                          context.pushNamed(IndiaTourPackagesWidget.routeName);
+                                      context.pushNamed(IndiaTourPackagesWidget.routeName);
                                           
                                         },
                                         child: Text(

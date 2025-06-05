@@ -14,7 +14,7 @@ class IndiaTourPackagesWidget extends StatefulWidget {
   const IndiaTourPackagesWidget({super.key});
 
   static String routeName = 'IndiaTourPackages';
-  static String routePath = '/indiaTourPackages';
+  static String routePath = 'indiaTourPackages';
 
   @override
   State<IndiaTourPackagesWidget> createState() =>

@@ -2619,7 +2619,946 @@ GoRouter createRouter(AppStateNotifier appStateNotifier) => GoRouter(
               name: PrivacypolicyWidget.routeName,
               path: PrivacypolicyWidget.routePath,
               builder: (context, params) => PrivacypolicyWidget(),
-            )
+            ),
+        FFRoute(
+          name: YogaRetreatIndiaWidget.routeName,
+          path: YogaRetreatIndiaWidget.routePath,
+          builder: (context, params) => YogaRetreatIndiaWidget(),
+        ),
+        FFRoute(
+          name: GlimpsesofLehLadakhWidget.routeName,
+          path: GlimpsesofLehLadakhWidget.routePath,
+          builder: (context, params) => GlimpsesofLehLadakhWidget(),
+        ),
+        FFRoute(
+          name: ManaliLehbyroadWidget.routeName,
+          path: ManaliLehbyroadWidget.routePath,
+          builder: (context, params) => ManaliLehbyroadWidget(),
+        ),
+        FFRoute(
+          name: HighlightsofKashmirLadakhTourWidget.routeName,
+          path: HighlightsofKashmirLadakhTourWidget.routePath,
+          builder: (context, params) => HighlightsofKashmirLadakhTourWidget(),
+        ),
+        FFRoute(
+          name: IndianOdysseysWidget.routeName,
+          path: IndianOdysseysWidget.routePath,
+          builder: (context, params) => IndianOdysseysWidget(),
+        ),
+        FFRoute(
+          name: ColourfulHertiagetourrajasthanWidget.routeName,
+          path: ColourfulHertiagetourrajasthanWidget.routePath,
+          builder: (context, params) => ColourfulHertiagetourrajasthanWidget(),
+        ),
+        FFRoute(
+          name: BestofKashmirTourWidget.routeName,
+          path: BestofKashmirTourWidget.routePath,
+          builder: (context, params) => BestofKashmirTourWidget(),
+        ),
+        FFRoute(
+          name: KuariPassTrekkingTourWidget.routeName,
+          path: KuariPassTrekkingTourWidget.routePath,
+          builder: (context, params) => KuariPassTrekkingTourWidget(),
+        ),
+        FFRoute(
+          name: TravancoreHeritageKovalamWidget.routeName,
+          path: TravancoreHeritageKovalamWidget.routePath,
+          builder: (context, params) => TravancoreHeritageKovalamWidget(),
+        ),
+        FFRoute(
+          name: KashmirwithLadakhTourWidget.routeName,
+          path: KashmirwithLadakhTourWidget.routePath,
+          builder: (context, params) => KashmirwithLadakhTourWidget(),
+        ),
+        FFRoute(
+          name: StandardodishaTourWidget.routeName,
+          path: StandardodishaTourWidget.routePath,
+          builder: (context, params) => StandardodishaTourWidget(),
+        ),
+        FFRoute(
+          name: KailashMansarovarYatraWidget.routeName,
+          path: KailashMansarovarYatraWidget.routePath,
+          builder: (context, params) => KailashMansarovarYatraWidget(),
+        ),
+        FFRoute(
+          name: AnglingTourWidget.routeName,
+          path: AnglingTourWidget.routePath,
+          builder: (context, params) => AnglingTourWidget(),
+        ),
+        FFRoute(
+          name: ClassicIndianHeritageTourWidget.routeName,
+          path: ClassicIndianHeritageTourWidget.routePath,
+          builder: (context, params) => ClassicIndianHeritageTourWidget(),
+        ),
+        FFRoute(
+          name: ExoticAndamanTourWidget.routeName,
+          path: ExoticAndamanTourWidget.routePath,
+          builder: (context, params) => ExoticAndamanTourWidget(),
+        ),
+        FFRoute(
+          name: YogaandMeditationinHaridwarRishikeshWidget.routeName,
+          path: YogaandMeditationinHaridwarRishikeshWidget.routePath,
+          builder: (context, params) =>
+              YogaandMeditationinHaridwarRishikeshWidget(),
+        ),
+        FFRoute(
+          name: KanchenjungaTrekkingTourWidget.routeName,
+          path: KanchenjungaTrekkingTourWidget.routePath,
+          builder: (context, params) => KanchenjungaTrekkingTourWidget(),
+        ),
+        FFRoute(
+          name: YogaMeditationinHaridwarRishikeshWidget.routeName,
+          path: YogaMeditationinHaridwarRishikeshWidget.routePath,
+          builder: (context, params) =>
+              YogaMeditationinHaridwarRishikeshWidget(),
+        ),
+        FFRoute(
+          name: NikkisNestKovalamWidget.routeName,
+          path: NikkisNestKovalamWidget.routePath,
+          builder: (context, params) => NikkisNestKovalamWidget(),
+        ),
+        FFRoute(
+          name: KeibulLamjaoNationalParkWidget.routeName,
+          path: KeibulLamjaoNationalParkWidget.routePath,
+          builder: (context, params) => KeibulLamjaoNationalParkWidget(),
+        ),
+        FFRoute(
+          name: UttaranchalTourPackagesWidget.routeName,
+          path: UttaranchalTourPackagesWidget.routePath,
+          builder: (context, params) => UttaranchalTourPackagesWidget(),
+        ),
+        FFRoute(
+          name: GoaTourPackageswithSouthIndiaWidget.routeName,
+          path: GoaTourPackageswithSouthIndiaWidget.routePath,
+          builder: (context, params) => GoaTourPackageswithSouthIndiaWidget(),
+        ),
+        FFRoute(
+          name: AjantaElloraCavesTourWidget.routeName,
+          path: AjantaElloraCavesTourWidget.routePath,
+          builder: (context, params) => AjantaElloraCavesTourWidget(),
+        ),
+        FFRoute(
+          name: BestofLaddakhAdventureWidget.routeName,
+          path: BestofLaddakhAdventureWidget.routePath,
+          builder: (context, params) => BestofLaddakhAdventureWidget(),
+        ),
+        FFRoute(
+          name: SikhPilgrimageTourWidget.routeName,
+          path: SikhPilgrimageTourWidget.routePath,
+          builder: (context, params) => SikhPilgrimageTourWidget(),
+        ),
+        FFRoute(
+          name: CharDhamYatraWidget.routeName,
+          path: CharDhamYatraWidget.routePath,
+          builder: (context, params) => CharDhamYatraWidget(),
+        ),
+        FFRoute(
+          name: FoothillsofHimalayaswithGoldenTempleWidget.routeName,
+          path: FoothillsofHimalayaswithGoldenTempleWidget.routePath,
+          builder: (context, params) =>
+              FoothillsofHimalayaswithGoldenTempleWidget(),
+        ),
+        FFRoute(
+          name: HimachalTourPackagesWidget.routeName,
+          path: HimachalTourPackagesWidget.routePath,
+          builder: (context, params) => HimachalTourPackagesWidget(),
+        ),
+        FFRoute(
+          name: ChandratalTrekkingTourWidget.routeName,
+          path: ChandratalTrekkingTourWidget.routePath,
+          builder: (context, params) => ChandratalTrekkingTourWidget(),
+        ),
+        FFRoute(
+          name: EnchantingKashmirWidget.routeName,
+          path: EnchantingKashmirWidget.routePath,
+          builder: (context, params) => EnchantingKashmirWidget(),
+        ),
+        FFRoute(
+          name: AjantaElloraTourWidget.routeName,
+          path: AjantaElloraTourWidget.routePath,
+          builder: (context, params) => AjantaElloraTourWidget(),
+        ),
+        FFRoute(
+          name: HimachalTourPackagewithAmritsarWidget.routeName,
+          path: HimachalTourPackagewithAmritsarWidget.routePath,
+          builder: (context, params) => HimachalTourPackagewithAmritsarWidget(),
+        ),
+        FFRoute(
+          name: AdventureTourIndiaWidget.routeName,
+          path: AdventureTourIndiaWidget.routePath,
+          builder: (context, params) => AdventureTourIndiaWidget(),
+        ),
+        FFRoute(
+          name: BuddhistPilgrimageTourWidget.routeName,
+          path: BuddhistPilgrimageTourWidget.routePath,
+          builder: (context, params) => BuddhistPilgrimageTourWidget(),
+        ),
+        FFRoute(
+          name: GreenKashmirRuggedLadakhWidget.routeName,
+          path: GreenKashmirRuggedLadakhWidget.routePath,
+          builder: (context, params) => GreenKashmirRuggedLadakhWidget(),
+        ),
+        FFRoute(
+          name: CamelSafariTourIndiaWidget.routeName,
+          path: CamelSafariTourIndiaWidget.routePath,
+          builder: (context, params) => CamelSafariTourIndiaWidget(),
+        ),
+        FFRoute(
+          name: TempleTourinIndiaWidget.routeName,
+          path: TempleTourinIndiaWidget.routePath,
+          builder: (context, params) => TempleTourinIndiaWidget(),
+        ),
+        FFRoute(
+          name: LadakhTrekkingMonasteryTourPackageWidget.routeName,
+          path: LadakhTrekkingMonasteryTourPackageWidget.routePath,
+          builder: (context, params) =>
+              LadakhTrekkingMonasteryTourPackageWidget(),
+        ),
+        FFRoute(
+          name: BuddhistSectorTourPackageWidget.routeName,
+          path: BuddhistSectorTourPackageWidget.routePath,
+          builder: (context, params) => BuddhistSectorTourPackageWidget(),
+        ),
+        FFRoute(
+          name: ExploreRuralRajasthanByHorseandJeepSafarisWidget.routeName,
+          path: ExploreRuralRajasthanByHorseandJeepSafarisWidget.routePath,
+          builder: (context, params) =>
+              ExploreRuralRajasthanByHorseandJeepSafarisWidget(),
+        ),
+        FFRoute(
+          name: NorthIndiaTempleTourWidget.routeName,
+          path: NorthIndiaTempleTourWidget.routePath,
+          builder: (context, params) => NorthIndiaTempleTourWidget(),
+        ),
+        FFRoute(
+          name: HeavenlyKashmirTourWidget.routeName,
+          path: HeavenlyKashmirTourWidget.routePath,
+          builder: (context, params) => HeavenlyKashmirTourWidget(),
+        ),
+        FFRoute(
+          name: RajasthanTourPackagesWidget.routeName,
+          path: RajasthanTourPackagesWidget.routePath,
+          builder: (context, params) => RajasthanTourPackagesWidget(),
+        ),
+        FFRoute(
+          name: ValleyofFlowersHemkundSahibWidget.routeName,
+          path: ValleyofFlowersHemkundSahibWidget.routePath,
+          builder: (context, params) => ValleyofFlowersHemkundSahibWidget(),
+        ),
+        FFRoute(
+          name: AnandaintheHimalayasRishikeshWidget.routeName,
+          path: AnandaintheHimalayasRishikeshWidget.routePath,
+          builder: (context, params) => AnandaintheHimalayasRishikeshWidget(),
+        ),
+        FFRoute(
+          name: RoopKundTrekkingTourWidget.routeName,
+          path: RoopKundTrekkingTourWidget.routePath,
+          builder: (context, params) => RoopKundTrekkingTourWidget(),
+        ),
+        FFRoute(
+          name: DrFranklinsPanchkarmaInstituteTrivandrumWidget.routeName,
+          path: DrFranklinsPanchkarmaInstituteTrivandrumWidget.routePath,
+          builder: (context, params) =>
+              DrFranklinsPanchkarmaInstituteTrivandrumWidget(),
+        ),
+        FFRoute(
+          name: GreenKashmirandRuggedLadakhWidget.routeName,
+          path: GreenKashmirandRuggedLadakhWidget.routePath,
+          builder: (context, params) => GreenKashmirandRuggedLadakhWidget(),
+        ),
+        FFRoute(
+          name: GoechalaTrekSikkimWidget.routeName,
+          path: GoechalaTrekSikkimWidget.routePath,
+          builder: (context, params) => GoechalaTrekSikkimWidget(),
+        ),
+        FFRoute(
+          name: KashmirHouseBoatTourWidget.routeName,
+          path: KashmirHouseBoatTourWidget.routePath,
+          builder: (context, params) => KashmirHouseBoatTourWidget(),
+        ),
+        FFRoute(
+          name: ExoticKashmirTourWidget.routeName,
+          path: ExoticKashmirTourWidget.routePath,
+          builder: (context, params) => ExoticKashmirTourWidget(),
+        ),
+        FFRoute(
+          name: UdaySamudraBeachResortKovalamWidget.routeName,
+          path: UdaySamudraBeachResortKovalamWidget.routePath,
+          builder: (context, params) => UdaySamudraBeachResortKovalamWidget(),
+        ),
+        FFRoute(
+          name: VaishnoDeviTourWidget.routeName,
+          path: VaishnoDeviTourWidget.routePath,
+          builder: (context, params) => VaishnoDeviTourWidget(),
+        ),
+        FFRoute(
+          name: SplendoursofRajasthanWidget.routeName,
+          path: SplendoursofRajasthanWidget.routePath,
+          builder: (context, params) => SplendoursofRajasthanWidget(),
+        ),
+        FFRoute(
+          name: CavingTrekkingTourWidget.routeName,
+          path: CavingTrekkingTourWidget.routePath,
+          builder: (context, params) => CavingTrekkingTourWidget(),
+        ),
+        FFRoute(
+          name: ExploreSaurashtraTourWidget.routeName,
+          path: ExploreSaurashtraTourWidget.routePath,
+          builder: (context, params) => ExploreSaurashtraTourWidget(),
+        ),
+        FFRoute(
+          name: SomatheeramAyurvedaResortKovalamTWidget.routeName,
+          path: SomatheeramAyurvedaResortKovalamTWidget.routePath,
+          builder: (context, params) =>
+              SomatheeramAyurvedaResortKovalamTWidget(),
+        ),
+        FFRoute(
+          name: LadakhCulturaltourWidget.routeName,
+          path: LadakhCulturaltourWidget.routePath,
+          builder: (context, params) => LadakhCulturaltourWidget(),
+        ),
+        FFRoute(
+          name: AndamanIslandsTourWidget.routeName,
+          path: AndamanIslandsTourWidget.routePath,
+          builder: (context, params) => AndamanIslandsTourWidget(),
+        ),
+        FFRoute(
+          name: LadakhwithTajWidget.routeName,
+          path: LadakhwithTajWidget.routePath,
+          builder: (context, params) => LadakhwithTajWidget(),
+        ),
+        FFRoute(
+          name: RajasthanFortsandPalacesTourWidget.routeName,
+          path: RajasthanFortsandPalacesTourWidget.routePath,
+          builder: (context, params) => RajasthanFortsandPalacesTourWidget(),
+        ),
+        FFRoute(
+          name: MysticHimachalTourWidget.routeName,
+          path: MysticHimachalTourWidget.routePath,
+          builder: (context, params) => MysticHimachalTourWidget(),
+        ),
+        FFRoute(
+          name: GoldenTrianglewithMahakumbhaMelaWidget.routeName,
+          path: GoldenTrianglewithMahakumbhaMelaWidget.routePath,
+          builder: (context, params) =>
+              GoldenTrianglewithMahakumbhaMelaWidget(),
+        ),
+        FFRoute(
+          name: EnchantingHimachalwithGoldenTriangleTourWidget.routeName,
+          path: EnchantingHimachalwithGoldenTriangleTourWidget.routePath,
+          builder: (context, params) =>
+              EnchantingHimachalwithGoldenTriangleTourWidget(),
+        ),
+        FFRoute(
+          name: GoldenTraingletour5DaysWidget.routeName,
+          path: GoldenTraingletour5DaysWidget.routePath,
+          builder: (context, params) => GoldenTraingletour5DaysWidget(),
+        ),
+        FFRoute(
+          name: GoldenTriangletourWidget.routeName,
+          path: GoldenTriangletourWidget.routePath,
+          builder: (context, params) => GoldenTriangletourWidget(),
+        ),
+        FFRoute(
+          name: GoldenTriangleTour7DaysWidget.routeName,
+          path: GoldenTriangleTour7DaysWidget.routePath,
+          builder: (context, params) => GoldenTriangleTour7DaysWidget(),
+        ),
+        FFRoute(
+          name: GoldenTrianglewithAjantaandElloreWidget.routeName,
+          path: GoldenTrianglewithAjantaandElloreWidget.routePath,
+          builder: (context, params) =>
+              GoldenTrianglewithAjantaandElloreWidget(),
+        ),
+        FFRoute(
+          name: GoldenTrianglewithCorbettTourWidget.routeName,
+          path: GoldenTrianglewithCorbettTourWidget.routePath,
+          builder: (context, params) => GoldenTrianglewithCorbettTourWidget(),
+        ),
+        FFRoute(
+          name: GoldenTrianglewithGoaBeachesWidget.routeName,
+          path: GoldenTrianglewithGoaBeachesWidget.routePath,
+          builder: (context, params) => GoldenTrianglewithGoaBeachesWidget(),
+        ),
+        FFRoute(
+          name: GoldenTrianglewithHaridhwarandrishkeshWidget.routeName,
+          path: GoldenTrianglewithHaridhwarandrishkeshWidget.routePath,
+          builder: (context, params) =>
+              GoldenTrianglewithHaridhwarandrishkeshWidget(),
+        ),
+        FFRoute(
+          name: GoldenTrianglewithHimalayanMonasteriesWidget.routeName,
+          path: GoldenTrianglewithHimalayanMonasteriesWidget.routePath,
+          builder: (context, params) =>
+              GoldenTrianglewithHimalayanMonasteriesWidget(),
+        ),
+        FFRoute(
+          name: GoldenTrianglewithKaatmanduWidget.routeName,
+          path: GoldenTrianglewithKaatmanduWidget.routePath,
+          builder: (context, params) => GoldenTrianglewithKaatmanduWidget(),
+        ),
+        FFRoute(
+          name: GoldenTrianglewithKashmir2Widget.routeName,
+          path: GoldenTrianglewithKashmir2Widget.routePath,
+          builder: (context, params) => GoldenTrianglewithKashmir2Widget(),
+        ),
+        FFRoute(
+          name: GoldenTrianglewithKashmirWidget.routeName,
+          path: GoldenTrianglewithKashmirWidget.routePath,
+          builder: (context, params) => GoldenTrianglewithKashmirWidget(),
+        ),
+        FFRoute(
+          name: GoldenTrianglewithkeralaandMumbaiWidget.routeName,
+          path: GoldenTrianglewithkeralaandMumbaiWidget.routePath,
+          builder: (context, params) =>
+              GoldenTrianglewithkeralaandMumbaiWidget(),
+        ),
+        FFRoute(
+          name: GoldenTrianglewithRanthamboreWidget.routeName,
+          path: GoldenTrianglewithRanthamboreWidget.routePath,
+          builder: (context, params) => GoldenTrianglewithRanthamboreWidget(),
+        ),
+        FFRoute(
+          name: IndianHeritageTourwithTajmahalWidget.routeName,
+          path: IndianHeritageTourwithTajmahalWidget.routePath,
+          builder: (context, params) => IndianHeritageTourwithTajmahalWidget(),
+        ),
+        FFRoute(
+          name: PushkarFairTourwithgoldenTriangleWidget.routeName,
+          path: PushkarFairTourwithgoldenTriangleWidget.routePath,
+          builder: (context, params) =>
+              PushkarFairTourwithgoldenTriangleWidget(),
+        ),
+        FFRoute(
+          name: MagicalAndamansTourPackageWidget.routeName,
+          path: MagicalAndamansTourPackageWidget.routePath,
+          builder: (context, params) => MagicalAndamansTourPackageWidget(),
+        ),
+        FFRoute(
+          name: CulinaryToursKeralaWidget.routeName,
+          path: CulinaryToursKeralaWidget.routePath,
+          builder: (context, params) => CulinaryToursKeralaWidget(),
+        ),
+        FFRoute(
+          name: EnchantingKeralaTourWidget.routeName,
+          path: EnchantingKeralaTourWidget.routePath,
+          builder: (context, params) => EnchantingKeralaTourWidget(),
+        ),
+        FFRoute(
+          name: ExoticKeralaTourWidget.routeName,
+          path: ExoticKeralaTourWidget.routePath,
+          builder: (context, params) => ExoticKeralaTourWidget(),
+        ),
+        FFRoute(
+          name: KeralaGodsOwnCountryWidget.routeName,
+          path: KeralaGodsOwnCountryWidget.routePath,
+          builder: (context, params) => KeralaGodsOwnCountryWidget(),
+        ),
+        FFRoute(
+          name: KeralaHouseboatTourWidget.routeName,
+          path: KeralaHouseboatTourWidget.routePath,
+          builder: (context, params) => KeralaHouseboatTourWidget(),
+        ),
+        FFRoute(
+          name: TheTemplesandRuinsofMedievalSouthIndiaWidget.routeName,
+          path: TheTemplesandRuinsofMedievalSouthIndiaWidget.routePath,
+          builder: (context, params) =>
+              TheTemplesandRuinsofMedievalSouthIndiaWidget(),
+        ),
+        FFRoute(
+          name: GoaBeachTourPackageWidget.routeName,
+          path: GoaBeachTourPackageWidget.routePath,
+          builder: (context, params) => GoaBeachTourPackageWidget(),
+        ),
+        FFRoute(
+          name: GoaCarnivalTourWidget.routeName,
+          path: GoaCarnivalTourWidget.routePath,
+          builder: (context, params) => GoaCarnivalTourWidget(),
+        ),
+        FFRoute(
+          name: SimplyGoaWidget.routeName,
+          path: SimplyGoaWidget.routePath,
+          builder: (context, params) => SimplyGoaWidget(),
+        ),
+        FFRoute(
+          name: TempleandSpiceswithGoaWidget.routeName,
+          path: TempleandSpiceswithGoaWidget.routePath,
+          builder: (context, params) => TempleandSpiceswithGoaWidget(),
+        ),
+        FFRoute(
+          name: AdventureTourPackageIndiaWidget.routeName,
+          path: AdventureTourPackageIndiaWidget.routePath,
+          builder: (context, params) => AdventureTourPackageIndiaWidget(),
+        ),
+        FFRoute(
+          name: AyurvedaYogaTourPackageIndiaWidget.routeName,
+          path: AyurvedaYogaTourPackageIndiaWidget.routePath,
+          builder: (context, params) => AyurvedaYogaTourPackageIndiaWidget(),
+        ),
+        FFRoute(
+          name: CulturalTourPackagesIndiaWidget.routeName,
+          path: CulturalTourPackagesIndiaWidget.routePath,
+          builder: (context, params) => CulturalTourPackagesIndiaWidget(),
+        ),
+        FFRoute(
+          name: HillStationsTourPackagesWidget.routeName,
+          path: HillStationsTourPackagesWidget.routePath,
+          builder: (context, params) => HillStationsTourPackagesWidget(),
+        ),
+        FFRoute(
+          name: HimalayasTourPackagesWidget.routeName,
+          path: HimalayasTourPackagesWidget.routePath,
+          builder: (context, params) => HimalayasTourPackagesWidget(),
+        ),
+        FFRoute(
+          name: IndiaBeachesTourPackagesWidget.routeName,
+          path: IndiaBeachesTourPackagesWidget.routePath,
+          builder: (context, params) => IndiaBeachesTourPackagesWidget(),
+        ),
+        FFRoute(
+          name: KumbhMelaTourPackagesWidget.routeName,
+          path: KumbhMelaTourPackagesWidget.routePath,
+          builder: (context, params) => KumbhMelaTourPackagesWidget(),
+        ),
+        FFRoute(
+          name: PushkarFairTourPackagesWidget.routeName,
+          path: PushkarFairTourPackagesWidget.routePath,
+          builder: (context, params) => PushkarFairTourPackagesWidget(),
+        ),
+        FFRoute(
+          name: SpiritualTourPackagesWidget.routeName,
+          path: SpiritualTourPackagesWidget.routePath,
+          builder: (context, params) => SpiritualTourPackagesWidget(),
+        ),
+        FFRoute(
+          name: TrekkingTourPackagesWidget.routeName,
+          path: TrekkingTourPackagesWidget.routePath,
+          builder: (context, params) => TrekkingTourPackagesWidget(),
+        ),
+        FFRoute(
+          name: TribalTourPackagesWidget.routeName,
+          path: TribalTourPackagesWidget.routePath,
+          builder: (context, params) => TribalTourPackagesWidget(),
+        ),
+        FFRoute(
+          name: WildlifeTourPackagesIndiaWidget.routeName,
+          path: WildlifeTourPackagesIndiaWidget.routePath,
+          builder: (context, params) => WildlifeTourPackagesIndiaWidget(),
+        ),
+        FFRoute(
+          name: BestofNorthIndiaPilgrimageTourWidget.routeName,
+          path: BestofNorthIndiaPilgrimageTourWidget.routePath,
+          builder: (context, params) => BestofNorthIndiaPilgrimageTourWidget(),
+        ),
+        FFRoute(
+          name: CamelSafariTourIndiaNorthIndianToursWidget.routeName,
+          path: CamelSafariTourIndiaNorthIndianToursWidget.routePath,
+          builder: (context, params) =>
+              CamelSafariTourIndiaNorthIndianToursWidget(),
+        ),
+        FFRoute(
+          name: ClassicalNorthIndiaTourWidget.routeName,
+          path: ClassicalNorthIndiaTourWidget.routePath,
+          builder: (context, params) => ClassicalNorthIndiaTourWidget(),
+        ),
+        FFRoute(
+          name: ClassicalNorthIndiaTourwithNepalWidget.routeName,
+          path: ClassicalNorthIndiaTourwithNepalWidget.routePath,
+          builder: (context, params) =>
+              ClassicalNorthIndiaTourwithNepalWidget(),
+        ),
+        FFRoute(
+          name: ClassicIndianHeritageTourNorthIndianTourWidget.routeName,
+          path: ClassicIndianHeritageTourNorthIndianTourWidget.routePath,
+          builder: (context, params) =>
+              ClassicIndianHeritageTourNorthIndianTourWidget(),
+        ),
+        FFRoute(
+          name: ColourfulHeritageTourRajasthanWidget.routeName,
+          path: ColourfulHeritageTourRajasthanWidget.routePath,
+          builder: (context, params) => ColourfulHeritageTourRajasthanWidget(),
+        ),
+        FFRoute(
+          name: EnchantingTempleandWildlifeTourWidget.routeName,
+          path: EnchantingTempleandWildlifeTourWidget.routePath,
+          builder: (context, params) => EnchantingTempleandWildlifeTourWidget(),
+        ),
+        FFRoute(
+          name: GoldenTrianglewithRanthamboreNorthIndianToursWidget.routeName,
+          path: GoldenTrianglewithRanthamboreNorthIndianToursWidget.routePath,
+          builder: (context, params) =>
+              GoldenTrianglewithRanthamboreNorthIndianToursWidget(),
+        ),
+        FFRoute(
+          name: IncredibleIndiaTourWidget.routeName,
+          path: IncredibleIndiaTourWidget.routePath,
+          builder: (context, params) => IncredibleIndiaTourWidget(),
+        ),
+        FFRoute(
+          name: PushkarFairSpecialTourPackageWidget.routeName,
+          path: PushkarFairSpecialTourPackageWidget.routePath,
+          builder: (context, params) => PushkarFairSpecialTourPackageWidget(),
+        ),
+        FFRoute(
+          name: RajasthanFortsandPalacesTourNorthIndianToursWidget.routeName,
+          path: RajasthanFortsandPalacesTourNorthIndianToursWidget.routePath,
+          builder: (context, params) =>
+              RajasthanFortsandPalacesTourNorthIndianToursWidget(),
+        ),
+        FFRoute(
+          name: RuralRajasthanTourPackageWidget.routeName,
+          path: RuralRajasthanTourPackageWidget.routePath,
+          builder: (context, params) => RuralRajasthanTourPackageWidget(),
+        ),
+        FFRoute(
+          name: SplendoursofRajasthanNorthIndianToursWidget.routeName,
+          path: SplendoursofRajasthanNorthIndianToursWidget.routePath,
+          builder: (context, params) =>
+              SplendoursofRajasthanNorthIndianToursWidget(),
+        ),
+        FFRoute(
+          name: FoothillsofHimalayaswithGoldenTempleNorthIndianToursWidget
+              .routeName,
+          path: FoothillsofHimalayaswithGoldenTempleNorthIndianToursWidget
+              .routePath,
+          builder: (context, params) =>
+              FoothillsofHimalayaswithGoldenTempleNorthIndianToursWidget(),
+        ),
+        FFRoute(
+          name: AdventureTourIndiaAdventureTourPackagesWidget.routeName,
+          path: AdventureTourIndiaAdventureTourPackagesWidget.routePath,
+          builder: (context, params) =>
+              AdventureTourIndiaAdventureTourPackagesWidget(),
+        ),
+        FFRoute(
+          name: BhagpuraTrekWidget.routeName,
+          path: BhagpuraTrekWidget.routePath,
+          builder: (context, params) => BhagpuraTrekWidget(),
+        ),
+        FFRoute(
+          name: CamelSafariTourIndiaCopyAdventureTourPackagesWidget.routeName,
+          path: CamelSafariTourIndiaCopyAdventureTourPackagesWidget.routePath,
+          builder: (context, params) =>
+              CamelSafariTourIndiaCopyAdventureTourPackagesWidget(),
+        ),
+        FFRoute(
+          name: ChanderkhaniPassTrekWidget.routeName,
+          path: ChanderkhaniPassTrekWidget.routePath,
+          builder: (context, params) => ChanderkhaniPassTrekWidget(),
+        ),
+        FFRoute(
+          name: ExploreRuralRajasthanByHorseandJeepSafarisAdventureToursWidget
+              .routeName,
+          path: ExploreRuralRajasthanByHorseandJeepSafarisAdventureToursWidget
+              .routePath,
+          builder: (context, params) =>
+              ExploreRuralRajasthanByHorseandJeepSafarisAdventureToursWidget(),
+        ),
+        FFRoute(
+          name: InderharaPassTrekWidget.routeName,
+          path: InderharaPassTrekWidget.routePath,
+          builder: (context, params) => InderharaPassTrekWidget(),
+        ),
+        FFRoute(
+          name: LakaGlacierTrekWidget.routeName,
+          path: LakaGlacierTrekWidget.routePath,
+          builder: (context, params) => LakaGlacierTrekWidget(),
+        ),
+        FFRoute(
+          name: MotorcycleTourofPangiValleyWidget.routeName,
+          path: MotorcycleTourofPangiValleyWidget.routePath,
+          builder: (context, params) => MotorcycleTourofPangiValleyWidget(),
+        ),
+        FFRoute(
+          name: NaganGiriGangaTrekWidget.routeName,
+          path: NaganGiriGangaTrekWidget.routePath,
+          builder: (context, params) => NaganGiriGangaTrekWidget(),
+        ),
+        FFRoute(
+          name: TransHimalayanMotorcycleCulturalTourWidget.routeName,
+          path: TransHimalayanMotorcycleCulturalTourWidget.routePath,
+          builder: (context, params) =>
+              TransHimalayanMotorcycleCulturalTourWidget(),
+        ),
+        FFRoute(
+          name: TribalExperienceofChhattisgarhWidget.routeName,
+          path: TribalExperienceofChhattisgarhWidget.routePath,
+          builder: (context, params) => TribalExperienceofChhattisgarhWidget(),
+        ),
+        FFRoute(
+          name: TribalTrailTourWidget.routeName,
+          path: TribalTrailTourWidget.routePath,
+          builder: (context, params) => TribalTrailTourWidget(),
+        ),
+        FFRoute(
+          name: BrahmaputraMaximumWidget.routeName,
+          path: BrahmaputraMaximumWidget.routePath,
+          builder: (context, params) => BrahmaputraMaximumWidget(),
+        ),
+        FFRoute(
+          name: BrahmaputraTasterWidget.routeName,
+          path: BrahmaputraTasterWidget.routePath,
+          builder: (context, params) => BrahmaputraTasterWidget(),
+        ),
+        FFRoute(
+          name: RhinosMoreWidget.routeName,
+          path: RhinosMoreWidget.routePath,
+          builder: (context, params) => RhinosMoreWidget(),
+        ),
+        FFRoute(
+          name: RiverIslandCruiseWidget.routeName,
+          path: RiverIslandCruiseWidget.routePath,
+          builder: (context, params) => RiverIslandCruiseWidget(),
+        ),
+        FFRoute(
+          name: SilkRhinosWidget.routeName,
+          path: SilkRhinosWidget.routePath,
+          builder: (context, params) => SilkRhinosWidget(),
+        ),
+        FFRoute(
+          name: BengalMemoriesWidget.routeName,
+          path: BengalMemoriesWidget.routePath,
+          builder: (context, params) => BengalMemoriesWidget(),
+        ),
+        FFRoute(
+          name: CityofLightAVaranasiSummerWidget.routeName,
+          path: CityofLightAVaranasiSummerWidget.routePath,
+          builder: (context, params) => CityofLightAVaranasiSummerWidget(),
+        ),
+        FFRoute(
+          name: TheHistoricHooghlyLowerGangesWidget.routeName,
+          path: TheHistoricHooghlyLowerGangesWidget.routePath,
+          builder: (context, params) => TheHistoricHooghlyLowerGangesWidget(),
+        ),
+        FFRoute(
+          name: TheHistoricHooghlyLowerGanges2Widget.routeName,
+          path: TheHistoricHooghlyLowerGanges2Widget.routePath,
+          builder: (context, params) => TheHistoricHooghlyLowerGanges2Widget(),
+        ),
+        FFRoute(
+          name: TheHolyGangesWidget.routeName,
+          path: TheHolyGangesWidget.routePath,
+          builder: (context, params) => TheHolyGangesWidget(),
+        ),
+        FFRoute(
+          name: TheHolyGanges2Widget.routeName,
+          path: TheHolyGanges2Widget.routePath,
+          builder: (context, params) => TheHolyGanges2Widget(),
+        ),
+        FFRoute(
+          name: CulturalEastIndiaTourWidget.routeName,
+          path: CulturalEastIndiaTourWidget.routePath,
+          builder: (context, params) => CulturalEastIndiaTourWidget(),
+        ),
+        FFRoute(
+          name: FixedSummerHimalayanTourWidget.routeName,
+          path: FixedSummerHimalayanTourWidget.routePath,
+          builder: (context, params) => FixedSummerHimalayanTourWidget(),
+        ),
+        FFRoute(
+          name: KeralaAyurvedicTourWidget.routeName,
+          path: KeralaAyurvedicTourWidget.routePath,
+          builder: (context, params) => KeralaAyurvedicTourWidget(),
+        ),
+        FFRoute(
+          name: LadakhMonasteriesTreksWidget.routeName,
+          path: LadakhMonasteriesTreksWidget.routePath,
+          builder: (context, params) => LadakhMonasteriesTreksWidget(),
+        ),
+        FFRoute(
+          name: PalaceonWheelstourWidget.routeName,
+          path: PalaceonWheelstourWidget.routePath,
+          builder: (context, params) => PalaceonWheelstourWidget(),
+        ),
+        FFRoute(
+          name: RajasthanfortsandpalacesWidget.routeName,
+          path: RajasthanfortsandpalacesWidget.routePath,
+          builder: (context, params) => RajasthanfortsandpalacesWidget(),
+        ),
+        FFRoute(
+          name: TwoCulturesKarnatakaKeralaWidget.routeName,
+          path: TwoCulturesKarnatakaKeralaWidget.routePath,
+          builder: (context, params) => TwoCulturesKarnatakaKeralaWidget(),
+        ),
+        FFRoute(
+          name: WildlifetourofSouthIndiaWidget.routeName,
+          path: WildlifetourofSouthIndiaWidget.routePath,
+          builder: (context, params) => WildlifetourofSouthIndiaWidget(),
+        ),
+        FFRoute(
+          name: IndiaTourPackagesWidget.routeName,
+          path: IndiaTourPackagesWidget.routePath,
+          builder: (context, params) => IndiaTourPackagesWidget(),
+        ),
+        FFRoute(
+          name: JammuKashmirTourPackagesWidget.routeName,
+          path: JammuKashmirTourPackagesWidget.routePath,
+          builder: (context, params) => JammuKashmirTourPackagesWidget(),
+        ),
+        FFRoute(
+          name: LadakhTourPackagesWidget.routeName,
+          path: LadakhTourPackagesWidget.routePath,
+          builder: (context, params) => LadakhTourPackagesWidget(),
+        ),
+        FFRoute(
+          name: TheTreasuresofIndiaandNepalWidget.routeName,
+          path: TheTreasuresofIndiaandNepalWidget.routePath,
+          builder: (context, params) => TheTreasuresofIndiaandNepalWidget(),
+        ),
+        FFRoute(
+          name: HoneymoonTourPackagesWidget.routeName,
+          path: HoneymoonTourPackagesWidget.routePath,
+          builder: (context, params) => HoneymoonTourPackagesWidget(),
+        ),
+        FFRoute(
+          name: TempleandSpiceTourWidget.routeName,
+          path: TempleandSpiceTourWidget.routePath,
+          builder: (context, params) => TempleandSpiceTourWidget(),
+        ),
+        FFRoute(
+          name: SouthIndiaTourPackagesWidget.routeName,
+          path: SouthIndiaTourPackagesWidget.routePath,
+          builder: (context, params) => SouthIndiaTourPackagesWidget(),
+        ),
+        FFRoute(
+          name: SouthIndiaTempleTourWidget.routeName,
+          path: SouthIndiaTempleTourWidget.routePath,
+          builder: (context, params) => SouthIndiaTempleTourWidget(),
+        ),
+        FFRoute(
+          name: CulinaryTourofGodsOwnCountryKeralaWidget.routeName,
+          path: CulinaryTourofGodsOwnCountryKeralaWidget.routePath,
+          builder: (context, params) =>
+              CulinaryTourofGodsOwnCountryKeralaWidget(),
+        ),
+        FFRoute(
+          name: BestofTwoCulturesKarnatakaKeralaWidget.routeName,
+          path: BestofTwoCulturesKarnatakaKeralaWidget.routePath,
+          builder: (context, params) =>
+              BestofTwoCulturesKarnatakaKeralaWidget(),
+        ),
+        FFRoute(
+          name: AnglingTourIndiaWidget.routeName,
+          path: AnglingTourIndiaWidget.routePath,
+          builder: (context, params) => AnglingTourIndiaWidget(),
+        ),
+        FFRoute(
+          name: AdventureToursIndiapackageWidget.routeName,
+          path: AdventureToursIndiapackageWidget.routePath,
+          builder: (context, params) => AdventureToursIndiapackageWidget(),
+        ),
+        FFRoute(
+          name: GrandEastHimalayanTourWidget.routeName,
+          path: GrandEastHimalayanTourWidget.routePath,
+          builder: (context, params) => GrandEastHimalayanTourWidget(),
+        ),
+        FFRoute(
+          name: AssamValleyTourWidget.routeName,
+          path: AssamValleyTourWidget.routePath,
+          builder: (context, params) => AssamValleyTourWidget(),
+        ),
+        FFRoute(
+          name: GrandEastHimalayanTour05DaysWidget.routeName,
+          path: GrandEastHimalayanTour05DaysWidget.routePath,
+          builder: (context, params) => GrandEastHimalayanTour05DaysWidget(),
+        ),
+        FFRoute(
+          name: GrandEastHimalayanTourwithKolkataWidget.routeName,
+          path: GrandEastHimalayanTourwithKolkataWidget.routePath,
+          builder: (context, params) =>
+              GrandEastHimalayanTourwithKolkataWidget(),
+        ),
+        FFRoute(
+          name: BestofSikkimBhutanTourWidget.routeName,
+          path: BestofSikkimBhutanTourWidget.routePath,
+          builder: (context, params) => BestofSikkimBhutanTourWidget(),
+        ),
+        FFRoute(
+          name: EastIndiaTempleTourWidget.routeName,
+          path: EastIndiaTempleTourWidget.routePath,
+          builder: (context, params) => EastIndiaTempleTourWidget(),
+        ),
+        FFRoute(
+          name: GrandEastHimalayanwithDelhiDelightTourWidget.routeName,
+          path: GrandEastHimalayanwithDelhiDelightTourWidget.routePath,
+          builder: (context, params) =>
+              GrandEastHimalayanwithDelhiDelightTourWidget(),
+        ),
+        FFRoute(
+          name: GreenTriangleTourWidget.routeName,
+          path: GreenTriangleTourWidget.routePath,
+          builder: (context, params) => GreenTriangleTourWidget(),
+        ),
+        FFRoute(
+          name: MajesticTourWidget.routeName,
+          path: MajesticTourWidget.routePath,
+          builder: (context, params) => MajesticTourWidget(),
+        ),
+        FFRoute(
+          name: StandardOrissaTourWidget.routeName,
+          path: StandardOrissaTourWidget.routePath,
+          builder: (context, params) => StandardOrissaTourWidget(),
+        ),
+        FFRoute(
+          name: TeaCountryTourWidget.routeName,
+          path: TeaCountryTourWidget.routePath,
+          builder: (context, params) => TeaCountryTourWidget(),
+        ),
+        FFRoute(
+          name: TheKingdomsTourWidget.routeName,
+          path: TheKingdomsTourWidget.routePath,
+          builder: (context, params) => TheKingdomsTourWidget(),
+        ),
+        FFRoute(
+          name: WondersofEastHimalayasWidget.routeName,
+          path: WondersofEastHimalayasWidget.routePath,
+          builder: (context, params) => WondersofEastHimalayasWidget(),
+        ),
+        FFRoute(
+          name: GoaTourPackageWidget.routeName,
+          path: GoaTourPackageWidget.routePath,
+          builder: (context, params) => GoaTourPackageWidget(),
+        ),
+        FFRoute(
+          name: KeralaTourPackagesWidget.routeName,
+          path: KeralaTourPackagesWidget.routePath,
+          builder: (context, params) => KeralaTourPackagesWidget(),
+        ),
+        FFRoute(
+          name: NorthEastIndiaTourPackagesWidget.routeName,
+          path: NorthEastIndiaTourPackagesWidget.routePath,
+          builder: (context, params) => NorthEastIndiaTourPackagesWidget(),
+        ),
+        FFRoute(
+          name: NorthIndiaTourPackagesWidget.routeName,
+          path: NorthIndiaTourPackagesWidget.routePath,
+          builder: (context, params) => NorthIndiaTourPackagesWidget(),
+        ),
+        FFRoute(
+          name: WestIndiaTourPackagesWidget.routeName,
+          path: WestIndiaTourPackagesWidget.routePath,
+          builder: (context, params) => WestIndiaTourPackagesWidget(),
+        ),
+        FFRoute(
+          name: BrahmaputracruisespackagesWidget.routeName,
+          path: BrahmaputracruisespackagesWidget.routePath,
+          builder: (context, params) => BrahmaputracruisespackagesWidget(),
+        ),
+        FFRoute(
+          name: GangesrivercruisespackagesWidget.routeName,
+          path: GangesrivercruisespackagesWidget.routePath,
+          builder: (context, params) => GangesrivercruisespackagesWidget(),
+        ),
+        FFRoute(
+          name: GoldenTriangleTourPackagesWidget.routeName,
+          path: GoldenTriangleTourPackagesWidget.routePath,
+          builder: (context, params) => GoldenTriangleTourPackagesWidget(),
+        ),
+        FFRoute(
+          name: PushkarFairTourWidget.routeName,
+          path: PushkarFairTourWidget.routePath,
+          builder: (context, params) => PushkarFairTourWidget(),
+        ) 
           ].map((r) => r.toRoute(appStateNotifier)).toList(),
         ),
       ].map((r) => r.toRoute(appStateNotifier)).toList(),
