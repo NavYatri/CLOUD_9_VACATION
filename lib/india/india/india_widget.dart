@@ -790,7 +790,7 @@ class _IndiaWidgetState extends State<IndiaWidget> {
                                                             0.0, 0.0),
                                                     child: FFButtonWidget(
                                                       onPressed: () async {
-                                                        context.pushNamed(goldenTrianglewithRanthambore);
+                                                        context.pushNamed(GoldenTrianglewithRanthamboreWidget.routeName);
                                                       },
                                                       text: 'View details',
                                                       options: FFButtonOptions(
