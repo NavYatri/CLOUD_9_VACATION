@@ -71,7 +71,7 @@ class _KargilWidgetState extends State<KargilWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://t4.ftcdn.net/jpg/07/99/69/37/240_F_799693719_2UiVUMzoHXTNXa9XRLQZpBj3BjJLOcmG.jpg',
+                                    'https://s7ap1.scene7.com/is/image/incredibleindia/red-fort-delhi1-attr-hero?qlt=82&ts=1727352314555',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

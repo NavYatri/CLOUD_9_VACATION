@@ -71,7 +71,7 @@ class _AhmedabadWidgetState extends State<AhmedabadWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://media1.thrillophilia.com/filestore/oqkxhpl68fpc5s83ycccevd3maak_1582789630_shutterstock_1317845540.jpg',
+                                    'https://images.pexels.com/photos/926574/pexels-photo-926574.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

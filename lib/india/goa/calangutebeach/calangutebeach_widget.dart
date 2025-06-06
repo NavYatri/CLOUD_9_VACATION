@@ -71,7 +71,7 @@ class _CalangutebeachWidgetState extends State<CalangutebeachWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://oneboard.app/_next/static/media/baghabeach.e23ac324.webp',
+                                    'https://t3.ftcdn.net/jpg/03/36/45/58/240_F_336455865_7HhAx5R79mmCRAVSxCBuWxoOpoLIMQRK.jpg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,

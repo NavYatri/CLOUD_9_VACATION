@@ -71,7 +71,7 @@ class _ArtGalleriesWidgetState extends State<ArtGalleriesWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://www.delhimetrotimes.com/photos/2020/12/best-art-galleries-in-delhi.jpg',
+                                    'https://s7ap1.scene7.com/is/image/incredibleindia/red-fort-delhi1-attr-hero?qlt=82&ts=1727352314555',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

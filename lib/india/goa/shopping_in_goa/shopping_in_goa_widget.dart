@@ -71,7 +71,7 @@ class _ShoppingInGoaWidgetState extends State<ShoppingInGoaWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://www.holidify.com/images/cmsuploads/compressed/6611127619_ab0281706c_o_20191122134634.jpg',
+                                    'https://t3.ftcdn.net/jpg/03/36/45/58/240_F_336455865_7HhAx5R79mmCRAVSxCBuWxoOpoLIMQRK.jpg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

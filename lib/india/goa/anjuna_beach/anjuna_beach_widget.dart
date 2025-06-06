@@ -71,7 +71,7 @@ class _AnjunaBeachWidgetState extends State<AnjunaBeachWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://d26dp53kz39178.cloudfront.net/media/uploads/Travel_Guide_Images/Anjuna_Beach_result_S9tNVGM.webp',
+                                    'https://t3.ftcdn.net/jpg/03/36/45/58/240_F_336455865_7HhAx5R79mmCRAVSxCBuWxoOpoLIMQRK.jpg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

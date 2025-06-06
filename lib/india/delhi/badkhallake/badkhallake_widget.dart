@@ -71,7 +71,7 @@ class _BadkhallakeWidgetState extends State<BadkhallakeWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://content3.jdmagicbox.com/comp/faridabad/p5/011pxx11.xx11.141218114652.k7p5/catalogue/badkhal-lake-badkhal-faridabad-tourist-attraction-pd2s8zwojj.jpg',
+                                    'https://s7ap1.scene7.com/is/image/incredibleindia/red-fort-delhi1-attr-hero?qlt=82&ts=1727352314555',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

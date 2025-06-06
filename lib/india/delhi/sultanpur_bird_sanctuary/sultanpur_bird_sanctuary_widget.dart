@@ -73,7 +73,7 @@ class _SultanpurBirdSanctuaryWidgetState
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://m.dainiktribuneonline.com/sortd-service/imaginary/v22-01/jpg/large/high?url=ZGFpbmlrdHJpYnVuZW9ubGluZS1tZWRpb2xvZ3ktaW4tcHJvZC1zb3J0ZC9tZWRpYTQ4NmI2OTIwLWJiM2UtMTFlZi05OTIxLWJmNzYyZWY2NmVmNS5qcGc=',
+                                    'https://s7ap1.scene7.com/is/image/incredibleindia/red-fort-delhi1-attr-hero?qlt=82&ts=1727352314555',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,

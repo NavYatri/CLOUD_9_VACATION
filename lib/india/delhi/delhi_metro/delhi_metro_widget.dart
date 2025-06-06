@@ -71,7 +71,7 @@ class _DelhiMetroWidgetState extends State<DelhiMetroWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://images.livemint.com/img/2021/09/13/1600x900/f6007916-f75e-11ea-b2bb-535a8d08f761_1600404350838_1631496999331.jpg',
+                                    'https://s7ap1.scene7.com/is/image/incredibleindia/red-fort-delhi1-attr-hero?qlt=82&ts=1727352314555',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

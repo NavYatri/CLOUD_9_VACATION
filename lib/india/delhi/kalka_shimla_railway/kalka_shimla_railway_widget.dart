@@ -72,7 +72,7 @@ class _KalkaShimlaRailwayWidgetState extends State<KalkaShimlaRailwayWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://media.istockphoto.com/id/1224392597/photo/after-snowfall-kalka-shimla-railway-is-a-beautiful-place-in-india.jpg?s=612x612&w=0&k=20&c=_Brr2sB4Amjr2R9j2kjDcuA6b0OH6IybCd1JvcaMBkw=',
+                                    'https://s7ap1.scene7.com/is/image/incredibleindia/red-fort-delhi1-attr-hero?qlt=82&ts=1727352314555',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

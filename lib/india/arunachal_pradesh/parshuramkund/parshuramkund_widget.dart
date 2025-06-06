@@ -71,7 +71,7 @@ class _ParshuramkundWidgetState extends State<ParshuramkundWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-115660225/115660225.jpg',
+                                    'https://easternroutes.fr/wp-content/uploads/2017/12/Sela_Pass_Gate-Tawang-Arunachal_Pradesh.jpg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,

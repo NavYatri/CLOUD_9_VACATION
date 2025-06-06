@@ -71,7 +71,7 @@ class _JantarMantarWidgetState extends State<JantarMantarWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://www.thepinkcityholidays.com/wp-content/uploads/2023/03/jantar-mantar-jaipur-1200x480.jpg',
+                                    'https://s7ap1.scene7.com/is/image/incredibleindia/red-fort-delhi1-attr-hero?qlt=82&ts=1727352314555',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

@@ -71,7 +71,7 @@ class _SohnaHillsWidgetState extends State<SohnaHillsWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://media2.thrillophilia.com/images/photos/000/175/010/original/1573546986_culture-of-haryana-1024x640.jpg?w=753&h=450&dpr=1.5',
+                                    'https://s7ap1.scene7.com/is/image/incredibleindia/red-fort-delhi1-attr-hero?qlt=82&ts=1727352314555',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

@@ -71,7 +71,7 @@ class _IskonTempleWidgetState extends State<IskonTempleWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://delhitourism.travel/images/places-to-visit/headers/iskcon-temple-delhi-entry-fee-timings-holidays-reviews-header.jpg',
+                                    'https://s7ap1.scene7.com/is/image/incredibleindia/red-fort-delhi1-attr-hero?qlt=82&ts=1727352314555',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

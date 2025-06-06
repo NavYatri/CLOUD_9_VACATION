@@ -71,7 +71,7 @@ class _BhismaknagarWidgetState extends State<BhismaknagarWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://www.capertravelindia.com/images/arunachal-pradesh2.jpg',
+                                    'https://easternroutes.fr/wp-content/uploads/2017/12/Sela_Pass_Gate-Tawang-Arunachal_Pradesh.jpg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

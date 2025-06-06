@@ -71,7 +71,7 @@ class _RedfortWidgetState extends State<RedfortWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://thumbs.dreamstime.com/b/red-fort-delhi-india-red-fort-historic-fort-city-delhi-india-was-main-residence-emperors-138092261.jpg',
+                                    'https://s7ap1.scene7.com/is/image/incredibleindia/red-fort-delhi1-attr-hero?qlt=82&ts=1727352314555',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

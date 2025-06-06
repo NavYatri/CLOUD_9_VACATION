@@ -71,7 +71,7 @@ class _StadiumsWidgetState extends State<StadiumsWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://i0.wp.com/blogsfeast.com/wp-content/uploads/2023/02/Jawahar-Lal-Nehru-Stadium.jpg?resize=640%2C313&ssl=1',
+                                    'https://s7ap1.scene7.com/is/image/incredibleindia/red-fort-delhi1-attr-hero?qlt=82&ts=1727352314555',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

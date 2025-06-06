@@ -71,7 +71,7 @@ class _AkshardhamTempleWidgetState extends State<AkshardhamTempleWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://akshardham.com/gujarat/wp-content/uploads/2017/07/fact-figures-MMCL1054.jpg',
+                                    'https://s7ap1.scene7.com/is/image/incredibleindia/red-fort-delhi1-attr-hero?qlt=82&ts=1727352314555',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

@@ -72,7 +72,7 @@ class _RastrapathibhawanWidgetState extends State<RastrapathibhawanWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://i0.wp.com/www.opindia.com/wp-content/uploads/2024/07/rashtrapatibhavan-e1721900826957.jpg?fit=700%2C394&ssl=1',
+                                    'https://s7ap1.scene7.com/is/image/incredibleindia/red-fort-delhi1-attr-hero?qlt=82&ts=1727352314555',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,

@@ -73,7 +73,7 @@ class _RiverCruiseatBrahmaputraWidgetState
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://adventurerivercruises.com/wp-content/uploads/2019/11/Brahmaputra-River-Assam-23-1160x773.jpg',
+                                    'https://images.cnbctv18.com/wp-content/uploads/2022/09/Assam-1024x576.jpg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,
@@ -143,128 +143,6 @@ class _RiverCruiseatBrahmaputraWidgetState
                               mainAxisSize: MainAxisSize.max,
                               crossAxisAlignment: CrossAxisAlignment.start,
                               children: [
-                                Column(
-                                  mainAxisSize: MainAxisSize.max,
-                                  crossAxisAlignment: CrossAxisAlignment.start,
-                                  children: [
-                                    Align(
-                                      alignment: AlignmentDirectional(0.0, 0.0),
-                                      child: Text(
-                                        'Brahmaputra River Cruising: A Heavenly Experience',
-                                        textAlign: TextAlign.center,
-                                        style: FlutterFlowTheme.of(context)
-                                            .bodyMedium
-                                            .override(
-                                              font: GoogleFonts.inriaSerif(
-                                                fontWeight:
-                                                    FlutterFlowTheme.of(context)
-                                                        .bodyMedium
-                                                        .fontWeight,
-                                                fontStyle:
-                                                    FlutterFlowTheme.of(context)
-                                                        .bodyMedium
-                                                        .fontStyle,
-                                              ),
-                                              color: Color(0xFFD39F47),
-                                              fontSize: 20.0,
-                                              letterSpacing: 0.0,
-                                              fontWeight:
-                                                  FlutterFlowTheme.of(context)
-                                                      .bodyMedium
-                                                      .fontWeight,
-                                              fontStyle:
-                                                  FlutterFlowTheme.of(context)
-                                                      .bodyMedium
-                                                      .fontStyle,
-                                            ),
-                                      ),
-                                    ),
-                                    Row(
-                                      mainAxisSize: MainAxisSize.max,
-                                      mainAxisAlignment:
-                                          MainAxisAlignment.spaceAround,
-                                      crossAxisAlignment:
-                                          CrossAxisAlignment.center,
-                                      children: [
-                                        Container(
-                                          width: 450.0,
-                                          decoration: BoxDecoration(),
-                                          child: RichText(
-                                            textScaler: MediaQuery.of(context)
-                                                .textScaler,
-                                            text: TextSpan(
-                                              children: [
-                                                TextSpan(
-                                                  text:
-                                                      'Introduction\n\nRiver cruising offers one of the best ways to experience the natural beauty of any area, and cruising along the Brahmaputra River is no exception. The soothing environment, calm waters, and serene surroundings create an aura that offers a truly spiritual experience. As you glide over this majestic river, your soul will connect with the landscape in a way that cannot be expressed in words',
-                                                  style:
-                                                      GoogleFonts.inriaSerif(),
-                                                )
-                                              ],
-                                              style:
-                                                  FlutterFlowTheme.of(context)
-                                                      .bodyMedium
-                                                      .override(
-                                                        fontFamily:
-                                                            FlutterFlowTheme.of(
-                                                                    context)
-                                                                .bodyMediumFamily,
-                                                        fontSize: 14.0,
-                                                        letterSpacing: 0.0,
-                                                        useGoogleFonts:
-                                                            !FlutterFlowTheme
-                                                                    .of(context)
-                                                                .bodyMediumIsCustom,
-                                                      ),
-                                            ),
-                                          ),
-                                        ),
-                                        SizedBox(
-                                          height: 150.0,
-                                          child: VerticalDivider(
-                                            thickness: 3.0,
-                                            color: Color(0xFFDDA850),
-                                          ),
-                                        ),
-                                        Container(
-                                          width: 450.0,
-                                          decoration: BoxDecoration(),
-                                          child: Text(
-                                            ' The experience combines luxury, comfort, and the beauty of nature, making it a must-do adventure for anyone visiting Assam. The Brahmaputra, often called a \"mini sea,\" provides a unique and unforgettable experience that is both serene and thrilling for nature and adventure lovers alike',
-                                            style: FlutterFlowTheme.of(context)
-                                                .bodyMedium
-                                                .override(
-                                                  font: GoogleFonts.inriaSerif(
-                                                    fontWeight:
-                                                        FlutterFlowTheme.of(
-                                                                context)
-                                                            .bodyMedium
-                                                            .fontWeight,
-                                                    fontStyle:
-                                                        FlutterFlowTheme.of(
-                                                                context)
-                                                            .bodyMedium
-                                                            .fontStyle,
-                                                  ),
-                                                  fontSize: 14.0,
-                                                  letterSpacing: 0.0,
-                                                  fontWeight:
-                                                      FlutterFlowTheme.of(
-                                                              context)
-                                                          .bodyMedium
-                                                          .fontWeight,
-                                                  fontStyle:
-                                                      FlutterFlowTheme.of(
-                                                              context)
-                                                          .bodyMedium
-                                                          .fontStyle,
-                                                ),
-                                          ),
-                                        ),
-                                      ],
-                                    ),
-                                  ].divide(SizedBox(height: 5.0)),
-                                ),
                                 Container(
                                   decoration: BoxDecoration(),
                                   child: Column(

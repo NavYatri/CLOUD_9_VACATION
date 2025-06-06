@@ -71,7 +71,7 @@ class _ItanagarWidgetState extends State<ItanagarWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://www.ushadestinations.com/wp-content/uploads/2023/11/Arunachal-Pradesh.jpg',
+                                    'https://easternroutes.fr/wp-content/uploads/2017/12/Sela_Pass_Gate-Tawang-Arunachal_Pradesh.jpg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,

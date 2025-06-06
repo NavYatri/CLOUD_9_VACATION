@@ -71,7 +71,7 @@ class _TraveltoMargaoWidgetState extends State<TraveltoMargaoWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://www.trawell.in/admin/images/upload/121905172HolySpirit_Church_Margao_Main.jpg',
+                                    'https://t3.ftcdn.net/jpg/03/36/45/58/240_F_336455865_7HhAx5R79mmCRAVSxCBuWxoOpoLIMQRK.jpg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

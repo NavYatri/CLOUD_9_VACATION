@@ -87,7 +87,7 @@ class _ArunachalPradeshTourWidgetState
                                         borderRadius:
                                             BorderRadius.circular(8.0),
                                         child: Image.network(
-                                          'https://lp-cms-production.imgix.net/2019-06/GettyImages-548700815_full.jpg',
+                                          'https://easternroutes.fr/wp-content/uploads/2017/12/Sela_Pass_Gate-Tawang-Arunachal_Pradesh.jpg',
                                           width:
                                               MediaQuery.sizeOf(context).width,
                                           height: 739.0,

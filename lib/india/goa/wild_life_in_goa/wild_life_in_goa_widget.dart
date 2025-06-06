@@ -71,7 +71,7 @@ class _WildLifeInGoaWidgetState extends State<WildLifeInGoaWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://imgstaticcontent.lbb.in/lbbnew/wp-content/uploads/sites/9/2017/08/05130656/05082017_kalitigerreserve02.jpg',
+                                    'https://t3.ftcdn.net/jpg/03/36/45/58/240_F_336455865_7HhAx5R79mmCRAVSxCBuWxoOpoLIMQRK.jpg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

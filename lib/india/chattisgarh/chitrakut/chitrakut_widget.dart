@@ -71,7 +71,7 @@ class _ChitrakutWidgetState extends State<ChitrakutWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://tripxl.com/blog/wp-content/uploads/2024/09/Ram-Ghat-1.jpg',
+                                    'https://www.ttrikon.com/system/images/000/759/751/e5ffd7c860ff47b9e5ad38d9458900d2/x1000gt/1.jpg?1723882980',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

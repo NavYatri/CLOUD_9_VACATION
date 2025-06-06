@@ -71,7 +71,7 @@ class _BomdilaWidgetState extends State<BomdilaWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://asia-south1-nature-beyond.cloudfunctions.net/NextImageOptimizer?url=https://storage.googleapis.com/nature-beyond.appspot.com/bomdila-arunachal-pradesh-DJI_0138_1678118296750.jpg&width=3840&quality=75',
+                                    'https://easternroutes.fr/wp-content/uploads/2017/12/Sela_Pass_Gate-Tawang-Arunachal_Pradesh.jpg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,
