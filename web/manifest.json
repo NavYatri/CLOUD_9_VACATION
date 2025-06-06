@@ -1,6 +1,6 @@
 {
   "name": "Cloud 9 Vacation",
-  "short_name": "C9Vacation",
+  "short_name": "Cloud9Vacation",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
