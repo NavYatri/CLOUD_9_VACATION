@@ -824,7 +824,9 @@ class _HimachalTourPackagesWidgetState
                                               ),
                                               FFButtonWidget(
                                                 onPressed: () {
-                                                  print('Button pressed ...');
+                                                  context.pushNamed(
+                                                      FixedSummerHimalayanTourWidget
+                                                          .routeName);
                                                 },
                                                 text: 'View details',
                                                 options: FFButtonOptions(

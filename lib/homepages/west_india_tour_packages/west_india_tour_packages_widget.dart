@@ -335,8 +335,9 @@ class _WestIndiaTourPackagesWidgetState
                                               ),
                                               FFButtonWidget(
                                                 onPressed: () {
-                                                  print('Button pressed ...');
-                                                },
+context.pushNamed(
+                                                      GoaTourPackageswithSouthIndiaWidget
+                                                          .routeName);                                                },
                                                 text: 'View details',
                                                 options: FFButtonOptions(
                                                   height: 40.0,

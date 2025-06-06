@@ -344,7 +344,7 @@ class _PushkarFairTourPackagesWidgetState
                                               ),
                                               FFButtonWidget(
                                                 onPressed: () {
-                                                  print('Button pressed ...');
+                                                  context.pushNamed(PushkarFairTourwithgoldenTriangleWidget.routeName);
                                                 },
                                                 text: 'View details',
                                                 options: FFButtonOptions(

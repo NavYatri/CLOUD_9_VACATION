@@ -584,7 +584,9 @@ class _KeralaTourPackagesWidgetState extends State<KeralaTourPackagesWidget> {
                                               ),
                                               FFButtonWidget(
                                                 onPressed: () {
-                                                  print('Button pressed ...');
+                                                  context.pushNamed(
+                                                      BestofTwoCulturesKarnatakaKeralaWidget
+                                                          .routeName);
                                                 },
                                                 text: 'View details',
                                                 options: FFButtonOptions(

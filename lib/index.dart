@@ -775,7 +775,6 @@ export '/india/uttarakhand/mussoorie/mussoorie_widget.dart'
 export '/india/uttarakhand/mutkeswar/mutkeswar_widget.dart'
     show MutkeswarWidget;
 export '/india/uttarakhand/naintai/naintai_widget.dart' show NaintaiWidget;
-export '/india/uttarakhand/parui/parui_widget.dart' show ParuiWidget;
 export '/india/uttarakhand/rishikesh/rishikesh_widget.dart'
     show RishikeshWidget;
 export '/india/uttarakhand/rishikeshadventure_sports/rishikeshadventure_sports_widget.dart'
@@ -850,8 +849,6 @@ export '/north_india_tour_packages/jammu_kashmir_tour_packages/bestof_kashmir_to
     show BestofKashmirTourWidget;
 export '/north_india_tour_packages/north_india_tours_packages_uttaranchal/kuari_pass_trekking_tour/kuari_pass_trekking_tour_widget.dart'
     show KuariPassTrekkingTourWidget;
-export '/theme_based_tour_packages/theme_based_tour_packages_ayurveda/travancore_heritage_kovalam/travancore_heritage_kovalam_widget.dart'
-    show TravancoreHeritageKovalamWidget;
 export '/north_india_tour_packages/jammu_kashmir_tour_packages/kashmirwith_ladakh_tour/kashmirwith_ladakh_tour_widget.dart'
     show KashmirwithLadakhTourWidget;
 export '/theme_based_tour_packages/theme_based_tour_packages_cultural/standardodisha_tour/standardodisha_tour_widget.dart'

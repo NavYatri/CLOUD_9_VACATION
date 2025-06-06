@@ -1701,8 +1701,9 @@ class _JharkhandWidgetState extends State<JharkhandWidget> {
                                                             ),
                                                             FFButtonWidget(
                                                               onPressed: () {
-                                                                print(
-                                                                    'Button pressed ...');
+                                                                context.pushNamed(
+                                                      AndamanIslandsTourWidget
+                                                          .routeName);
                                                               },
                                                               text:
                                                                   'View details',
@@ -1954,8 +1955,9 @@ class _JharkhandWidgetState extends State<JharkhandWidget> {
                                                             ),
                                                             FFButtonWidget(
                                                               onPressed: () {
-                                                                print(
-                                                                    'Button pressed ...');
+                                                                context.pushNamed(
+                                                      MagicalAndamansTourPackageWidget
+                                                          .routeName);
                                                               },
                                                               text:
                                                                   'View details',
@@ -2207,8 +2209,9 @@ class _JharkhandWidgetState extends State<JharkhandWidget> {
                                                             ),
                                                             FFButtonWidget(
                                                               onPressed: () {
-                                                                print(
-                                                                    'Button pressed ...');
+                                                                context.pushNamed(
+                                                      ExoticAndamanTourWidget
+                                                          .routeName);
                                                               },
                                                               text:
                                                                   'View details',

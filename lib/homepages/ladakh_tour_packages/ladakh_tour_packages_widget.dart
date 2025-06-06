@@ -347,7 +347,7 @@ class _LadakhTourPackagesWidgetState extends State<LadakhTourPackagesWidget> {
                                               ),
                                               FFButtonWidget(
                                                 onPressed: () {
-                                                  print('Button pressed ...');
+                                                  context.pushNamed(BestofLaddakhAdventureWidget.routeName);
                                                 },
                                                 text: 'View details',
                                                 options: FFButtonOptions(

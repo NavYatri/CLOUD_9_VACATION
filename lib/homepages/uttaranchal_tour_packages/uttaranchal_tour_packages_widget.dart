@@ -5,6 +5,8 @@ import '/flutter_flow/flutter_flow_theme.dart';
 import '/flutter_flow/flutter_flow_util.dart';
 import '/flutter_flow/flutter_flow_widgets.dart';
 import 'package:flutter/material.dart';
+import '/index.dart';
+import '/actions/actions.dart' as action_blocks;
 import 'package:google_fonts/google_fonts.dart';
 import 'uttaranchal_tour_packages_model.dart';
 export 'uttaranchal_tour_packages_model.dart';
@@ -347,8 +349,8 @@ class _UttaranchalTourPackagesWidgetState
                                               ),
                                               FFButtonWidget(
                                                 onPressed: () {
-                                                  print('Button pressed ...');
-                                                },
+                                                  context.pushNamed(KuariPassTrekkingTourWidget.routeName);
+                                                  },
                                                 text: 'View details',
                                                 options: FFButtonOptions(
                                                   height: 40.0,
@@ -582,8 +584,9 @@ class _UttaranchalTourPackagesWidgetState
                                               ),
                                               FFButtonWidget(
                                                 onPressed: () {
-                                                  print('Button pressed ...');
-                                                },
+context.pushNamed(
+                                                      RoopKundTrekkingTourWidget
+                                                          .routeName);                                                },
                                                 text: 'View details',
                                                 options: FFButtonOptions(
                                                   height: 40.0,
@@ -818,8 +821,9 @@ class _UttaranchalTourPackagesWidgetState
                                               ),
                                               FFButtonWidget(
                                                 onPressed: () {
-                                                  print('Button pressed ...');
-                                                },
+context.pushNamed(
+                                                      YogaandMeditationinHaridwarRishikeshWidget
+                                                          .routeName);                                                },
                                                 text: 'View details',
                                                 options: FFButtonOptions(
                                                   height: 40.0,
@@ -1054,8 +1058,9 @@ class _UttaranchalTourPackagesWidgetState
                                               ),
                                               FFButtonWidget(
                                                 onPressed: () {
-                                                  print('Button pressed ...');
-                                                },
+context.pushNamed(
+                                                      ValleyofFlowersHemkundSahibWidget
+                                                          .routeName);                                                },
                                                 text: 'View details',
                                                 options: FFButtonOptions(
                                                   height: 40.0,

@@ -1053,7 +1053,7 @@ class _NorthEastIndiaTourPackagesWidgetState
                                               ),
                                               FFButtonWidget(
                                                 onPressed: () {
-                                                  print('Button pressed ...');
+                                                  context.pushNamed(BestofSikkimBhutanTourWidget.routeName);
                                                 },
                                                 text: 'View details',
                                                 options: FFButtonOptions(

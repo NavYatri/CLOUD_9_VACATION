@@ -2450,11 +2450,6 @@ GoRouter createRouter(AppStateNotifier appStateNotifier) => GoRouter(
               builder: (context, params) => NaintaiWidget(),
             ),
             FFRoute(
-              name: ParuiWidget.routeName,
-              path: ParuiWidget.routePath,
-              builder: (context, params) => ParuiWidget(),
-            ),
-            FFRoute(
               name: RishikeshWidget.routeName,
               path: RishikeshWidget.routePath,
               builder: (context, params) => RishikeshWidget(),
@@ -2659,11 +2654,6 @@ GoRouter createRouter(AppStateNotifier appStateNotifier) => GoRouter(
           name: KuariPassTrekkingTourWidget.routeName,
           path: KuariPassTrekkingTourWidget.routePath,
           builder: (context, params) => KuariPassTrekkingTourWidget(),
-        ),
-        FFRoute(
-          name: TravancoreHeritageKovalamWidget.routeName,
-          path: TravancoreHeritageKovalamWidget.routePath,
-          builder: (context, params) => TravancoreHeritageKovalamWidget(),
         ),
         FFRoute(
           name: KashmirwithLadakhTourWidget.routeName,

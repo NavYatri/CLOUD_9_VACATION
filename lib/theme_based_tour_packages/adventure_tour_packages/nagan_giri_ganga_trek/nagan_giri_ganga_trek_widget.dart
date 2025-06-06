@@ -4,6 +4,7 @@ import '/flutter_flow/flutter_flow_theme.dart';
 import '/flutter_flow/flutter_flow_util.dart';
 import '/flutter_flow/flutter_flow_widgets.dart';
 import 'package:flutter/material.dart';
+import '/actions/actions.dart' as action_blocks;
 import 'package:google_fonts/google_fonts.dart';
 import 'nagan_giri_ganga_trek_model.dart';
 export 'nagan_giri_ganga_trek_model.dart';
@@ -656,9 +657,11 @@ class _NaganGiriGangaTrekWidgetState extends State<NaganGiriGangaTrekWidget> {
                                                   MainAxisAlignment.end,
                                               children: [
                                                 FFButtonWidget(
-                                                  onPressed: () {
-                                                    print('Button pressed ...');
-                                                  },
+                                                  onPressed: () async {
+                                                            await action_blocks
+                                                                .greenbutton(
+                                                                    context);
+                                                          },
                                                   text: 'Get Tour Quote',
                                                   options: FFButtonOptions(
                                                     height: 32.0,

@@ -2010,7 +2010,9 @@ class _IndiaBeachesTourPackagesWidgetState
                                               ),
                                               FFButtonWidget(
                                                 onPressed: () {
-                                                  print('Button pressed ...');
+                                                  context.pushNamed(
+                                                      BestofTwoCulturesKarnatakaKeralaWidget
+                                                          .routeName);
                                                 },
                                                 text: 'View details',
                                                 options: FFButtonOptions(

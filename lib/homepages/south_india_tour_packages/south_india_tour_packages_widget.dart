@@ -1331,7 +1331,9 @@ class _SouthIndiaTourPackagesWidgetState
                                               ),
                                               FFButtonWidget(
                                                 onPressed: () {
-                                                  print('Button pressed ...');
+                                                  context.pushNamed(
+                                                      GoaTourPackageswithSouthIndiaWidget
+                                                          .routeName);
                                                 },
                                                 text: 'View details',
                                                 options: FFButtonOptions(
@@ -2757,7 +2759,9 @@ class _SouthIndiaTourPackagesWidgetState
                                               ),
                                               FFButtonWidget(
                                                 onPressed: () {
-                                                  print('Button pressed ...');
+                                                  context.pushNamed(
+                                                      BestofTwoCulturesKarnatakaKeralaWidget
+                                                          .routeName);
                                                 },
                                                 text: 'View details',
                                                 options: FFButtonOptions(

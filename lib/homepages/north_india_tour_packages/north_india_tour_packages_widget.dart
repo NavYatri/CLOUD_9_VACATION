@@ -2732,7 +2732,7 @@ class _NorthIndiaTourPackagesWidgetState
                                               ),
                                               FFButtonWidget(
                                                 onPressed: () {
-                                                  print('Button pressed ...');
+                                                  context.pushNamed(PushkarFairTourWidget.routeName);
                                                 },
                                                 text: 'View details',
                                                 options: FFButtonOptions(

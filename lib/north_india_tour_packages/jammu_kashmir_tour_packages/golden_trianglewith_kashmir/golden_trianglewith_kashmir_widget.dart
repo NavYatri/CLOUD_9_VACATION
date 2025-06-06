@@ -1380,10 +1380,11 @@ class _GoldenTrianglewithKashmirWidgetState
                                                                 .end,
                                                         children: [
                                                           FFButtonWidget(
-                                                            onPressed: () {
-                                                              print(
-                                                                  'Button pressed ...');
-                                                            },
+                                                            onPressed: () async {
+                                                            await action_blocks
+                                                                .greenbutton(
+                                                                    context);
+                                                          },
                                                             text:
                                                                 'Get Tour Quote',
                                                             options:

@@ -1001,7 +1001,7 @@ class _IndiaTourPackagesWidgetState extends State<IndiaTourPackagesWidget> {
                                           ),
                                           FFButtonWidget(
                                             onPressed: () {
-                                              print('Button pressed ...');
+                                              context.pushNamed(TheTreasuresofIndiaandNepalWidget.routeName);
                                             },
                                             text: 'View details',
                                             options: FFButtonOptions(
@@ -1662,7 +1662,9 @@ class _IndiaTourPackagesWidgetState extends State<IndiaTourPackagesWidget> {
                                           ),
                                           FFButtonWidget(
                                             onPressed: () {
-                                              print('Button pressed ...');
+                                              context.pushNamed(
+                                                      BestofTwoCulturesKarnatakaKeralaWidget
+                                                          .routeName);
                                             },
                                             text: 'View details',
                                             options: FFButtonOptions(
@@ -3207,7 +3209,7 @@ class _IndiaTourPackagesWidgetState extends State<IndiaTourPackagesWidget> {
                                           ),
                                           FFButtonWidget(
                                             onPressed: () {
-                                              print('Button pressed ...');
+                                              context.pushNamed(ChandratalTrekkingTourWidget.routeName);
                                             },
                                             text: 'View details',
                                             options: FFButtonOptions(
