@@ -88,7 +88,7 @@ class _NortheastWidgetState extends State<NortheastWidget> {
                                           borderRadius:
                                               BorderRadius.circular(8.0),
                                           child: Image.network(
-                                            'https://www.tourmyindia.com/blog//wp-content/uploads/2023/04/Best-Places-to-Visit-in-Northeast-India.jpg',
+                                            'https://images.pexels.com/photos/974439/pexels-photo-974439.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                             width: MediaQuery.sizeOf(context)
                                                 .width,
                                             height: 739.0,

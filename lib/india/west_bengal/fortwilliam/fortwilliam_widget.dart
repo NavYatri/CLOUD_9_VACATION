@@ -71,7 +71,7 @@ class _FortwilliamWidgetState extends State<FortwilliamWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://www.holidify.com/images/cmsuploads/compressed/92d3dcf14c4b28a3eef774f34b0c3b56_20200804163516.jpg',
+                                    'https://images.pexels.com/photos/18414735/pexels-photo-18414735/free-photo-of-victoria-memorial-in-kolkata.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,

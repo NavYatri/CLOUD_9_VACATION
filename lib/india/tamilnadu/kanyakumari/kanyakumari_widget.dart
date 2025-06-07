@@ -73,7 +73,7 @@ class _KanyakumariWidgetState extends State<KanyakumariWidget> {
                                   child: ClipRRect(
                                     borderRadius: BorderRadius.circular(8.0),
                                     child: Image.network(
-                                      'https://www.tamilnadutourism.tn.gov.in/img/pages/medium-desktop/kodaikanal-1655279477_0cdce0d4e58596e4fb33.webp',
+                                      'https://images.pexels.com/photos/32399048/pexels-photo-32399048/free-photo-of-shore-temple-at-mahabalipuram-on-a-sunny-day.jpeg',
                                       width: MediaQuery.sizeOf(context).width,
                                       height: 736.0,
                                       fit: BoxFit.fill,

@@ -87,7 +87,7 @@ class _JharkhandWidgetState extends State<JharkhandWidget> {
                                           borderRadius:
                                               BorderRadius.circular(8.0),
                                           child: Image.network(
-                                            'https://images.articlesfactory.com/750x0/e9ce4869-bd20-4146-9c8b-131dcb9725c3.webp',
+                                            'https://images.pexels.com/photos/30855693/pexels-photo-30855693/free-photo-of-lush-green-paddy-field-with-mountain-backdrop.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                             width: MediaQuery.sizeOf(context)
                                                 .width,
                                             height: 739.0,

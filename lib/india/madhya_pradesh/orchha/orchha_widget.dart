@@ -71,7 +71,7 @@ class _OrchhaWidgetState extends State<OrchhaWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://i0.wp.com/indiatravel.com/wp-content/uploads/2022/03/Orchha-slider-imggg-4.jpg?ssl=1',
+                                    'https://images.pexels.com/photos/4177508/pexels-photo-4177508.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

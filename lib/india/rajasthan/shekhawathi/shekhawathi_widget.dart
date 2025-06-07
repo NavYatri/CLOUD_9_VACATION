@@ -71,7 +71,7 @@ class _ShekhawathiWidgetState extends State<ShekhawathiWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://images.memphistours.com/large/10658878_Shekhawati%20region%202.jpg',
+                                    'https://images.pexels.com/photos/925069/pexels-photo-925069.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

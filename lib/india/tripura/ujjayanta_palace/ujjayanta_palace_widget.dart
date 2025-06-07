@@ -71,7 +71,7 @@ class _UjjayantaPalaceWidgetState extends State<UjjayantaPalaceWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://www.constructionworld.in/assets/uploads/d8c1f0d5ddb8448c22483cb0c5727898.jpg',
+                                    'https://images.pexels.com/photos/18298474/pexels-photo-18298474/free-photo-of-neermahal-palace-in-india.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

@@ -72,7 +72,7 @@ class _ThiruvananthapuramWidgetState extends State<ThiruvananthapuramWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://cabinkerala.com/wp-content/uploads/2021/07/Kerala-taxi-trivandrum-e1627714707148.jpg',
+                                    'https://t4.ftcdn.net/jpg/01/64/62/13/240_F_164621341_vA1ZtJNeXpctAy7ASvEMtl5R6RG1pzOa.jpg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

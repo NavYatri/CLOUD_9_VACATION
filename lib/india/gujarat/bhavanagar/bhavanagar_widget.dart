@@ -71,7 +71,7 @@ class _BhavanagarWidgetState extends State<BhavanagarWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://upload.wikimedia.org/wikipedia/commons/0/0d/Shri_Swaminarayan_Mandir%2C_Bhavnagar_01.jpg',
+                                    'https://images.pexels.com/photos/926574/pexels-photo-926574.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

@@ -71,7 +71,7 @@ class _MahabaleshwarWidgetState extends State<MahabaleshwarWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://www.mypunepulse.com/wp-content/uploads/2025/02/mahabaleshwar.jpg',
+                                    'https://s7ap1.scene7.com/is/image/incredibleindia/1-gateway-of-india-state-hero?qlt=82&ts=1726670249199',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

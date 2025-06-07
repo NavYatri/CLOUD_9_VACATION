@@ -71,7 +71,7 @@ class _SurajkundharyanaWidgetState extends State<SurajkundharyanaWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Suraj_Kund_Masonary_072.jpg/500px-Suraj_Kund_Masonary_072.jpg',
+                                    'https://s7ap1.scene7.com/is/image/incredibleindia/kalander-shah-tomb-karnal-haryana-1-city-hero?qlt=82&ts=1726816667371',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

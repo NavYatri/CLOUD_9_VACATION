@@ -71,7 +71,7 @@ class _ArtsandCraftsWidgetState extends State<ArtsandCraftsWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://t3.ftcdn.net/jpg/07/35/36/56/240_F_735365638_bF34iTZEv0ShlMPkazbmkbYSXN0tnnbW.jpg',
+                                    'https://images.pexels.com/photos/32420541/pexels-photo-32420541/free-photo-of-stunning-himalayan-landscape-at-sunrise.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

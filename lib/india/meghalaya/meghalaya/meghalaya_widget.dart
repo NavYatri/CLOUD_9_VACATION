@@ -88,7 +88,7 @@ class _MeghalayaWidgetState extends State<MeghalayaWidget> {
                                           borderRadius:
                                               BorderRadius.circular(8.0),
                                           child: Image.network(
-                                            'https://tripoventure.com/wp-content/uploads/2021/06/1600412455_shutterstock_1084397678.jpg.jpg',
+                                            'https://images.pexels.com/photos/945549/pexels-photo-945549.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                             width: MediaQuery.sizeOf(context)
                                                 .width,
                                             height: 739.0,

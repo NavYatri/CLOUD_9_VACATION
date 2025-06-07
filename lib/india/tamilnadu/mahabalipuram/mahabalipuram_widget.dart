@@ -71,7 +71,7 @@ class _MahabalipuramWidgetState extends State<MahabalipuramWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://www.abhijna-emuseum.com/wp-content/uploads/2018/04/1-cover-pic-1024x544.jpg',
+                                    'https://images.pexels.com/photos/32399048/pexels-photo-32399048/free-photo-of-shore-temple-at-mahabalipuram-on-a-sunny-day.jpeg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

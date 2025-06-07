@@ -71,7 +71,7 @@ class _AdventureTourismWidgetState extends State<AdventureTourismWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://www.seawatersports.com/images/activies/slide/rafting-in-jharkhand-cost.jpg',
+                                    'https://images.pexels.com/photos/30855693/pexels-photo-30855693/free-photo-of-lush-green-paddy-field-with-mountain-backdrop.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

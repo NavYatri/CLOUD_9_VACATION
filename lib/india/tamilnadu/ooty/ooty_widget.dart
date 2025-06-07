@@ -71,7 +71,7 @@ class _OotyWidgetState extends State<OotyWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://experiencekerala.in/kerala-tourism-blog/wp-content/uploads/2020/03/13-25.jpg',
+                                    'https://images.pexels.com/photos/32399048/pexels-photo-32399048/free-photo-of-shore-temple-at-mahabalipuram-on-a-sunny-day.jpeg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,

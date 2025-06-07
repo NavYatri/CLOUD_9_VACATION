@@ -72,7 +72,7 @@ class _LakshadweepWidgetState extends State<LakshadweepWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://images.articlesfactory.com/750x0/e9ce4869-bd20-4146-9c8b-131dcb9725c3.webp',
+                                    'https://images.pexels.com/photos/21617942/pexels-photo-21617942/free-photo-of-view-of-two-boats-near-the-shore-of-a-tropical-island.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,

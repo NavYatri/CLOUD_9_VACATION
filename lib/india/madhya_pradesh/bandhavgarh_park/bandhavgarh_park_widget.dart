@@ -71,7 +71,7 @@ class _BandhavgarhParkWidgetState extends State<BandhavgarhParkWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://blog-content.ixigo.com/wp-content/uploads/2013/08/bandhavgarh-national-park_251.jpg',
+                                    'https://images.pexels.com/photos/4177508/pexels-photo-4177508.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.cover,

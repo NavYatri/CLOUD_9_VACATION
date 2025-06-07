@@ -71,7 +71,7 @@ class _AllahabadWidgetState extends State<AllahabadWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://indialegallive.com/wp-content/uploads/2020/11/Allahabad-High-Court-1.jpg',
+                                    'https://images.pexels.com/photos/27970036/pexels-photo-27970036/free-photo-of-taj-mahal.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,

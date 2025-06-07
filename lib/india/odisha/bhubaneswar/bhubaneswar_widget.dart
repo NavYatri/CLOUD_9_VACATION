@@ -71,7 +71,7 @@ class _BhubaneswarWidgetState extends State<BhubaneswarWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://www.indiantempletour.com/wp-content/uploads/2022/08/brahmeswara_temple_bhubaneswar-scaled.jpg',
+                                    'https://images.pexels.com/photos/89566/pexels-photo-89566.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,

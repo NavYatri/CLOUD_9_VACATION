@@ -70,7 +70,7 @@ class _AmritsarWidgetState extends State<AmritsarWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://as1.ftcdn.net/v2/jpg/09/01/94/58/1000_F_901945828_1cVCw7kVU7Gw4Hp3ns5nLPVnCX3kbuRz.jpg',
+                                    'https://images.pexels.com/photos/574313/pexels-photo-574313.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,

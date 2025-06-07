@@ -72,7 +72,7 @@ class _TrekkinginMeghalayaWidgetState extends State<TrekkinginMeghalayaWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://ihplb.b-cdn.net/wp-content/uploads/2023/06/Shillong-Nature-Trek.jpg',
+                                    'https://images.pexels.com/photos/945549/pexels-photo-945549.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

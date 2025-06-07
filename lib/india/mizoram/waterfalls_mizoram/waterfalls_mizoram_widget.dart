@@ -72,7 +72,7 @@ class _WaterfallsMizoramWidgetState extends State<WaterfallsMizoramWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://cdn.s3waas.gov.in/s36766aa2750c19aad2fa1b32f36ed4aee/uploads/bfi_thumb/2018081697-olw8z0svast2qbduijnqbw1gc2b4p4jezlkc1cbg5m.jpg',
+                                    'https://images.pexels.com/photos/775663/pexels-photo-775663.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

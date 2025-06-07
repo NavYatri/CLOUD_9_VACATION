@@ -72,7 +72,7 @@ class _NilgiriHillStationWidgetState extends State<NilgiriHillStationWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://www.tamilnadutourism.tn.gov.in/img/pages/large-desktop/nilgiris-1657463286_87ba8648c266fa0031c3.webp',
+                                    'https://images.pexels.com/photos/32399048/pexels-photo-32399048/free-photo-of-shore-temple-at-mahabalipuram-on-a-sunny-day.jpeg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

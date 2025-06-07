@@ -71,7 +71,7 @@ class _KatraWidgetState extends State<KatraWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://img.traveltriangle.com/apac/attachments/pictures/847004/original/pony-ride-1.jpg',
+                                    'https://images.pexels.com/photos/32420541/pexels-photo-32420541/free-photo-of-stunning-himalayan-landscape-at-sunrise.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

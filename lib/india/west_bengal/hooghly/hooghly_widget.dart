@@ -71,7 +71,7 @@ class _HooghlyWidgetState extends State<HooghlyWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://static.toiimg.com/photo/msid-85998369,width-96,height-65.cms',
+                                    'https://images.pexels.com/photos/18414735/pexels-photo-18414735/free-photo-of-victoria-memorial-in-kolkata.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

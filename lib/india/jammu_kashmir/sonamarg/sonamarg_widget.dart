@@ -71,7 +71,7 @@ class _SonamargWidgetState extends State<SonamargWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://cliffhangersindia.com/wp-content/uploads/2024/04/50110721031_5c9e174b44_b.jpg',
+                                    'https://images.pexels.com/photos/32420541/pexels-photo-32420541/free-photo-of-stunning-himalayan-landscape-at-sunrise.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

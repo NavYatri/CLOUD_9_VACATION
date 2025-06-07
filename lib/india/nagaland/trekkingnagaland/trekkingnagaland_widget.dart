@@ -71,7 +71,7 @@ class _TrekkingnagalandWidgetState extends State<TrekkingnagalandWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://www.godigit.com/content/dam/godigit/directportal/en/dzukou.jpg',
+                                    'https://images.pexels.com/photos/225732/pexels-photo-225732.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,

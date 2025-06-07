@@ -71,7 +71,7 @@ class _KailaDeviFairWidgetState extends State<KailaDeviFairWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://i.pinimg.com/736x/48/69/ba/4869ba83842b3f5cfcb357d2579ff26f.jpg',
+                                    'https://images.pexels.com/photos/925069/pexels-photo-925069.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

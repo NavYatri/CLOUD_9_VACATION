@@ -72,7 +72,7 @@ class _StateMuseumnagalandWidgetState extends State<StateMuseumnagalandWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://indiano.travel/wp-content/uploads/2022/04/Nagaland-Meuseum-Feature-.png',
+                                    'https://images.pexels.com/photos/225732/pexels-photo-225732.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

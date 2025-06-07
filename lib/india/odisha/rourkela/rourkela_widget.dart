@@ -71,7 +71,7 @@ class _RourkelaWidgetState extends State<RourkelaWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://odishatourism.gov.in/content/dam/tourism/home/discover/major-cities/rourkela/rourkela_banner.jpg',
+                                    'https://images.pexels.com/photos/89566/pexels-photo-89566.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

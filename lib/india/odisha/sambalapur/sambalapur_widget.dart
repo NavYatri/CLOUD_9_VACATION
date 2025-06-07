@@ -70,7 +70,7 @@ class _SambalapurWidgetState extends State<SambalapurWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://odishatourism.gov.in/content/dam/tourism/home/discover/major-cities/sambalpur/gallery_Hirakud.jpg',
+                                    'https://images.pexels.com/photos/89566/pexels-photo-89566.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

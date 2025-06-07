@@ -88,7 +88,7 @@ class _JammuKashmirWidgetState extends State<JammuKashmirWidget> {
                                           borderRadius:
                                               BorderRadius.circular(8.0),
                                           child: Image.network(
-                                            'https://images.articlesfactory.com/750x0/e9ce4869-bd20-4146-9c8b-131dcb9725c3.webp',
+                                            'https://images.pexels.com/photos/32420541/pexels-photo-32420541/free-photo-of-stunning-himalayan-landscape-at-sunrise.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                             width: MediaQuery.sizeOf(context)
                                                 .width,
                                             height: 739.0,
@@ -1077,7 +1077,7 @@ class _JammuKashmirWidgetState extends State<JammuKashmirWidget> {
                                                             ),
                                                             child:
                                                                 Image.network(
-                                                              'https://picsum.photos/seed/151/600',
+                                                              'https://images.pexels.com/photos/2403207/pexels-photo-2403207.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                                               width: double
                                                                   .infinity,
                                                               height: 300.0,
@@ -1331,7 +1331,7 @@ class _JammuKashmirWidgetState extends State<JammuKashmirWidget> {
                                                             ),
                                                             child:
                                                                 Image.network(
-                                                              'https://picsum.photos/seed/151/600',
+                                                              'https://images.pexels.com/photos/7970786/pexels-photo-7970786.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                                               width: double
                                                                   .infinity,
                                                               height: 300.0,
@@ -1585,7 +1585,7 @@ class _JammuKashmirWidgetState extends State<JammuKashmirWidget> {
                                                             ),
                                                             child:
                                                                 Image.network(
-                                                              'https://picsum.photos/seed/151/600',
+                                                              'https://images.pexels.com/photos/362690/pexels-photo-362690.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                                               width: double
                                                                   .infinity,
                                                               height: 300.0,

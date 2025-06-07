@@ -72,7 +72,7 @@ class _TripuragovtmuseumWidgetState extends State<TripuragovtmuseumWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://hblimg.mmtcdn.com/content/hubble/img/agartala/mmt/activities/m_activities_agartala_tripura_government_museum_l_360_640.jpg',
+                                    'https://images.pexels.com/photos/18298474/pexels-photo-18298474/free-photo-of-neermahal-palace-in-india.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,

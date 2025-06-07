@@ -71,7 +71,7 @@ class _NehruBoatRaceWidgetState extends State<NehruBoatRaceWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://www.india-tours.com/images/festivals/boat-race/1.jpg',
+                                    'https://images.pexels.com/photos/8377242/pexels-photo-8377242.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

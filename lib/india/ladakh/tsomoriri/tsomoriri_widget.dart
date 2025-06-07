@@ -71,7 +71,7 @@ class _TsomoririWidgetState extends State<TsomoririWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://discoverwithdheeraj.com/wp-content/uploads/2016/07/Zanskar-Changthang-611-scaled.jpg',
+                                    'https://images.pexels.com/photos/5205083/pexels-photo-5205083.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.cover,

@@ -71,7 +71,7 @@ class _DurgapujaWidgetState extends State<DurgapujaWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://www.revv.co.in/blogs/wp-content/uploads/2020/09/Durga-Puja-in-West-Bengal-1280x720.jpg',
+                                    'https://images.pexels.com/photos/18414735/pexels-photo-18414735/free-photo-of-victoria-memorial-in-kolkata.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,

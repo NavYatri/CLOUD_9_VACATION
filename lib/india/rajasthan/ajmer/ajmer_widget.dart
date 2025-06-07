@@ -77,7 +77,7 @@ class _AjmerWidgetState extends State<AjmerWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://www.revv.co.in/blogs/wp-content/uploads/2021/02/Pushkar.jpg',
+                                    'https://images.pexels.com/photos/925069/pexels-photo-925069.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

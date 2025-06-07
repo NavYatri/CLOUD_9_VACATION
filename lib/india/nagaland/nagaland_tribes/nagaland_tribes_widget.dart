@@ -71,7 +71,7 @@ class _NagalandTribesWidgetState extends State<NagalandTribesWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://deih43ym53wif.cloudfront.net/small_stone-pulling-ceremony-at-viswema-village-nagaland-3_ca715371b2.jpeg',
+                                    'https://images.pexels.com/photos/225732/pexels-photo-225732.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

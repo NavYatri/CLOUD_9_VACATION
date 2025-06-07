@@ -71,7 +71,7 @@ class _LehLadakhWidgetState extends State<LehLadakhWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://www.himalayanspace.com/wp-content/uploads/2017/01/leh-ladakh.jpg',
+                                    'https://images.pexels.com/photos/5205083/pexels-photo-5205083.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

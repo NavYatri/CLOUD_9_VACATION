@@ -72,7 +72,7 @@ class _MeditationandyogaUKWidgetState extends State<MeditationandyogaUKWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://pinedovefarm.com/wp-content/uploads/2017/09/bigstock-Yoga-outdoor-Happy-woman-doin-172357406.jpg',
+                                    'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Auli%2C_India.jpg/1200px-Auli%2C_India.jpg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

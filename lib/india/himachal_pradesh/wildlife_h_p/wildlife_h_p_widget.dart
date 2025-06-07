@@ -71,7 +71,7 @@ class _WildlifeHPWidgetState extends State<WildlifeHPWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://www.greathimalayannationalpark.org/wp-content/uploads/2015/05/Ibex-F.jpg',
+                                    'https://i0.wp.com/www.tusktravel.com/blog/wp-content/uploads/2023/02/Himachal-Pradesh-in-March-1.webp?fit=1920%2C1080&ssl=1',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.cover,

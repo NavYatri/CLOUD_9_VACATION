@@ -71,7 +71,7 @@ class _JagannathTempleWidgetState extends State<JagannathTempleWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://cdn.abhibus.com/2024/02/Jagannath-Temple-Hyderabad.jpg',
+                                    'https://images.pexels.com/photos/89566/pexels-photo-89566.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,

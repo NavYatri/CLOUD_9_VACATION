@@ -73,7 +73,7 @@ class _ShreeGovindhajiTempleWidgetState
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://indiano.travel/wp-content/uploads/2022/05/Shri-Shri-Govindaji-Temple.jpg',
+                                    'https://images.pexels.com/photos/10996964/pexels-photo-10996964.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.cover,

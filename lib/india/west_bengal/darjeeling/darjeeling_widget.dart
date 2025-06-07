@@ -69,7 +69,7 @@ class _DarjeelingWidgetState extends State<DarjeelingWidget> {
                               child: ClipRRect(
                                 borderRadius: BorderRadius.circular(8.0),
                                 child: Image.network(
-                                  'https://d3sftlgbtusmnv.cloudfront.net/blog/wp-content/uploads/2025/01/Darjeeling-Travel-Guide-Cover-Photo-840x425.jpg',
+                                  'https://images.pexels.com/photos/18414735/pexels-photo-18414735/free-photo-of-victoria-memorial-in-kolkata.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                   width: MediaQuery.sizeOf(context).width,
                                   height: 736.0,
                                   fit: BoxFit.fill,

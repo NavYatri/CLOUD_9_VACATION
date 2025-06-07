@@ -71,7 +71,7 @@ class _VrindavanWidgetState extends State<VrindavanWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://static.toiimg.com/photo/msid-86454434,width-96,height-65.cms',
+                                    'https://images.pexels.com/photos/27970036/pexels-photo-27970036/free-photo-of-taj-mahal.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,

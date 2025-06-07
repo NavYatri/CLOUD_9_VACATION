@@ -71,7 +71,7 @@ class _LoktakLakeWidgetState extends State<LoktakLakeWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://horizons.tatatrusts.org/2020/december/images/share/floating-feeling-01.jpg',
+                                    'https://images.pexels.com/photos/10996964/pexels-photo-10996964.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

@@ -72,7 +72,7 @@ class _AdventuresinLadakhWidgetState extends State<AdventuresinLadakhWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://imgcld.yatra.com/ytimages/image/upload/v1517480871/AdvNation/ANN_TRP339/Khardung_La_1437473996_ffq0xC.jpg',
+                                    'https://images.pexels.com/photos/5205083/pexels-photo-5205083.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.cover,

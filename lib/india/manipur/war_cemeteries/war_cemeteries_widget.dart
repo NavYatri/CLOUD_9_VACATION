@@ -71,7 +71,7 @@ class _WarCemeteriesWidgetState extends State<WarCemeteriesWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2025/02/New-Project-2025-02-22T153259874ITG-1740218583889.jpg?size=*:900',
+                                    'https://images.pexels.com/photos/10996964/pexels-photo-10996964.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

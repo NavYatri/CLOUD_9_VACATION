@@ -71,7 +71,7 @@ class _VadodaraWidgetState extends State<VadodaraWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://i0.wp.com/stanzaliving.wpcomstaging.com/wp-content/uploads/2022/04/67404-places-to-visit-in-vadodara.jpg?fit=1000%2C642&ssl=1',
+                                    'https://images.pexels.com/photos/926574/pexels-photo-926574.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,

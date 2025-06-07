@@ -71,7 +71,7 @@ class _ChidambaramWidgetState extends State<ChidambaramWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://mediaim.expedia.com/destination/1/aecefcf11ece3551db6ab52227051f19.jpg',
+                                    'https://images.pexels.com/photos/32399048/pexels-photo-32399048/free-photo-of-shore-temple-at-mahabalipuram-on-a-sunny-day.jpeg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

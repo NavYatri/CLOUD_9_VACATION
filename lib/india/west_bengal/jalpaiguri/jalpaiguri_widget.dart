@@ -71,7 +71,7 @@ class _JalpaiguriWidgetState extends State<JalpaiguriWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://www.capertravelindia.com/images/wb-1.jpg',
+                                    'https://images.pexels.com/photos/18414735/pexels-photo-18414735/free-photo-of-victoria-memorial-in-kolkata.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

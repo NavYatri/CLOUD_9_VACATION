@@ -71,7 +71,7 @@ class _MussoorieWidgetState extends State<MussoorieWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://rishikeshdaytour.com/blog/wp-content/uploads/2024/11/Discover-Mussoorie-Uttarakhand-India.jpg',
+                                    'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Auli%2C_India.jpg/1200px-Auli%2C_India.jpg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

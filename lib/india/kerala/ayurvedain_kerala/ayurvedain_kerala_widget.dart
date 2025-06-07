@@ -71,7 +71,7 @@ class _AyurvedainKeralaWidgetState extends State<AyurvedainKeralaWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://karnatakaayurveda.com/wp-content/uploads/2024/05/1595827260355217_hostel_1.jpg',
+                                    'https://t4.ftcdn.net/jpg/01/64/62/13/240_F_164621341_vA1ZtJNeXpctAy7ASvEMtl5R6RG1pzOa.jpg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

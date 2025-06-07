@@ -87,7 +87,7 @@ class _LadakhWidgetState extends State<LadakhWidget> {
                                           borderRadius:
                                               BorderRadius.circular(8.0),
                                           child: Image.network(
-                                            'https://www.kashmirtourpackage.org/blog/wp-content/uploads/2024/01/Pangong-Lake.jpg',
+                                            'https://images.pexels.com/photos/5205083/pexels-photo-5205083.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                             width: MediaQuery.sizeOf(context)
                                                 .width,
                                             height: 739.0,

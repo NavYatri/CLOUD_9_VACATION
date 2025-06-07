@@ -73,7 +73,7 @@ class _KeibulLamjaoNationalParkWidgetState
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://s7ap1.scene7.com/is/image/incredibleindia/keibul-lamjao-national-park-imphal-manipur-attr-about?qlt=82&ts=1727354846340',
+                                    'https://images.pexels.com/photos/10996964/pexels-photo-10996964.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

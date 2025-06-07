@@ -71,7 +71,7 @@ class _KochiWidgetState extends State<KochiWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://c.ndtvimg.com/2025-03/qi8ql9j_fort-kochi_625x300_23_March_25.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738',
+                                    'https://t4.ftcdn.net/jpg/01/64/62/13/240_F_164621341_vA1ZtJNeXpctAy7ASvEMtl5R6RG1pzOa.jpg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

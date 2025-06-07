@@ -71,7 +71,7 @@ class _CherrapunjeeWidgetState extends State<CherrapunjeeWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://s7ap1.scene7.com/is/image/incredibleindia/noh-sngithiang-falls-cherrapunjee-meghalaya-1-attr-hero?qlt=82&ts=1727355078062',
+                                    'https://images.pexels.com/photos/945549/pexels-photo-945549.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

@@ -71,7 +71,7 @@ class _LehWidgetState extends State<LehWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://cdn.britannica.com/72/124772-050-02974A7A/Palace-kings-Leh-Ladakh-India-Jammu-and.jpg',
+                                    'https://images.pexels.com/photos/32420541/pexels-photo-32420541/free-photo-of-stunning-himalayan-landscape-at-sunrise.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

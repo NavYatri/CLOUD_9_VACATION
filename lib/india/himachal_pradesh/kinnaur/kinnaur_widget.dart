@@ -74,7 +74,7 @@ class _KinnaurWidgetState extends State<KinnaurWidget> {
                                     child: ClipRRect(
                                       borderRadius: BorderRadius.circular(8.0),
                                       child: Image.network(
-                                        'https://static.toiimg.com/thumb/msid-92249469,width-748,height-499,resizemode=4,imgsize-206876/This-summer-these-experiences-in-Kinnaur-are-all-that-you-need.jpg',
+                                        'https://i0.wp.com/www.tusktravel.com/blog/wp-content/uploads/2023/02/Himachal-Pradesh-in-March-1.webp?fit=1920%2C1080&ssl=1',
                                         width: MediaQuery.sizeOf(context).width,
                                         height: 736.0,
                                         fit: BoxFit.fill,

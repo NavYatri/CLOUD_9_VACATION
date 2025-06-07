@@ -71,7 +71,7 @@ class _HornbillFestivalWidgetState extends State<HornbillFestivalWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://indiaholidaymall.com/images/blog/Hornbill-Festival-in-Nagaland.jpg',
+                                    'https://images.pexels.com/photos/225732/pexels-photo-225732.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

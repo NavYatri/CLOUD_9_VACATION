@@ -71,7 +71,7 @@ class _DeharadunWidgetState extends State<DeharadunWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://www.tripplannersindia.com/assets/blog/images/placestovisitindehradun/Dehradun.webp',
+                                    'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Auli%2C_India.jpg/1200px-Auli%2C_India.jpg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,

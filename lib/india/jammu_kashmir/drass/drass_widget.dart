@@ -71,7 +71,7 @@ class _DrassWidgetState extends State<DrassWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://t3.ftcdn.net/jpg/11/76/41/18/240_F_1176411828_ecADCBd6Z8M2fgMOPir3SfmtC1dJfsJ0.jpg',
+                                    'https://images.pexels.com/photos/32420541/pexels-photo-32420541/free-photo-of-stunning-himalayan-landscape-at-sunrise.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

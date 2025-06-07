@@ -71,7 +71,7 @@ class _BelurWidgetState extends State<BelurWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://www.karnataka.com/wp-content/uploads/2017/08/Chennakesava-Temple-5.jpg',
+                                    'https://media.licdn.com/dms/image/v2/C5112AQHGbNK3Dattbw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1537816897504?e=2147483647&v=beta&t=OVKMDkB-OrKtX3WbLHfA_DbmNsintqWQYnkx2q2UmxQ',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.cover,

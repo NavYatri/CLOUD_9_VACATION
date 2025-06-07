@@ -71,7 +71,7 @@ class _MutkeswarWidgetState extends State<MutkeswarWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://www.goldentriangletour.com/userfiles/Mukteshwar_Temple2_20170422222(1).jpg',
+                                    'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Auli%2C_India.jpg/1200px-Auli%2C_India.jpg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

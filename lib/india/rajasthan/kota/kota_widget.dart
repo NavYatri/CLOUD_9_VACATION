@@ -71,7 +71,7 @@ class _KotaWidgetState extends State<KotaWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://scontent-tir3-2.xx.fbcdn.net/v/t1.6435-9/95715707_3147445781985344_3974308649748135936_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_ohc=MUSY4UMzyHEQ7kNvwEaetab&_nc_oc=AdkZsHuewJmZYX4OE8nI8fJGkosNv-_zN7HTGMOeZgDBIQz1tGQlHyefyxtfNg422MUjdvvfu2MEs6BxoM9TxfDU&_nc_zt=23&_nc_ht=scontent-tir3-2.xx&_nc_gid=P26oFkS3ysDBT82xhxoJJg&oh=00_AfH691ftcmgh6isl60DVV_dX6568Mk5IQfTwFzTAGx5GpQ&oe=6833563A',
+                                    'https://images.pexels.com/photos/925069/pexels-photo-925069.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

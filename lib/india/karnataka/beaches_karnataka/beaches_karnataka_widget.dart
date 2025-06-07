@@ -71,7 +71,7 @@ class _BeachesKarnatakaWidgetState extends State<BeachesKarnatakaWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://static.toiimg.com/thumb/msid-92807796,width-748,height-499,resizemode=4,imgsize-61420/.jpg',
+                                    'https://media.licdn.com/dms/image/v2/C5112AQHGbNK3Dattbw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1537816897504?e=2147483647&v=beta&t=OVKMDkB-OrKtX3WbLHfA_DbmNsintqWQYnkx2q2UmxQ',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.cover,

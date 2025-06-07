@@ -71,7 +71,7 @@ class _RedhillWidgetState extends State<RedhillWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://i0.wp.com/indiatrail.org/wp-content/uploads/2014/08/im3.jpg?resize=710%2C270&ssl=1',
+                                    'https://images.pexels.com/photos/10996964/pexels-photo-10996964.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

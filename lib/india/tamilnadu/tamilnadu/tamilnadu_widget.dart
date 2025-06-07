@@ -88,7 +88,7 @@ class _TamilnaduWidgetState extends State<TamilnaduWidget> {
                                           borderRadius:
                                               BorderRadius.circular(8.0),
                                           child: Image.network(
-                                            'https://images.articlesfactory.com/750x0/e9ce4869-bd20-4146-9c8b-131dcb9725c3.webp',
+                                            'https://images.pexels.com/photos/32399048/pexels-photo-32399048/free-photo-of-shore-temple-at-mahabalipuram-on-a-sunny-day.jpeg',
                                             width: MediaQuery.sizeOf(context)
                                                 .width,
                                             height: 739.0,

@@ -71,7 +71,7 @@ class _PuriWidgetState extends State<PuriWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://www.holidaymonk.com/wp-content/uploads/2024/06/Odisha-Tour-Package-with-Bhubaneswar-Puri-2.webp',
+                                    'https://images.pexels.com/photos/89566/pexels-photo-89566.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,

@@ -88,7 +88,7 @@ class _MizoramWidgetState extends State<MizoramWidget> {
                                           borderRadius:
                                               BorderRadius.circular(8.0),
                                           child: Image.network(
-                                            'https://www.holidify.com/images/bgImages/MIZORAM.jpg',
+                                            'https://images.pexels.com/photos/775663/pexels-photo-775663.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                             width: MediaQuery.sizeOf(context)
                                                 .width,
                                             height: 739.0,

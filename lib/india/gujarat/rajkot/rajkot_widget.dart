@@ -71,7 +71,7 @@ class _RajkotWidgetState extends State<RajkotWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://content.r9cdn.net/rimg/dimg/0c/e2/1dceb92b-city-373-15ad2c42f86.jpg?crop=true&width=1366&height=768&xhint=2779&yhint=2041',
+                                    'https://images.pexels.com/photos/926574/pexels-photo-926574.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,

@@ -81,7 +81,7 @@ class _WaterfallsMeghalayaWidgetState extends State<WaterfallsMeghalayaWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://images.travelandleisureasia.com/wp-content/uploads/sites/2/2024/02/28174640/HIFI-Mawsawa-Falls-Sachin_Bharali-Shutterstock.jpg?tr=w-1200,q-60',
+                                    'https://images.pexels.com/photos/945549/pexels-photo-945549.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

@@ -71,7 +71,7 @@ class _MewarFestivalsWidgetState extends State<MewarFestivalsWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://static.thehosteller.com/blogimage/pc-%20Indian%20Holiday%20Pvt.%20Ltd.-1698405802967.jpg',
+                                    'https://images.pexels.com/photos/925069/pexels-photo-925069.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

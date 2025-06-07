@@ -71,7 +71,7 @@ class _AyurvedicResortsWidgetState extends State<AyurvedicResortsWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://content.jdmagicbox.com/comp/thrissur/x7/9999px487.x487.220415235034.x4x7/catalogue/deepanjali-authentic-ayurveda-yoga-retreat-thrissur-spiritual-centres-biacmgdn2u.jpg',
+                                    'https://t4.ftcdn.net/jpg/01/64/62/13/240_F_164621341_vA1ZtJNeXpctAy7ASvEMtl5R6RG1pzOa.jpg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,

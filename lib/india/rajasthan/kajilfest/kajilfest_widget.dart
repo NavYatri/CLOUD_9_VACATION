@@ -71,7 +71,7 @@ class _KajilfestWidgetState extends State<KajilfestWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi33gNAMLt98Dw369DkQcDuhnl4AZI_k01V41lYuF6T8b8G_cH1gwzm66c9uK4ykPdVz_pm4-p6QOwjy1umjFKbpZZ769nrWe4U6CPfSd23Yt312ubOxUL5zygmJ_oAJ-zwyqwTiR_iHtM/s1600/6.jpg',
+                                    'https://images.pexels.com/photos/925069/pexels-photo-925069.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,

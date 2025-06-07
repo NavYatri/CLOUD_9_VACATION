@@ -69,7 +69,7 @@ class _ArtCrafteWestWidgetState extends State<ArtCrafteWestWidget> {
                               child: ClipRRect(
                                 borderRadius: BorderRadius.circular(8.0),
                                 child: Image.network(
-                                  'https://media.assettype.com/outlooktraveller%2Fimport%2Fpublic%2Fuploads%2Ffiles%2F2015%2F04%2F231115112845-Teracotta-horses-in-Bishnup.jpg',
+                                  'https://images.pexels.com/photos/18414735/pexels-photo-18414735/free-photo-of-victoria-memorial-in-kolkata.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                   width: MediaQuery.sizeOf(context).width,
                                   height: 736.0,
                                   fit: BoxFit.fill,

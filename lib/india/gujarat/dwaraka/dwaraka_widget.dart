@@ -71,7 +71,7 @@ class _DwarakaWidgetState extends State<DwarakaWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://static.wixstatic.com/media/2d34e5_8a3853c9880946149bdff11969125489~mv2.jpg/v1/fill/w_480,h_292,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/2d34e5_8a3853c9880946149bdff11969125489~mv2.jpg',
+                                    'https://images.pexels.com/photos/926574/pexels-photo-926574.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

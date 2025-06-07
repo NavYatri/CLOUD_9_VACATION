@@ -88,7 +88,7 @@ class _NagalandWidgetState extends State<NagalandWidget> {
                                           borderRadius:
                                               BorderRadius.circular(8.0),
                                           child: Image.network(
-                                            'https://etimg.etb2bimg.com/thumb/msid-91278280,imgsize-1345778,width-1200,height=765,overlay-ettravel/destination/states/niche-not-mass-new-nagaland-tourism-plan-to-focus-on-slow-travellers.jpg',
+                                            'https://images.pexels.com/photos/225732/pexels-photo-225732.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load',
                                             width: MediaQuery.sizeOf(context)
                                                 .width,
                                             height: 739.0,

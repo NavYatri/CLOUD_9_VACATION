@@ -71,7 +71,7 @@ class _LakesWidgetState extends State<LakesWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://www.connectingtraveller.com/images/localtip/1653824318tamdil-lake-mizoram1.jpg',
+                                    'https://images.pexels.com/photos/775663/pexels-photo-775663.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

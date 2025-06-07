@@ -71,7 +71,7 @@ class _OdishabeachesWidgetState extends State<OdishabeachesWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://www.holidify.com/images/cmsuploads/compressed/shutterstock_1274961796_20200326123957.jpg',
+                                    'https://images.pexels.com/photos/29547310/pexels-photo-29547310/free-photo-of-serene-beach-view-at-puri-odisha.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

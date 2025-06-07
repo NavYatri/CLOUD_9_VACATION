@@ -71,7 +71,7 @@ class _MuseumsGujaratWidgetState extends State<MuseumsGujaratWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2024/06/smriti-van-1718419653.jpg',
+                                    'https://images.pexels.com/photos/926574/pexels-photo-926574.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,

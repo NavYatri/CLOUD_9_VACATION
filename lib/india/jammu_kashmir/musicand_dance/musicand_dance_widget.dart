@@ -71,7 +71,7 @@ class _MusicandDanceWidgetState extends State<MusicandDanceWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://www.thecherrytree.in/wp-content/uploads/2013/04/Sufi-Music-@Tribune-India-TheCherryTree.in_.jpeg',
+                                    'https://images.pexels.com/photos/32420541/pexels-photo-32420541/free-photo-of-stunning-himalayan-landscape-at-sunrise.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.cover,

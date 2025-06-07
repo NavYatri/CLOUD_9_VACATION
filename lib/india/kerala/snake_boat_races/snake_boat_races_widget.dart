@@ -71,7 +71,7 @@ class _SnakeBoatRacesWidgetState extends State<SnakeBoatRacesWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://t3.ftcdn.net/jpg/07/87/41/10/240_F_787411071_qbxScR9tcm89Ociy6K3d4CaCEAMk3XqU.jpg',
+                                    'https://images.pexels.com/photos/8377242/pexels-photo-8377242.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

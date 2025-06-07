@@ -71,7 +71,7 @@ class _MonasteriesWidgetState extends State<MonasteriesWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://media.istockphoto.com/id/1912563697/photo/likir-monastery-ladakh-india-tibetan-buddhism-little-tibet.jpg?s=612x612&w=0&k=20&c=7UpoXVRAqmn70yjCNUCGUQfL-mBu5K-oCMw2fxD9ayw=',
+                                    'https://images.pexels.com/photos/32420541/pexels-photo-32420541/free-photo-of-stunning-himalayan-landscape-at-sunrise.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

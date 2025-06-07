@@ -73,7 +73,7 @@ class _PeopleandcultureGujaratWidgetState
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://newsarenaindia.com/_next/image?url=https%3A%2F%2Fapi.newsarenaindia.com%2F%2Fuploads%2Fimage-1-9jpg_1727789226129.jpg&w=1920&q=75',
+                                    'https://images.pexels.com/photos/926574/pexels-photo-926574.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,

@@ -71,7 +71,7 @@ class _PalaceonwheelsWidgetState extends State<PalaceonwheelsWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://www.orientrailjourneys.com/storage/blogs/93138d42451264486bd393035cc5e02b.jfif',
+                                    'https://images.pexels.com/photos/925069/pexels-photo-925069.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,

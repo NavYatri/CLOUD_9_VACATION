@@ -71,7 +71,7 @@ class _PuducherryWidgetState extends State<PuducherryWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://pondicherrytourism.co.in/images/places-to-visit/header/chunnambar-boat-house-parking-puducherry-tourism-entry-fee-timings-holidays-reviews-header.jpg',
+                                    'https://images.pexels.com/photos/32399048/pexels-photo-32399048/free-photo-of-shore-temple-at-mahabalipuram-on-a-sunny-day.jpeg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,

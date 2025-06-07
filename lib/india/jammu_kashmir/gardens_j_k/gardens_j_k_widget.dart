@@ -71,7 +71,7 @@ class _GardensJKWidgetState extends State<GardensJKWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://t4.ftcdn.net/jpg/03/29/12/61/240_F_329126116_4DB3idaDf6OH1fHZPtUx8v2ZwKrp7M11.jpg',
+                                    'https://images.pexels.com/photos/32420541/pexels-photo-32420541/free-photo-of-stunning-himalayan-landscape-at-sunrise.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,
