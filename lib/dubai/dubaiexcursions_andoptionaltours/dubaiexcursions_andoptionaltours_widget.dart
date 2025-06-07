@@ -726,7 +726,7 @@ class _DubaiexcursionsAndoptionaltoursWidgetState
                                                           .routeName);
                                                 },
                                                 child: Text(
-                                                  'Amaizing Dubai',
+                                                  'Amazing Dubai',
                                                   style: FlutterFlowTheme.of(
                                                           context)
                                                       .bodyMedium

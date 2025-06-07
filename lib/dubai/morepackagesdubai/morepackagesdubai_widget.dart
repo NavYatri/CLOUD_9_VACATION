@@ -1643,7 +1643,7 @@ class _MorepackagesdubaiWidgetState extends State<MorepackagesdubaiWidget> {
                                                           .routeName);
                                                 },
                                                 child: Text(
-                                                  'Amaizing Dubai',
+                                                  'Amazing Dubai',
                                                   style: FlutterFlowTheme.of(
                                                           context)
                                                       .bodyMedium

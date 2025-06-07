@@ -781,7 +781,7 @@ class _DubaiExpressWidgetState extends State<DubaiExpressWidget> {
                                                 AmazingDubaiWidget.routeName);
                                           },
                                           child: Text(
-                                            'Amaizing Dubai',
+                                            'Amazing Dubai',
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyMedium
                                                 .override(

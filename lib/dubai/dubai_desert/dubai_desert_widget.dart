@@ -964,7 +964,7 @@ class _DubaiDesertWidgetState extends State<DubaiDesertWidget> {
                                                 AmazingDubaiWidget.routeName);
                                           },
                                           child: Text(
-                                            'Amaizing Dubai',
+                                            'Amazing Dubai',
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyMedium
                                                 .override(
