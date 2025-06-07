@@ -1628,7 +1628,7 @@ class _MaharashtraWidgetState extends State<MaharashtraWidget> {
                                                     Colors.transparent,
                                                 onTap: () async {
                                                   context.pushNamed(
-                                                      GwaliorWidget.routeName);
+                                                      PuneWidget.routeName);
                                                 },
                                                 child: Text(
                                                   'Pune',

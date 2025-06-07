@@ -71,7 +71,7 @@ class _PuneWidgetState extends State<PuneWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/a6/3e/4a/view-from-the-top.jpg?w=1200&h=-1&s=1',
+                                    'https://media.digitalnomads.world/wp-content/uploads/2021/11/20114722/pune-digital-nomads.jpg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,
