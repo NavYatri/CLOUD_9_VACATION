@@ -88,7 +88,7 @@ class _SriLankaWidgetState extends State<SriLankaWidget> {
                                             borderRadius:
                                                 BorderRadius.circular(8.0),
                                             child: Image.network(
-                                              'https://imageio.forbes.com/specials-images/imageserve/669586ab808e35d887e3449c/0x0.jpg?format=jpg&crop=1151,647,x0,y2,safe&height=900&width=1600&fit=bounds',
+                                              'https://images.travelandleisureasia.com/wp-content/uploads/sites/2/2023/09/06132056/sri-lanka-1.jpeg',
                                               width: MediaQuery.sizeOf(context)
                                                   .width,
                                               height: 739.0,

@@ -75,7 +75,7 @@ class _WeekendInMoscowWidgetState extends State<WeekendInMoscowWidget> {
                             child: ClipRRect(
                               borderRadius: BorderRadius.circular(8.0),
                               child: Image.network(
-                                'https://media.istockphoto.com/id/496034328/photo/good-morning-moscow.jpg?s=612x612&w=0&k=20&c=QQtGSnSRDN50ie6C5kOfnxz38HTDOrIiNG21j1ecpyk=',
+                                'https://images.pexels.com/photos/8612083/pexels-photo-8612083.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                 width: MediaQuery.sizeOf(context).width,
                                 height: 736.0,
                                 fit: BoxFit.fitWidth,
@@ -870,7 +870,7 @@ class _WeekendInMoscowWidgetState extends State<WeekendInMoscowWidget> {
                                         CrossAxisAlignment.start,
                                     children: [
                                       Container(
-                                        width: 350.0,
+                                        width: 400.0,
                                         decoration: BoxDecoration(
                                           color: FlutterFlowTheme.of(context)
                                               .secondaryBackground,
