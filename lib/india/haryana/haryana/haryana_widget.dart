@@ -260,7 +260,7 @@ class _HaryanaWidgetState extends State<HaryanaWidget> {
                                                           ),
                                                           color:
                                                               Color(0xFFD39F47),
-                                                          fontSize: 24.0,
+                                                          fontSize: 14.0,
                                                           letterSpacing: 0.0,
                                                           fontWeight:
                                                               FontWeight.bold,
@@ -447,7 +447,7 @@ class _HaryanaWidgetState extends State<HaryanaWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight: FontWeight.bold,
                                                     fontStyle:
@@ -485,7 +485,7 @@ class _HaryanaWidgetState extends State<HaryanaWidget> {
                                                                     .bodyMedium
                                                                     .fontStyle,
                                                           ),
-                                                          fontSize: 24.0,
+                                                          fontSize: 14.0,
                                                           letterSpacing: 0.0,
                                                           fontWeight:
                                                               FontWeight.normal,
@@ -524,7 +524,7 @@ class _HaryanaWidgetState extends State<HaryanaWidget> {
                                                                     .bodyMedium
                                                                     .fontStyle,
                                                           ),
-                                                          fontSize: 24.0,
+                                                          fontSize: 14.0,
                                                           letterSpacing: 0.0,
                                                           fontWeight:
                                                               FontWeight.normal,
@@ -563,7 +563,7 @@ class _HaryanaWidgetState extends State<HaryanaWidget> {
                                                                     .bodyMedium
                                                                     .fontStyle,
                                                           ),
-                                                          fontSize: 24.0,
+                                                          fontSize: 14.0,
                                                           letterSpacing: 0.0,
                                                           fontWeight:
                                                               FontWeight.normal,
@@ -591,7 +591,7 @@ class _HaryanaWidgetState extends State<HaryanaWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight: FontWeight.bold,
                                                     fontStyle:
@@ -629,7 +629,7 @@ class _HaryanaWidgetState extends State<HaryanaWidget> {
                                                                     .bodyMedium
                                                                     .fontStyle,
                                                           ),
-                                                          fontSize: 24.0,
+                                                          fontSize: 14.0,
                                                           letterSpacing: 0.0,
                                                           fontWeight:
                                                               FontWeight.normal,
@@ -669,7 +669,7 @@ class _HaryanaWidgetState extends State<HaryanaWidget> {
                                                                     .bodyMedium
                                                                     .fontStyle,
                                                           ),
-                                                          fontSize: 24.0,
+                                                          fontSize: 14.0,
                                                           letterSpacing: 0.0,
                                                           fontWeight:
                                                               FontWeight.normal,
@@ -709,7 +709,7 @@ class _HaryanaWidgetState extends State<HaryanaWidget> {
                                                                     .bodyMedium
                                                                     .fontStyle,
                                                           ),
-                                                          fontSize: 24.0,
+                                                          fontSize: 14.0,
                                                           letterSpacing: 0.0,
                                                           fontWeight:
                                                               FontWeight.normal,

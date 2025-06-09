@@ -32,7 +32,7 @@ const RESOURCES = {"assets/assets/rive_animations/favicon.png": "5dcef449791fa27
 "/": "f3fbcea918320e9823717d9e1fcbc6ec",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"main.dart.js": "3afed7b82ed135473ba6d44b90527a32",
+"main.dart.js": "8609bfa4683d7b81af38b56350c357d4",
 "Heading-removebg-preview.png": "eb968bdf98af1492643f19b90b2a8e3d",
 "flutter.js": "83d881c1dbb6d6bcd6b42e274605b69c",
 "vercel.json": "61bd31a2b0ac08f10f13c932b32d6ca1",

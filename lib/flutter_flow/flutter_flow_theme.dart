@@ -253,7 +253,7 @@ class MobileTypography extends Typography {
   TextStyle get headlineSmall => GoogleFonts.inriaSerif(
         color: theme.primaryText,
         fontWeight: FontWeight.w600,
-        fontSize: 24.0,
+        fontSize: 14.0,
       );
   String get titleLargeFamily => 'Inria Serif';
   bool get titleLargeIsCustom => false;
@@ -365,7 +365,7 @@ class TabletTypography extends Typography {
   TextStyle get headlineSmall => GoogleFonts.inriaSerif(
         color: theme.primaryText,
         fontWeight: FontWeight.w600,
-        fontSize: 24.0,
+        fontSize: 14.0,
       );
   String get titleLargeFamily => 'Inria Serif';
   bool get titleLargeIsCustom => false;
@@ -477,7 +477,7 @@ class DesktopTypography extends Typography {
   TextStyle get headlineSmall => GoogleFonts.inriaSerif(
         color: theme.primaryText,
         fontWeight: FontWeight.w600,
-        fontSize: 24.0,
+        fontSize: 14.0,
       );
   String get titleLargeFamily => 'Inria Serif';
   bool get titleLargeIsCustom => false;

@@ -70,7 +70,7 @@ class _StatesofindiaWidgetState extends State<StatesofindiaWidget> {
                               FlutterFlowTheme.of(context).bodyMedium.fontStyle,
                         ),
                         color: Color(0xFFDDA850),
-                        fontSize: 54.0,
+                        fontSize: 32.0,
                         letterSpacing: 0.0,
                         fontWeight:
                             FlutterFlowTheme.of(context).bodyMedium.fontWeight,
@@ -97,7 +97,7 @@ class _StatesofindiaWidgetState extends State<StatesofindiaWidget> {
                           fontStyle:
                               FlutterFlowTheme.of(context).bodyMedium.fontStyle,
                         ),
-                        fontSize: 24.0,
+                        fontSize: 14.0,
                         letterSpacing: 0.0,
                         fontWeight:
                             FlutterFlowTheme.of(context).bodyMedium.fontWeight,
@@ -141,7 +141,7 @@ class _StatesofindiaWidgetState extends State<StatesofindiaWidget> {
                           fontStyle:
                               FlutterFlowTheme.of(context).bodyMedium.fontStyle,
                         ),
-                        fontSize: 24.0,
+                        fontSize: 14.0,
                         letterSpacing: 0.0,
                         fontWeight:
                             FlutterFlowTheme.of(context).bodyMedium.fontWeight,
@@ -185,7 +185,7 @@ class _StatesofindiaWidgetState extends State<StatesofindiaWidget> {
                           fontStyle:
                               FlutterFlowTheme.of(context).bodyMedium.fontStyle,
                         ),
-                        fontSize: 24.0,
+                        fontSize: 14.0,
                         letterSpacing: 0.0,
                         fontWeight:
                             FlutterFlowTheme.of(context).bodyMedium.fontWeight,
@@ -229,7 +229,7 @@ class _StatesofindiaWidgetState extends State<StatesofindiaWidget> {
                           fontStyle:
                               FlutterFlowTheme.of(context).bodyMedium.fontStyle,
                         ),
-                        fontSize: 24.0,
+                        fontSize: 14.0,
                         letterSpacing: 0.0,
                         fontWeight:
                             FlutterFlowTheme.of(context).bodyMedium.fontWeight,
@@ -273,7 +273,7 @@ class _StatesofindiaWidgetState extends State<StatesofindiaWidget> {
                           fontStyle:
                               FlutterFlowTheme.of(context).bodyMedium.fontStyle,
                         ),
-                        fontSize: 24.0,
+                        fontSize: 14.0,
                         letterSpacing: 0.0,
                         fontWeight:
                             FlutterFlowTheme.of(context).bodyMedium.fontWeight,
@@ -317,7 +317,7 @@ class _StatesofindiaWidgetState extends State<StatesofindiaWidget> {
                           fontStyle:
                               FlutterFlowTheme.of(context).bodyMedium.fontStyle,
                         ),
-                        fontSize: 24.0,
+                        fontSize: 14.0,
                         letterSpacing: 0.0,
                         fontWeight:
                             FlutterFlowTheme.of(context).bodyMedium.fontWeight,
@@ -361,7 +361,7 @@ class _StatesofindiaWidgetState extends State<StatesofindiaWidget> {
                           fontStyle:
                               FlutterFlowTheme.of(context).bodyMedium.fontStyle,
                         ),
-                        fontSize: 24.0,
+                        fontSize: 14.0,
                         letterSpacing: 0.0,
                         fontWeight:
                             FlutterFlowTheme.of(context).bodyMedium.fontWeight,
@@ -405,7 +405,7 @@ class _StatesofindiaWidgetState extends State<StatesofindiaWidget> {
                           fontStyle:
                               FlutterFlowTheme.of(context).bodyMedium.fontStyle,
                         ),
-                        fontSize: 24.0,
+                        fontSize: 14.0,
                         letterSpacing: 0.0,
                         fontWeight:
                             FlutterFlowTheme.of(context).bodyMedium.fontWeight,
@@ -449,7 +449,7 @@ class _StatesofindiaWidgetState extends State<StatesofindiaWidget> {
                           fontStyle:
                               FlutterFlowTheme.of(context).bodyMedium.fontStyle,
                         ),
-                        fontSize: 24.0,
+                        fontSize: 14.0,
                         letterSpacing: 0.0,
                         fontWeight:
                             FlutterFlowTheme.of(context).bodyMedium.fontWeight,
@@ -493,7 +493,7 @@ class _StatesofindiaWidgetState extends State<StatesofindiaWidget> {
                           fontStyle:
                               FlutterFlowTheme.of(context).bodyMedium.fontStyle,
                         ),
-                        fontSize: 24.0,
+                        fontSize: 14.0,
                         letterSpacing: 0.0,
                         fontWeight:
                             FlutterFlowTheme.of(context).bodyMedium.fontWeight,
@@ -537,7 +537,7 @@ class _StatesofindiaWidgetState extends State<StatesofindiaWidget> {
                           fontStyle:
                               FlutterFlowTheme.of(context).bodyMedium.fontStyle,
                         ),
-                        fontSize: 24.0,
+                        fontSize: 14.0,
                         letterSpacing: 0.0,
                         fontWeight:
                             FlutterFlowTheme.of(context).bodyMedium.fontWeight,
@@ -581,7 +581,7 @@ class _StatesofindiaWidgetState extends State<StatesofindiaWidget> {
                           fontStyle:
                               FlutterFlowTheme.of(context).bodyMedium.fontStyle,
                         ),
-                        fontSize: 24.0,
+                        fontSize: 14.0,
                         letterSpacing: 0.0,
                         fontWeight:
                             FlutterFlowTheme.of(context).bodyMedium.fontWeight,
@@ -625,7 +625,7 @@ class _StatesofindiaWidgetState extends State<StatesofindiaWidget> {
                           fontStyle:
                               FlutterFlowTheme.of(context).bodyMedium.fontStyle,
                         ),
-                        fontSize: 24.0,
+                        fontSize: 14.0,
                         letterSpacing: 0.0,
                         fontWeight:
                             FlutterFlowTheme.of(context).bodyMedium.fontWeight,
@@ -669,7 +669,7 @@ class _StatesofindiaWidgetState extends State<StatesofindiaWidget> {
                           fontStyle:
                               FlutterFlowTheme.of(context).bodyMedium.fontStyle,
                         ),
-                        fontSize: 24.0,
+                        fontSize: 14.0,
                         letterSpacing: 0.0,
                         fontWeight:
                             FlutterFlowTheme.of(context).bodyMedium.fontWeight,
@@ -713,7 +713,7 @@ class _StatesofindiaWidgetState extends State<StatesofindiaWidget> {
                           fontStyle:
                               FlutterFlowTheme.of(context).bodyMedium.fontStyle,
                         ),
-                        fontSize: 24.0,
+                        fontSize: 14.0,
                         letterSpacing: 0.0,
                         fontWeight:
                             FlutterFlowTheme.of(context).bodyMedium.fontWeight,
@@ -757,7 +757,7 @@ class _StatesofindiaWidgetState extends State<StatesofindiaWidget> {
                           fontStyle:
                               FlutterFlowTheme.of(context).bodyMedium.fontStyle,
                         ),
-                        fontSize: 24.0,
+                        fontSize: 14.0,
                         letterSpacing: 0.0,
                         fontWeight:
                             FlutterFlowTheme.of(context).bodyMedium.fontWeight,
@@ -801,7 +801,7 @@ class _StatesofindiaWidgetState extends State<StatesofindiaWidget> {
                           fontStyle:
                               FlutterFlowTheme.of(context).bodyMedium.fontStyle,
                         ),
-                        fontSize: 24.0,
+                        fontSize: 14.0,
                         letterSpacing: 0.0,
                         fontWeight:
                             FlutterFlowTheme.of(context).bodyMedium.fontWeight,
@@ -845,7 +845,7 @@ class _StatesofindiaWidgetState extends State<StatesofindiaWidget> {
                           fontStyle:
                               FlutterFlowTheme.of(context).bodyMedium.fontStyle,
                         ),
-                        fontSize: 24.0,
+                        fontSize: 14.0,
                         letterSpacing: 0.0,
                         fontWeight:
                             FlutterFlowTheme.of(context).bodyMedium.fontWeight,
@@ -889,7 +889,7 @@ class _StatesofindiaWidgetState extends State<StatesofindiaWidget> {
                           fontStyle:
                               FlutterFlowTheme.of(context).bodyMedium.fontStyle,
                         ),
-                        fontSize: 24.0,
+                        fontSize: 14.0,
                         letterSpacing: 0.0,
                         fontWeight:
                             FlutterFlowTheme.of(context).bodyMedium.fontWeight,
@@ -933,7 +933,7 @@ class _StatesofindiaWidgetState extends State<StatesofindiaWidget> {
                           fontStyle:
                               FlutterFlowTheme.of(context).bodyMedium.fontStyle,
                         ),
-                        fontSize: 24.0,
+                        fontSize: 14.0,
                         letterSpacing: 0.0,
                         fontWeight:
                             FlutterFlowTheme.of(context).bodyMedium.fontWeight,
@@ -977,7 +977,7 @@ class _StatesofindiaWidgetState extends State<StatesofindiaWidget> {
                           fontStyle:
                               FlutterFlowTheme.of(context).bodyMedium.fontStyle,
                         ),
-                        fontSize: 24.0,
+                        fontSize: 14.0,
                         letterSpacing: 0.0,
                         fontWeight:
                             FlutterFlowTheme.of(context).bodyMedium.fontWeight,
@@ -1021,7 +1021,7 @@ class _StatesofindiaWidgetState extends State<StatesofindiaWidget> {
                           fontStyle:
                               FlutterFlowTheme.of(context).bodyMedium.fontStyle,
                         ),
-                        fontSize: 24.0,
+                        fontSize: 14.0,
                         letterSpacing: 0.0,
                         fontWeight:
                             FlutterFlowTheme.of(context).bodyMedium.fontWeight,
@@ -1065,7 +1065,7 @@ class _StatesofindiaWidgetState extends State<StatesofindiaWidget> {
                           fontStyle:
                               FlutterFlowTheme.of(context).bodyMedium.fontStyle,
                         ),
-                        fontSize: 24.0,
+                        fontSize: 14.0,
                         letterSpacing: 0.0,
                         fontWeight:
                             FlutterFlowTheme.of(context).bodyMedium.fontWeight,
@@ -1109,7 +1109,7 @@ class _StatesofindiaWidgetState extends State<StatesofindiaWidget> {
                           fontStyle:
                               FlutterFlowTheme.of(context).bodyMedium.fontStyle,
                         ),
-                        fontSize: 24.0,
+                        fontSize: 14.0,
                         letterSpacing: 0.0,
                         fontWeight:
                             FlutterFlowTheme.of(context).bodyMedium.fontWeight,
@@ -1153,7 +1153,7 @@ class _StatesofindiaWidgetState extends State<StatesofindiaWidget> {
                           fontStyle:
                               FlutterFlowTheme.of(context).bodyMedium.fontStyle,
                         ),
-                        fontSize: 24.0,
+                        fontSize: 14.0,
                         letterSpacing: 0.0,
                         fontWeight:
                             FlutterFlowTheme.of(context).bodyMedium.fontWeight,
@@ -1197,7 +1197,7 @@ class _StatesofindiaWidgetState extends State<StatesofindiaWidget> {
                           fontStyle:
                               FlutterFlowTheme.of(context).bodyMedium.fontStyle,
                         ),
-                        fontSize: 24.0,
+                        fontSize: 14.0,
                         letterSpacing: 0.0,
                         fontWeight:
                             FlutterFlowTheme.of(context).bodyMedium.fontWeight,
@@ -1241,7 +1241,7 @@ class _StatesofindiaWidgetState extends State<StatesofindiaWidget> {
                           fontStyle:
                               FlutterFlowTheme.of(context).bodyMedium.fontStyle,
                         ),
-                        fontSize: 24.0,
+                        fontSize: 14.0,
                         letterSpacing: 0.0,
                         fontWeight:
                             FlutterFlowTheme.of(context).bodyMedium.fontWeight,
@@ -1285,7 +1285,7 @@ class _StatesofindiaWidgetState extends State<StatesofindiaWidget> {
                           fontStyle:
                               FlutterFlowTheme.of(context).bodyMedium.fontStyle,
                         ),
-                        fontSize: 24.0,
+                        fontSize: 14.0,
                         letterSpacing: 0.0,
                         fontWeight:
                             FlutterFlowTheme.of(context).bodyMedium.fontWeight,
@@ -1329,7 +1329,7 @@ class _StatesofindiaWidgetState extends State<StatesofindiaWidget> {
                           fontStyle:
                               FlutterFlowTheme.of(context).bodyMedium.fontStyle,
                         ),
-                        fontSize: 24.0,
+                        fontSize: 14.0,
                         letterSpacing: 0.0,
                         fontWeight:
                             FlutterFlowTheme.of(context).bodyMedium.fontWeight,
@@ -1373,7 +1373,7 @@ class _StatesofindiaWidgetState extends State<StatesofindiaWidget> {
                           fontStyle:
                               FlutterFlowTheme.of(context).bodyMedium.fontStyle,
                         ),
-                        fontSize: 24.0,
+                        fontSize: 14.0,
                         letterSpacing: 0.0,
                         fontWeight:
                             FlutterFlowTheme.of(context).bodyMedium.fontWeight,
@@ -1417,7 +1417,7 @@ class _StatesofindiaWidgetState extends State<StatesofindiaWidget> {
                           fontStyle:
                               FlutterFlowTheme.of(context).bodyMedium.fontStyle,
                         ),
-                        fontSize: 24.0,
+                        fontSize: 14.0,
                         letterSpacing: 0.0,
                         fontWeight:
                             FlutterFlowTheme.of(context).bodyMedium.fontWeight,

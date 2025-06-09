@@ -817,7 +817,7 @@ class _OdishaWidgetState extends State<OdishaWidget> {
                                                             .bodyMedium
                                                             .fontStyle,
                                                   ),
-                                                  fontSize: 24.0,
+                                                  fontSize: 14.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight: FontWeight.bold,
                                                   fontStyle:
@@ -853,7 +853,7 @@ class _OdishaWidgetState extends State<OdishaWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -891,7 +891,7 @@ class _OdishaWidgetState extends State<OdishaWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -929,7 +929,7 @@ class _OdishaWidgetState extends State<OdishaWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -967,7 +967,7 @@ class _OdishaWidgetState extends State<OdishaWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -1005,7 +1005,7 @@ class _OdishaWidgetState extends State<OdishaWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -1042,7 +1042,7 @@ class _OdishaWidgetState extends State<OdishaWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -1080,7 +1080,7 @@ class _OdishaWidgetState extends State<OdishaWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -1118,7 +1118,7 @@ class _OdishaWidgetState extends State<OdishaWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -1155,7 +1155,7 @@ class _OdishaWidgetState extends State<OdishaWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -1192,7 +1192,7 @@ class _OdishaWidgetState extends State<OdishaWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -1217,7 +1217,7 @@ class _OdishaWidgetState extends State<OdishaWidget> {
                                                             .bodyMedium
                                                             .fontStyle,
                                                   ),
-                                                  fontSize: 24.0,
+                                                  fontSize: 14.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight: FontWeight.bold,
                                                   fontStyle:
@@ -1252,7 +1252,7 @@ class _OdishaWidgetState extends State<OdishaWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -1289,7 +1289,7 @@ class _OdishaWidgetState extends State<OdishaWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -1327,7 +1327,7 @@ class _OdishaWidgetState extends State<OdishaWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -1364,7 +1364,7 @@ class _OdishaWidgetState extends State<OdishaWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -1401,7 +1401,7 @@ class _OdishaWidgetState extends State<OdishaWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -1438,7 +1438,7 @@ class _OdishaWidgetState extends State<OdishaWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -1475,7 +1475,7 @@ class _OdishaWidgetState extends State<OdishaWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -1512,7 +1512,7 @@ class _OdishaWidgetState extends State<OdishaWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,

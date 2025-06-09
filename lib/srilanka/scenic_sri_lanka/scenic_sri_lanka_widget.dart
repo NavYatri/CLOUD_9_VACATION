@@ -816,7 +816,7 @@ class _ScenicSriLankaWidgetState extends State<ScenicSriLankaWidget> {
                                                           .fontStyle,
                                                 ),
                                                 color: Color(0xFFD39F47),
-                                                fontSize: 54.0,
+                                                fontSize: 32.0,
                                                 letterSpacing: 0.0,
                                                 fontWeight:
                                                     FlutterFlowTheme.of(context)
@@ -866,7 +866,7 @@ class _ScenicSriLankaWidgetState extends State<ScenicSriLankaWidget> {
                                                             .bodyMedium
                                                             .fontStyle,
                                                   ),
-                                                  fontSize: 24.0,
+                                                  fontSize: 14.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight:
                                                       FlutterFlowTheme.of(
@@ -934,7 +934,7 @@ class _ScenicSriLankaWidgetState extends State<ScenicSriLankaWidget> {
                                                             .bodyMedium
                                                             .fontStyle,
                                                   ),
-                                                  fontSize: 24.0,
+                                                  fontSize: 14.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight:
                                                       FlutterFlowTheme.of(
@@ -1001,7 +1001,7 @@ class _ScenicSriLankaWidgetState extends State<ScenicSriLankaWidget> {
                                                             .bodyMedium
                                                             .fontStyle,
                                                   ),
-                                                  fontSize: 24.0,
+                                                  fontSize: 14.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight:
                                                       FlutterFlowTheme.of(
@@ -1069,7 +1069,7 @@ class _ScenicSriLankaWidgetState extends State<ScenicSriLankaWidget> {
                                                             .bodyMedium
                                                             .fontStyle,
                                                   ),
-                                                  fontSize: 24.0,
+                                                  fontSize: 14.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight:
                                                       FlutterFlowTheme.of(
@@ -1137,7 +1137,7 @@ class _ScenicSriLankaWidgetState extends State<ScenicSriLankaWidget> {
                                                             .bodyMedium
                                                             .fontStyle,
                                                   ),
-                                                  fontSize: 24.0,
+                                                  fontSize: 14.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight:
                                                       FlutterFlowTheme.of(
@@ -1195,7 +1195,7 @@ class _ScenicSriLankaWidgetState extends State<ScenicSriLankaWidget> {
                                                           .bodyMedium
                                                           .fontStyle,
                                                 ),
-                                                fontSize: 24.0,
+                                                fontSize: 14.0,
                                                 letterSpacing: 0.0,
                                                 fontWeight:
                                                     FlutterFlowTheme.of(context)
@@ -1250,7 +1250,7 @@ class _ScenicSriLankaWidgetState extends State<ScenicSriLankaWidget> {
                                                           .bodyMedium
                                                           .fontStyle,
                                                 ),
-                                                fontSize: 24.0,
+                                                fontSize: 14.0,
                                                 letterSpacing: 0.0,
                                                 fontWeight:
                                                     FlutterFlowTheme.of(context)

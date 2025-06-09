@@ -972,7 +972,7 @@ class _TamilnaduWidgetState extends State<TamilnaduWidget> {
                                                             .bodyMedium
                                                             .fontStyle,
                                                   ),
-                                                  fontSize: 24.0,
+                                                  fontSize: 14.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight: FontWeight.bold,
                                                   fontStyle:
@@ -1008,7 +1008,7 @@ class _TamilnaduWidgetState extends State<TamilnaduWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -1045,7 +1045,7 @@ class _TamilnaduWidgetState extends State<TamilnaduWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -1082,7 +1082,7 @@ class _TamilnaduWidgetState extends State<TamilnaduWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -1119,7 +1119,7 @@ class _TamilnaduWidgetState extends State<TamilnaduWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -1156,7 +1156,7 @@ class _TamilnaduWidgetState extends State<TamilnaduWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -1193,7 +1193,7 @@ class _TamilnaduWidgetState extends State<TamilnaduWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -1230,7 +1230,7 @@ class _TamilnaduWidgetState extends State<TamilnaduWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -1267,7 +1267,7 @@ class _TamilnaduWidgetState extends State<TamilnaduWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -1304,7 +1304,7 @@ class _TamilnaduWidgetState extends State<TamilnaduWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -1342,7 +1342,7 @@ class _TamilnaduWidgetState extends State<TamilnaduWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -1379,7 +1379,7 @@ class _TamilnaduWidgetState extends State<TamilnaduWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -1417,7 +1417,7 @@ class _TamilnaduWidgetState extends State<TamilnaduWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,

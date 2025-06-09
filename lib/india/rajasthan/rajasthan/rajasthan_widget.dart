@@ -2074,7 +2074,7 @@ class _RajasthanWidgetState extends State<RajasthanWidget> {
                                                             .bodyMedium
                                                             .fontStyle,
                                                   ),
-                                                  fontSize: 24.0,
+                                                  fontSize: 14.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight: FontWeight.bold,
                                                   fontStyle:
@@ -2110,7 +2110,7 @@ class _RajasthanWidgetState extends State<RajasthanWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -2147,7 +2147,7 @@ class _RajasthanWidgetState extends State<RajasthanWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -2185,7 +2185,7 @@ class _RajasthanWidgetState extends State<RajasthanWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -2223,7 +2223,7 @@ class _RajasthanWidgetState extends State<RajasthanWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -2261,7 +2261,7 @@ class _RajasthanWidgetState extends State<RajasthanWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -2299,7 +2299,7 @@ class _RajasthanWidgetState extends State<RajasthanWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -2336,7 +2336,7 @@ class _RajasthanWidgetState extends State<RajasthanWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -2374,7 +2374,7 @@ class _RajasthanWidgetState extends State<RajasthanWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -2412,7 +2412,7 @@ class _RajasthanWidgetState extends State<RajasthanWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -2450,7 +2450,7 @@ class _RajasthanWidgetState extends State<RajasthanWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -2488,7 +2488,7 @@ class _RajasthanWidgetState extends State<RajasthanWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -2526,7 +2526,7 @@ class _RajasthanWidgetState extends State<RajasthanWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -2564,7 +2564,7 @@ class _RajasthanWidgetState extends State<RajasthanWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -2602,7 +2602,7 @@ class _RajasthanWidgetState extends State<RajasthanWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -2640,7 +2640,7 @@ class _RajasthanWidgetState extends State<RajasthanWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -2678,7 +2678,7 @@ class _RajasthanWidgetState extends State<RajasthanWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -2715,7 +2715,7 @@ class _RajasthanWidgetState extends State<RajasthanWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -2753,7 +2753,7 @@ class _RajasthanWidgetState extends State<RajasthanWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -2778,7 +2778,7 @@ class _RajasthanWidgetState extends State<RajasthanWidget> {
                                                             .bodyMedium
                                                             .fontStyle,
                                                   ),
-                                                  fontSize: 24.0,
+                                                  fontSize: 14.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight: FontWeight.bold,
                                                   fontStyle:
@@ -2813,7 +2813,7 @@ class _RajasthanWidgetState extends State<RajasthanWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -2850,7 +2850,7 @@ class _RajasthanWidgetState extends State<RajasthanWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -2887,7 +2887,7 @@ class _RajasthanWidgetState extends State<RajasthanWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -2924,7 +2924,7 @@ class _RajasthanWidgetState extends State<RajasthanWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -2961,7 +2961,7 @@ class _RajasthanWidgetState extends State<RajasthanWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -2998,7 +2998,7 @@ class _RajasthanWidgetState extends State<RajasthanWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -3035,7 +3035,7 @@ class _RajasthanWidgetState extends State<RajasthanWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -3072,7 +3072,7 @@ class _RajasthanWidgetState extends State<RajasthanWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -3109,7 +3109,7 @@ class _RajasthanWidgetState extends State<RajasthanWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -3146,7 +3146,7 @@ class _RajasthanWidgetState extends State<RajasthanWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -3183,7 +3183,7 @@ class _RajasthanWidgetState extends State<RajasthanWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -3220,7 +3220,7 @@ class _RajasthanWidgetState extends State<RajasthanWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -3257,7 +3257,7 @@ class _RajasthanWidgetState extends State<RajasthanWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -3294,7 +3294,7 @@ class _RajasthanWidgetState extends State<RajasthanWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -3331,7 +3331,7 @@ class _RajasthanWidgetState extends State<RajasthanWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -3368,7 +3368,7 @@ class _RajasthanWidgetState extends State<RajasthanWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -3405,7 +3405,7 @@ class _RajasthanWidgetState extends State<RajasthanWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -3443,7 +3443,7 @@ class _RajasthanWidgetState extends State<RajasthanWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -3480,7 +3480,7 @@ class _RajasthanWidgetState extends State<RajasthanWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,
@@ -3517,7 +3517,7 @@ class _RajasthanWidgetState extends State<RajasthanWidget> {
                                                               .bodyMedium
                                                               .fontStyle,
                                                     ),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight:
                                                         FontWeight.normal,

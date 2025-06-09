@@ -259,7 +259,7 @@ class _SultanpurBirdSanctuaryharyanaWidgetState
                                                               .fontStyle,
                                                     ),
                                                     color: Color(0xFFD39F47),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight: FontWeight.bold,
                                                     fontStyle:
@@ -336,7 +336,7 @@ class _SultanpurBirdSanctuaryharyanaWidgetState
                                                               .fontStyle,
                                                     ),
                                                     color: Color(0xFFD39F47),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight: FontWeight.bold,
                                                     fontStyle:
@@ -426,7 +426,7 @@ class _SultanpurBirdSanctuaryharyanaWidgetState
                                                               .fontStyle,
                                                     ),
                                                     color: Color(0xFFD39F47),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight: FontWeight.bold,
                                                     fontStyle:
@@ -537,7 +537,7 @@ class _SultanpurBirdSanctuaryharyanaWidgetState
                                                               .fontStyle,
                                                     ),
                                                     color: Color(0xFFD39F47),
-                                                    fontSize: 24.0,
+                                                    fontSize: 14.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight: FontWeight.bold,
                                                     fontStyle:

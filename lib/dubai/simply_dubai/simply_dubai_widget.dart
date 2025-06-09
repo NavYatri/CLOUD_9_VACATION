@@ -819,7 +819,7 @@ class _SimplyDubaiWidgetState extends State<SimplyDubaiWidget> {
                                                           .fontStyle,
                                                 ),
                                                 color: Color(0xFFD39F47),
-                                                fontSize: 54.0,
+                                                fontSize: 32.0,
                                                 letterSpacing: 0.0,
                                                 fontWeight:
                                                     FlutterFlowTheme.of(context)
@@ -868,7 +868,7 @@ class _SimplyDubaiWidgetState extends State<SimplyDubaiWidget> {
                                                             .bodyMedium
                                                             .fontStyle,
                                                   ),
-                                                  fontSize: 24.0,
+                                                  fontSize: 14.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight:
                                                       FlutterFlowTheme.of(
@@ -935,7 +935,7 @@ class _SimplyDubaiWidgetState extends State<SimplyDubaiWidget> {
                                                             .bodyMedium
                                                             .fontStyle,
                                                   ),
-                                                  fontSize: 24.0,
+                                                  fontSize: 14.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight:
                                                       FlutterFlowTheme.of(
@@ -1003,7 +1003,7 @@ class _SimplyDubaiWidgetState extends State<SimplyDubaiWidget> {
                                                             .bodyMedium
                                                             .fontStyle,
                                                   ),
-                                                  fontSize: 24.0,
+                                                  fontSize: 14.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight:
                                                       FlutterFlowTheme.of(
@@ -1070,7 +1070,7 @@ class _SimplyDubaiWidgetState extends State<SimplyDubaiWidget> {
                                                             .bodyMedium
                                                             .fontStyle,
                                                   ),
-                                                  fontSize: 24.0,
+                                                  fontSize: 14.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight:
                                                       FlutterFlowTheme.of(
@@ -1137,7 +1137,7 @@ class _SimplyDubaiWidgetState extends State<SimplyDubaiWidget> {
                                                             .bodyMedium
                                                             .fontStyle,
                                                   ),
-                                                  fontSize: 24.0,
+                                                  fontSize: 14.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight:
                                                       FlutterFlowTheme.of(
@@ -1204,7 +1204,7 @@ class _SimplyDubaiWidgetState extends State<SimplyDubaiWidget> {
                                                             .bodyMedium
                                                             .fontStyle,
                                                   ),
-                                                  fontSize: 24.0,
+                                                  fontSize: 14.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight:
                                                       FlutterFlowTheme.of(
@@ -1272,7 +1272,7 @@ class _SimplyDubaiWidgetState extends State<SimplyDubaiWidget> {
                                                             .bodyMedium
                                                             .fontStyle,
                                                   ),
-                                                  fontSize: 24.0,
+                                                  fontSize: 14.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight:
                                                       FlutterFlowTheme.of(
@@ -1340,7 +1340,7 @@ class _SimplyDubaiWidgetState extends State<SimplyDubaiWidget> {
                                                             .bodyMedium
                                                             .fontStyle,
                                                   ),
-                                                  fontSize: 24.0,
+                                                  fontSize: 14.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight:
                                                       FlutterFlowTheme.of(
@@ -1408,7 +1408,7 @@ class _SimplyDubaiWidgetState extends State<SimplyDubaiWidget> {
                                                             .bodyMedium
                                                             .fontStyle,
                                                   ),
-                                                  fontSize: 24.0,
+                                                  fontSize: 14.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight:
                                                       FlutterFlowTheme.of(

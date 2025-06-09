@@ -816,7 +816,7 @@ class _EgyptValleyofKingsWidgetState extends State<EgyptValleyofKingsWidget> {
                                                           .fontStyle,
                                                 ),
                                                 color: Color(0xFFD39F47),
-                                                fontSize: 54.0,
+                                                fontSize: 32.0,
                                                 letterSpacing: 0.0,
                                                 fontWeight:
                                                     FlutterFlowTheme.of(context)
@@ -866,7 +866,7 @@ class _EgyptValleyofKingsWidgetState extends State<EgyptValleyofKingsWidget> {
                                                             .bodyMedium
                                                             .fontStyle,
                                                   ),
-                                                  fontSize: 24.0,
+                                                  fontSize: 14.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight:
                                                       FlutterFlowTheme.of(
@@ -934,7 +934,7 @@ class _EgyptValleyofKingsWidgetState extends State<EgyptValleyofKingsWidget> {
                                                             .bodyMedium
                                                             .fontStyle,
                                                   ),
-                                                  fontSize: 24.0,
+                                                  fontSize: 14.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight:
                                                       FlutterFlowTheme.of(
@@ -1002,7 +1002,7 @@ class _EgyptValleyofKingsWidgetState extends State<EgyptValleyofKingsWidget> {
                                                             .bodyMedium
                                                             .fontStyle,
                                                   ),
-                                                  fontSize: 24.0,
+                                                  fontSize: 14.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight:
                                                       FlutterFlowTheme.of(
@@ -1070,7 +1070,7 @@ class _EgyptValleyofKingsWidgetState extends State<EgyptValleyofKingsWidget> {
                                                             .bodyMedium
                                                             .fontStyle,
                                                   ),
-                                                  fontSize: 24.0,
+                                                  fontSize: 14.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight:
                                                       FlutterFlowTheme.of(
@@ -1138,7 +1138,7 @@ class _EgyptValleyofKingsWidgetState extends State<EgyptValleyofKingsWidget> {
                                                             .bodyMedium
                                                             .fontStyle,
                                                   ),
-                                                  fontSize: 24.0,
+                                                  fontSize: 14.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight:
                                                       FlutterFlowTheme.of(
@@ -1205,7 +1205,7 @@ class _EgyptValleyofKingsWidgetState extends State<EgyptValleyofKingsWidget> {
                                                             .bodyMedium
                                                             .fontStyle,
                                                   ),
-                                                  fontSize: 24.0,
+                                                  fontSize: 14.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight:
                                                       FlutterFlowTheme.of(
@@ -1273,7 +1273,7 @@ class _EgyptValleyofKingsWidgetState extends State<EgyptValleyofKingsWidget> {
                                                             .bodyMedium
                                                             .fontStyle,
                                                   ),
-                                                  fontSize: 24.0,
+                                                  fontSize: 14.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight:
                                                       FlutterFlowTheme.of(
@@ -1341,7 +1341,7 @@ class _EgyptValleyofKingsWidgetState extends State<EgyptValleyofKingsWidget> {
                                                             .bodyMedium
                                                             .fontStyle,
                                                   ),
-                                                  fontSize: 24.0,
+                                                  fontSize: 14.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight:
                                                       FlutterFlowTheme.of(
@@ -1409,7 +1409,7 @@ class _EgyptValleyofKingsWidgetState extends State<EgyptValleyofKingsWidget> {
                                                             .bodyMedium
                                                             .fontStyle,
                                                   ),
-                                                  fontSize: 24.0,
+                                                  fontSize: 14.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight:
                                                       FlutterFlowTheme.of(
@@ -1476,7 +1476,7 @@ class _EgyptValleyofKingsWidgetState extends State<EgyptValleyofKingsWidget> {
                                                             .bodyMedium
                                                             .fontStyle,
                                                   ),
-                                                  fontSize: 24.0,
+                                                  fontSize: 14.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight:
                                                       FlutterFlowTheme.of(
@@ -1544,7 +1544,7 @@ class _EgyptValleyofKingsWidgetState extends State<EgyptValleyofKingsWidget> {
                                                             .bodyMedium
                                                             .fontStyle,
                                                   ),
-                                                  fontSize: 24.0,
+                                                  fontSize: 14.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight:
                                                       FlutterFlowTheme.of(

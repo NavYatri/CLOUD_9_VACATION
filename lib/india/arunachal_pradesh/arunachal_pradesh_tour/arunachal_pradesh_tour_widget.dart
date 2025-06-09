@@ -1198,7 +1198,7 @@ class _ArunachalPradeshTourWidgetState
                                                           .bodyMedium
                                                           .fontStyle,
                                                 ),
-                                                fontSize: 24.0,
+                                                fontSize: 14.0,
                                                 letterSpacing: 0.0,
                                                 fontWeight: FontWeight.bold,
                                                 fontStyle:
@@ -1230,7 +1230,7 @@ class _ArunachalPradeshTourWidgetState
                                                             .bodyMedium
                                                             .fontStyle,
                                                   ),
-                                                  fontSize: 24.0,
+                                                  fontSize: 14.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight: FontWeight.normal,
                                                   fontStyle:
@@ -1264,7 +1264,7 @@ class _ArunachalPradeshTourWidgetState
                                                             .bodyMedium
                                                             .fontStyle,
                                                   ),
-                                                  fontSize: 24.0,
+                                                  fontSize: 14.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight: FontWeight.normal,
                                                   fontStyle:
@@ -1298,7 +1298,7 @@ class _ArunachalPradeshTourWidgetState
                                                             .bodyMedium
                                                             .fontStyle,
                                                   ),
-                                                  fontSize: 24.0,
+                                                  fontSize: 14.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight: FontWeight.normal,
                                                   fontStyle:
@@ -1322,7 +1322,7 @@ class _ArunachalPradeshTourWidgetState
                                                           .bodyMedium
                                                           .fontStyle,
                                                 ),
-                                                fontSize: 24.0,
+                                                fontSize: 14.0,
                                                 letterSpacing: 0.0,
                                                 fontWeight: FontWeight.bold,
                                                 fontStyle:
@@ -1354,7 +1354,7 @@ class _ArunachalPradeshTourWidgetState
                                                             .bodyMedium
                                                             .fontStyle,
                                                   ),
-                                                  fontSize: 24.0,
+                                                  fontSize: 14.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight: FontWeight.normal,
                                                   fontStyle:
@@ -1389,7 +1389,7 @@ class _ArunachalPradeshTourWidgetState
                                                             .bodyMedium
                                                             .fontStyle,
                                                   ),
-                                                  fontSize: 24.0,
+                                                  fontSize: 14.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight: FontWeight.normal,
                                                   fontStyle:

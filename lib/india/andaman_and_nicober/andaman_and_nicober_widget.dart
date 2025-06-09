@@ -219,7 +219,7 @@ class _AndamanAndNicoberWidgetState extends State<AndamanAndNicoberWidget> {
                                                             FlutterFlowTheme.of(
                                                                     context)
                                                                 .bodyMediumFamily,
-                                                        fontSize: 24.0,
+                                                        fontSize: 14.0,
                                                         letterSpacing: 0.0,
                                                         useGoogleFonts:
                                                             !FlutterFlowTheme
