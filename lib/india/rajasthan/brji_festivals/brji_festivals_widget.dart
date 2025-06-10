@@ -71,7 +71,7 @@ class _BrjiFestivalsWidgetState extends State<BrjiFestivalsWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://media.istockphoto.com/id/2182483547/photo/view-of-serenity-beach-at-pondicherry-india.jpg?s=612x612&w=0&k=20&c=eANlNlYBtLi9HNJi6itvGi7uWn4AvaQufZjeiwHsJ4c=',
+                                    'https://images.pexels.com/photos/10099969/pexels-photo-10099969.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,

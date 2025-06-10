@@ -136,48 +136,6 @@ class _LadakhCulturaltourWidgetState extends State<LadakhCulturaltourWidget> {
                     child: Column(
                       mainAxisSize: MainAxisSize.max,
                       children: [
-                        Padding(
-                          padding: EdgeInsetsDirectional.fromSTEB(
-                              0.0, 30.0, 0.0, 0.0),
-                          child: Row(
-                            mainAxisSize: MainAxisSize.max,
-                            mainAxisAlignment: MainAxisAlignment.center,
-                            children: [
-                              Align(
-                                alignment: AlignmentDirectional(0.0, 0.0),
-                                child: Padding(
-                                  padding: EdgeInsetsDirectional.fromSTEB(
-                                      0.0, 0.0, 5.0, 0.0),
-                                  child: ClipRRect(
-                                    borderRadius: BorderRadius.circular(8.0),
-                                    child: Image.network(
-                                      'https://as2.ftcdn.net/jpg/02/50/95/59/1000_F_250955936_fPaUhLU2xXi0H5pXywcWo6wZDygE47hZ.jpg',
-                                      width: MediaQuery.sizeOf(context).width *
-                                          0.4,
-                                      height: 600.0,
-                                      fit: BoxFit.cover,
-                                      alignment: Alignment(0.0, 0.0),
-                                    ),
-                                  ),
-                                ),
-                              ),
-                              Align(
-                                alignment: AlignmentDirectional(0.0, 0.0),
-                                child: ClipRRect(
-                                  borderRadius: BorderRadius.circular(8.0),
-                                  child: Image.network(
-                                    'https://as1.ftcdn.net/jpg/04/43/05/14/1000_F_443051427_TjUr3FyIp6VNVLp0WiV9NiYCLXRem43q.jpg',
-                                    width:
-                                        MediaQuery.sizeOf(context).width * 0.4,
-                                    height: 600.0,
-                                    fit: BoxFit.cover,
-                                    alignment: Alignment(0.0, 0.0),
-                                  ),
-                                ),
-                              ),
-                            ],
-                          ),
-                        ),
                         Wrap(
                           spacing: 0.0,
                           runSpacing: 0.0,

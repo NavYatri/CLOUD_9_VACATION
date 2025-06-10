@@ -71,7 +71,7 @@ class _KishangarhWidgetState extends State<KishangarhWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/f4/9e/1c/kishangarh-fort-kishangarh.jpg?w=1000&h=1000&s=1',
+                                    'https://images.pexels.com/photos/10099969/pexels-photo-10099969.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

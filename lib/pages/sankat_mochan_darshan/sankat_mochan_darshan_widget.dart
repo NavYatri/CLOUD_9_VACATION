@@ -68,7 +68,7 @@ class _SankatMochanDarshanWidgetState extends State<SankatMochanDarshanWidget> {
                         child: ClipRRect(
                           borderRadius: BorderRadius.circular(8.0),
                           child: Image.network(
-                            'https://t4.ftcdn.net/jpg/04/08/25/05/360_F_408250543_MVaEVGeWxb4FiFy7mEGKj8nfYkwoAZON.jpg',
+                            'https://images.pexels.com/photos/8112552/pexels-photo-8112552.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                             width: MediaQuery.sizeOf(context).width,
                             height: 736.0,
                             fit: BoxFit.fitWidth,
@@ -115,7 +115,7 @@ class _SankatMochanDarshanWidgetState extends State<SankatMochanDarshanWidget> {
                     child: ClipRRect(
                       borderRadius: BorderRadius.circular(8.0),
                       child: Image.network(
-                        'https://banarastrip.com/wp-content/uploads/2023/07/sankatmochan-hanuman-mandir-varanasi.jpg',
+                        'https://lh3.googleusercontent.com/gps-cs-s/AC9h4noAx7XzfSqmPCbAEnQIv9BPXGyhebV0OM1xivRysUs97lPOmhJcwbAWklLDm43W82R1EJu2TCCn5Ti_5F16qroT5OWyKACxC9fzTKp2aWaYVxlnwF9aLv-uzCbIoptH65o5KS-Rzw=s1360-w1360-h1020-rw',
                         width: MediaQuery.sizeOf(context).width,
                         height: MediaQuery.sizeOf(context).height,
                         fit: BoxFit.cover,

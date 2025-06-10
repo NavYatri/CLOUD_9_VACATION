@@ -69,7 +69,7 @@ class _GangaAartiatDashashwamedhGhatWidgetState
                         child: ClipRRect(
                           borderRadius: BorderRadius.circular(8.0),
                           child: Image.network(
-                            'https://t4.ftcdn.net/jpg/04/08/25/05/360_F_408250543_MVaEVGeWxb4FiFy7mEGKj8nfYkwoAZON.jpg',
+                            'https://images.pexels.com/photos/8112552/pexels-photo-8112552.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                             width: MediaQuery.sizeOf(context).width,
                             height: 736.0,
                             fit: BoxFit.fitWidth,
@@ -116,7 +116,7 @@ class _GangaAartiatDashashwamedhGhatWidgetState
                     child: ClipRRect(
                       borderRadius: BorderRadius.circular(8.0),
                       child: Image.network(
-                        'https://www.krazybutterfly.com/wp-content/uploads/2022/12/Dashashwamedh-Ghat-Varanasi-2.jpg',
+                        'https://images.pexels.com/photos/19644655/pexels-photo-19644655.jpeg',
                         width: MediaQuery.sizeOf(context).width,
                         height: MediaQuery.sizeOf(context).height,
                         fit: BoxFit.cover,

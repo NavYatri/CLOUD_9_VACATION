@@ -99,7 +99,7 @@ class _IndiaWidgetState extends State<IndiaWidget> {
                                                       BorderRadius.circular(
                                                           8.0),
                                                   child: Image.network(
-                                                    'https://images.pexels.com/photos/1603650/pexels-photo-1603650.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+                                                    'https://images.pexels.com/photos/28762052/pexels-photo-28762052/free-photo-of-taj-mahal-with-tourists-and-clear-sky.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                                     width: MediaQuery.sizeOf(
                                                             context)
                                                         .width,

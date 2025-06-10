@@ -71,7 +71,7 @@ class _SummerFestivalsWidgetState extends State<SummerFestivalsWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://en-media.thebetterindia.com/uploads/2022/04/Shimla-Summer-Festival-1651064018.jpg',
+                                    'https://images.pexels.com/photos/10099969/pexels-photo-10099969.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,

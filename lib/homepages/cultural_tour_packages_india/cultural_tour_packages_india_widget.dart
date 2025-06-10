@@ -73,7 +73,7 @@ class _CulturalTourPackagesIndiaWidgetState
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://letsgoindiatours.com/wp-content/uploads/2024/08/rajasthan-culture-tour.jpg',
+                                    'https://images.pexels.com/photos/26110235/pexels-photo-26110235.jpeg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,
@@ -915,7 +915,7 @@ class _CulturalTourPackagesIndiaWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://www.flamingotravels.co.in/blog/wp-content/uploads/2020/08/kerala.jpg',
+                                                'https://images.pexels.com/photos/974398/pexels-photo-974398.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -1153,7 +1153,7 @@ class _CulturalTourPackagesIndiaWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://www.tourmyindia.com/states/karnataka/image/best-of-karnataka-tour-with-goa2.webp',
+                                                'https://images.pexels.com/photos/4882665/pexels-photo-4882665.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,

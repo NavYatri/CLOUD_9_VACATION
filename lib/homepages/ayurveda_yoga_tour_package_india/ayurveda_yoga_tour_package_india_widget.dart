@@ -440,7 +440,7 @@ class _AyurvedaYogaTourPackageIndiaWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://www.asianadventures.net/sites/default/files/cocoon/meditation1_0.jpg',
+                                                'https://images.pexels.com/photos/1051838/pexels-photo-1051838.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -918,7 +918,7 @@ class _AyurvedaYogaTourPackageIndiaWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://www.flamingotravels.co.in/blog/wp-content/uploads/2020/08/kerala.jpg',
+                                                'https://images.pexels.com/photos/32441927/pexels-photo-32441927.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -1093,7 +1093,7 @@ class _AyurvedaYogaTourPackageIndiaWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://www.tourmyindia.com/states/karnataka/image/best-of-karnataka-tour-with-goa2.webp',
+                                                'https://images.pexels.com/photos/31084858/pexels-photo-31084858.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -1443,7 +1443,7 @@ class _AyurvedaYogaTourPackageIndiaWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://experts-medical.com/wp-content/uploads/2021/09/1l.jpg',
+                                                'https://images.pexels.com/photos/6741820/pexels-photo-6741820.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -1618,7 +1618,7 @@ class _AyurvedaYogaTourPackageIndiaWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://imgcld.yatra.com/ytimages/image/upload/t_seo_Hotel_w_930_h_550_c_fill_g_auto_q_40_f_jpg/v1442015656/Domestic%20Hotels/Hotels_Kovalam/Nikkis%20nest/Overview.jpg',
+                                                'https://images.pexels.com/photos/6741820/pexels-photo-6741820.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,

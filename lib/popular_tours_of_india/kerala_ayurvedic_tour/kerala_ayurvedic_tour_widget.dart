@@ -70,7 +70,7 @@ class _KeralaAyurvedicTourWidgetState extends State<KeralaAyurvedicTourWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://www.keralatourspackages.org/images/kerala-ayurvedic-tour-m.jpg',
+                                    'https://images.pexels.com/photos/7988019/pexels-photo-7988019.jpeg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,

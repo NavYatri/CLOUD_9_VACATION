@@ -71,7 +71,7 @@ class _NathadhwarWidgetState extends State<NathadhwarWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://img.traveltriangle.com/blog/wp-content/uploads/2020/01/Places-to-visit-near-Nathdwara_8th-jan.jpg',
+                                    'https://images.pexels.com/photos/10099969/pexels-photo-10099969.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

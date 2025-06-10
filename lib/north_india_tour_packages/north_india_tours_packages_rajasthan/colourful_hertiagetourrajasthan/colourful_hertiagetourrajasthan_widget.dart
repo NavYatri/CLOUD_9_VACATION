@@ -71,7 +71,7 @@ class _ColourfulHertiagetourrajasthanWidgetState
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://s7ap1.scene7.com/is/image/incredibleindia/cityscape-of-shimla-himachal-pradesh-city-1-hero?qlt=82&ts=1726730693575',
+                                    'https://images.pexels.com/photos/784879/pexels-photo-784879.jpeg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,
@@ -136,48 +136,6 @@ class _ColourfulHertiagetourrajasthanWidgetState
                     child: Column(
                       mainAxisSize: MainAxisSize.max,
                       children: [
-                        Padding(
-                          padding: EdgeInsetsDirectional.fromSTEB(
-                              0.0, 30.0, 0.0, 0.0),
-                          child: Row(
-                            mainAxisSize: MainAxisSize.max,
-                            mainAxisAlignment: MainAxisAlignment.center,
-                            children: [
-                              Align(
-                                alignment: AlignmentDirectional(0.0, 0.0),
-                                child: Padding(
-                                  padding: EdgeInsetsDirectional.fromSTEB(
-                                      0.0, 0.0, 5.0, 0.0),
-                                  child: ClipRRect(
-                                    borderRadius: BorderRadius.circular(8.0),
-                                    child: Image.network(
-                                      'https://images.pexels.com/photos/30725009/pexels-photo-30725009/free-photo-of-camel-ride-through-jaisalmer-desert-sands.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-                                      width: MediaQuery.sizeOf(context).width *
-                                          0.4,
-                                      height: 600.0,
-                                      fit: BoxFit.cover,
-                                      alignment: Alignment(0.0, 0.0),
-                                    ),
-                                  ),
-                                ),
-                              ),
-                              Align(
-                                alignment: AlignmentDirectional(0.0, 0.0),
-                                child: ClipRRect(
-                                  borderRadius: BorderRadius.circular(8.0),
-                                  child: Image.network(
-                                    'https://images.pexels.com/photos/815880/pexels-photo-815880.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-                                    width:
-                                        MediaQuery.sizeOf(context).width * 0.4,
-                                    height: 600.0,
-                                    fit: BoxFit.cover,
-                                    alignment: Alignment(0.0, 0.0),
-                                  ),
-                                ),
-                              ),
-                            ],
-                          ),
-                        ),
                         Wrap(
                           spacing: 0.0,
                           runSpacing: 0.0,
@@ -432,7 +390,7 @@ class _ColourfulHertiagetourrajasthanWidgetState
                                                                 'Upon arrival, you’ll be welcomed and transferred to your hotel in Delhi. Delhi is an eclectic mix of ancient and modern with a rich historical backdrop, being the seat of many ancient kingdoms. The day will be free for relaxation.',
                                                             style: GoogleFonts
                                                                 .inriaSerif(
-                                                              fontSize: 20.0,
+                                                              fontSize: 12.0,
                                                             ),
                                                           )
                                                         ],

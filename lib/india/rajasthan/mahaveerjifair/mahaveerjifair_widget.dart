@@ -71,7 +71,7 @@ class _MahaveerjifairWidgetState extends State<MahaveerjifairWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://www.hlimg.com/images/events/738X538/event_1528090569m1.jpg?w=400&dpr=2.6',
+                                    'https://images.pexels.com/photos/10099969/pexels-photo-10099969.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

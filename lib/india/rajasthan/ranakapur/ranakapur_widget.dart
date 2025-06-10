@@ -71,7 +71,7 @@ class _RanakapurWidgetState extends State<RanakapurWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://storage.justwravel.com/package/images/gallery/original/excuisiting-ranakapur-and-kumbhalgarh-fort-with-udaipur-tour-package-JustWravel-1597390878-3.jpg',
+                                    'https://images.pexels.com/photos/10099969/pexels-photo-10099969.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

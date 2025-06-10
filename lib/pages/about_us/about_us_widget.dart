@@ -146,7 +146,7 @@ class _AboutUsWidgetState extends State<AboutUsWidget> {
                                             borderRadius:
                                                 BorderRadius.circular(8.0),
                                             child: Image.network(
-                                              'https://resize.indiatvnews.com/en/resize/newbucket/835_-/2024/12/meghalaya-1-1-1733922922.webp',
+                                              'https://images.pexels.com/photos/362690/pexels-photo-362690.jpeg',
                                               width: MediaQuery.sizeOf(context)
                                                   .width,
                                               height: 739.0,
@@ -160,7 +160,7 @@ class _AboutUsWidgetState extends State<AboutUsWidget> {
                                               MainAxisAlignment.center,
                                           children: [
                                             Text(
-                                              'CLOUD9 VACATION',
+                                              'CLOUD9VACATION',
                                               style: FlutterFlowTheme.of(
                                                       context)
                                                   .bodyMedium
@@ -252,7 +252,7 @@ class _AboutUsWidgetState extends State<AboutUsWidget> {
                                               MainAxisAlignment.center,
                                           children: [
                                             Text(
-                                              'CLOUD9 VACATION',
+                                              'CLOUD9VACATION',
                                               style: FlutterFlowTheme.of(
                                                       context)
                                                   .bodyMedium

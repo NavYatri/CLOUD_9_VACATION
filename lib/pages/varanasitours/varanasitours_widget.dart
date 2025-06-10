@@ -487,7 +487,7 @@ class _VaranasitoursWidgetState extends State<VaranasitoursWidget> {
                                                 borderRadius:
                                                     BorderRadius.circular(0.0),
                                                 child: Image.network(
-                                                  'https://www.namasteindiatrip.com/blog/wp-content/uploads/2024/12/Kashi-Vishwanath-Temple.jpg',
+                                                  'https://images.pexels.com/photos/8112557/pexels-photo-8112557.jpeg',
                                                   width: 380.0,
                                                   height: 380.0,
                                                   fit: BoxFit.cover,
@@ -568,7 +568,7 @@ class _VaranasitoursWidgetState extends State<VaranasitoursWidget> {
                                                 borderRadius:
                                                     BorderRadius.circular(0.0),
                                                 child: Image.network(
-                                                  'https://www.visitkashi.com/images/varanasi-temples/kal-bhairav-varanasi-darshan-booking.jpg',
+                                                  'https://images.pexels.com/photos/30854355/pexels-photo-30854355.jpeg',
                                                   width: 380.0,
                                                   height: 380.0,
                                                   fit: BoxFit.cover,
@@ -729,7 +729,7 @@ class _VaranasitoursWidgetState extends State<VaranasitoursWidget> {
                                                 borderRadius:
                                                     BorderRadius.circular(0.0),
                                                 child: Image.network(
-                                                  'https://banarastrip.com/wp-content/uploads/2023/07/sankatmochan-hanuman-mandir-varanasi.jpg',
+                                                  'https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqMGOtPSueYUTJnXyoR402jrjvbJ3Wfz3mlTLousKKUf8NOKrt9OrZMNJdm49TQfj5KbjEYjWqUkWjmaWK5eTpOG180V4Cqb1r7BcX63bxhMIThtLr1HmhOVdCeSEFCHoV_BVIlCCbOSzMF=s1360-w1360-h1020-rw',
                                                   width: 380.0,
                                                   height: 380.0,
                                                   fit: BoxFit.cover,
@@ -891,7 +891,7 @@ class _VaranasitoursWidgetState extends State<VaranasitoursWidget> {
                                                 borderRadius:
                                                     BorderRadius.circular(0.0),
                                                 child: Image.network(
-                                                  'https://www.krazybutterfly.com/wp-content/uploads/2022/12/Dashashwamedh-Ghat-Varanasi-2.jpg',
+                                                  'https://images.pexels.com/photos/19644655/pexels-photo-19644655.jpeg',
                                                   width: 380.0,
                                                   height: 380.0,
                                                   fit: BoxFit.cover,
@@ -971,7 +971,7 @@ class _VaranasitoursWidgetState extends State<VaranasitoursWidget> {
                                                 borderRadius:
                                                     BorderRadius.circular(0.0),
                                                 child: Image.network(
-                                                  'https://www.india.com/wp-content/uploads/2024/03/Feature-Image_-Varanasi.jpg',
+                                                  'https://images.pexels.com/photos/8112555/pexels-photo-8112555.jpeg',
                                                   width: 380.0,
                                                   height: 380.0,
                                                   fit: BoxFit.cover,
@@ -1051,7 +1051,7 @@ class _VaranasitoursWidgetState extends State<VaranasitoursWidget> {
                                                 borderRadius:
                                                     BorderRadius.circular(0.0),
                                                 child: Image.network(
-                                                  'https://taxiserviceinvaranasi.com/wp-content/uploads/2024/10/sarnath.jpg',
+                                                  'https://images.pexels.com/photos/10068470/pexels-photo-10068470.jpeg',
                                                   width: 380.0,
                                                   height: 380.0,
                                                   fit: BoxFit.cover,
@@ -1132,7 +1132,7 @@ class _VaranasitoursWidgetState extends State<VaranasitoursWidget> {
                                                 borderRadius:
                                                     BorderRadius.circular(0.0),
                                                 child: Image.network(
-                                                  'https://newstrack.com/h-upload/2023/01/27/1513366-best-saree-shop-in-prayagraj.jpg',
+                                                  'https://5.imimg.com/data5/YI/CG/UA/ANDROID-46606796/product-jpeg-500x500.jpg',
                                                   width: 380.0,
                                                   height: 380.0,
                                                   fit: BoxFit.cover,
@@ -1212,7 +1212,7 @@ class _VaranasitoursWidgetState extends State<VaranasitoursWidget> {
                                                 borderRadius:
                                                     BorderRadius.circular(0.0),
                                                 child: Image.network(
-                                                  'https://map.sahapedia.org/admin/assets/images/2022042915542350Banner_612.jpg?__imr__=bannerMuseum',
+                                                  'https://images.pexels.com/photos/32453726/pexels-photo-32453726.jpeg',
                                                   width: 380.0,
                                                   height: 380.0,
                                                   fit: BoxFit.cover,
@@ -1512,7 +1512,7 @@ class _VaranasitoursWidgetState extends State<VaranasitoursWidget> {
                                         borderRadius:
                                             BorderRadius.circular(0.0),
                                         child: Image.network(
-                                          'https://traveltradejournal.com/wp-content/uploads/2022/01/kashi.webp',
+                                          'https://images.pexels.com/photos/17869847/pexels-photo-17869847.jpeg',
                                           width: 690.0,
                                           height: 414.0,
                                           fit: BoxFit.cover,
@@ -1726,7 +1726,7 @@ class _VaranasitoursWidgetState extends State<VaranasitoursWidget> {
                                           borderRadius:
                                               BorderRadius.circular(8.0),
                                           child: Image.network(
-                                            'https://www.holidaymonk.com/wp-content/uploads/2023/03/Ganga-Aarti-Varanasi.webp',
+                                            'https://images.pexels.com/photos/16747089/pexels-photo-16747089.jpeg',
                                             width: 600.0,
                                             height: 600.0,
                                             fit: BoxFit.cover,

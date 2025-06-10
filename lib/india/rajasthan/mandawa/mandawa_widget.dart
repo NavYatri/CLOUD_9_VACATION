@@ -71,7 +71,7 @@ class _MandawaWidgetState extends State<MandawaWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/af/09/36/haveli-de-mandawa.jpg?w=600&h=400&s=1',
+                                    'https://images.pexels.com/photos/10099969/pexels-photo-10099969.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

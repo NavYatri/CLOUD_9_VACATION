@@ -1638,7 +1638,7 @@ class _GoldenTriangleTourPackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://as2.ftcdn.net/jpg/09/82/58/59/1000_F_982585909_M07yTUQIslUVfHid4bTKM1FSTkiS4CWl.jpg',
+                                                'https://images.pexels.com/photos/32429711/pexels-photo-32429711.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -2828,7 +2828,7 @@ class _GoldenTriangleTourPackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://as2.ftcdn.net/jpg/08/97/06/07/1000_F_897060763_6roYbc3T4S1w7Ql0gyRfecre45sP7Uz1.jpg',
+                                                'https://images.pexels.com/photos/18947948/pexels-photo-18947948.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,

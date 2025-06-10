@@ -1169,7 +1169,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                   0.0, 10.0, 0.0, 0.0),
                                           child: SelectionArea(
                                               child: Text(
-                                            'India River Cruises',
+                                            'Brahmaputra River Cruises',
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyMedium
                                                 .override(
@@ -1356,7 +1356,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                   0.0, 10.0, 0.0, 0.0),
                                           child: SelectionArea(
                                               child: Text(
-                                            'Region Wise Tour Packages',
+                                            'North East India Tour Packages',
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyMedium
                                                 .override(
@@ -1449,7 +1449,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                   0.0, 10.0, 0.0, 0.0),
                                           child: SelectionArea(
                                               child: Text(
-                                            'Theme Based Tours',
+                                            'India Beachs Tour Package',
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyMedium
                                                 .override(

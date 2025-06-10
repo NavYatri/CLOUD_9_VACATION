@@ -71,21 +71,21 @@ class _AndamanAndNicoberWidgetState extends State<AndamanAndNicoberWidget> {
                               child: ClipRRect(
                                 borderRadius: BorderRadius.circular(8.0),
                                 child: Image.network(
-                                  'https://images.articlesfactory.com/750x0/e9ce4869-bd20-4146-9c8b-131dcb9725c3.webp',
+                                  'https://images.pexels.com/photos/2403207/pexels-photo-2403207.jpeg',
                                   width: MediaQuery.sizeOf(context).width,
                                   fit: BoxFit.fitWidth,
                                 ),
                               ),
                             ),
                           ),
-                          wrapWithModel(
-                            model: _model.navigationBarModel,
-                            updateCallback: () => safeSetState(() {}),
-                            child: NavigationBarWidget(),
-                          ),
-                        ],
+                        ].divide(SizedBox(height: 26.0)),
                       ),
-                    ].divide(SizedBox(height: 26.0)),
+                    ]
+                  ),
+                  wrapWithModel(
+                    model: _model.navigationBarModel,
+                    updateCallback: () => safeSetState(() {}),
+                    child: NavigationBarWidget(),
                   ),
                 ],
               ),
