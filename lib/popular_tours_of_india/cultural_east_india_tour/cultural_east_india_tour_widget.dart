@@ -225,7 +225,7 @@ class _CulturalEastIndiaTourWidgetState
                                           text:
                                               'Delhi: Red Fort, Raj Ghat, Jama Masjid, Chandni Chowk, India Gate, President House, Humayun Tomb & Qutub Minar\nBhubaneswar: Temples Lingaraja, Parashurameshwara & Mukteswara, Lalitgiri & Ratnagiri Buddhist Complex, Udaigiri Monasteries & Caves, Dhauli Peace Pagoda\nKonark: Sun Temple\nPuri: Jagannath Temple, Beach\nCalcutta (Kolkata): Victoria Memorial, Howrah Bridge\nDarjeeling: Tiger Hill, Ghoom, Chholing & Darli Monasteries, Darjeeling Himalayan Railway, Mountaineering Institute & Observatory Hill\nGangtok: Research Institute of Tibetology, Tsongo Lake, Do Drul Chorten, Rumtek Monastery, Himalayan Zoological Park, Government Institute of Cottage Industries, Lal Bazaar\nKalimpong: Thongsa Gompa, Zong Dog Palri Fo-Brang Gompa, Tharpa Choeling Monastery, Dr Graham\'s Home',
                                           style: GoogleFonts.inriaSerif(
-                                            fontSize: 20.0,
+                                            fontSize: 12.0,
                                           ),
                                         )
                                       ],
