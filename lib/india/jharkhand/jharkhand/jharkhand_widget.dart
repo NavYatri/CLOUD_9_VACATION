@@ -97,14 +97,8 @@ class _JharkhandWidgetState extends State<JharkhandWidget> {
                                       ),
                                     ],
                                   ),
-                                  Column(
-                                    mainAxisSize: MainAxisSize.max,
-                                    children: [],
-                                  ),
-                                  Column(
-                                    mainAxisSize: MainAxisSize.max,
-                                    children: [],
-                                  ),
+                                  
+                                  
                                 ],
                               ),
                             ),

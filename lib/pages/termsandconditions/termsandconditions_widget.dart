@@ -122,7 +122,7 @@ class _TermsandconditionsWidgetState extends State<TermsandconditionsWidget> {
                                               MainAxisAlignment.center,
                                           children: [
                                             Text(
-                                              'CLOUD9 VACATION',
+                                              'CLOUD9VACATION',
                                               style: FlutterFlowTheme.of(
                                                       context)
                                                   .bodyMedium
@@ -214,7 +214,7 @@ class _TermsandconditionsWidgetState extends State<TermsandconditionsWidget> {
                                               MainAxisAlignment.center,
                                           children: [
                                             Text(
-                                              'CLOUD9 VACATION',
+                                              'CLOUD9VACATION',
                                               style: FlutterFlowTheme.of(
                                                       context)
                                                   .bodyMedium

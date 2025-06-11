@@ -98,14 +98,8 @@ class _MeghalayaWidgetState extends State<MeghalayaWidget> {
                                       ),
                                     ],
                                   ),
-                                  Column(
-                                    mainAxisSize: MainAxisSize.max,
-                                    children: [],
-                                  ),
-                                  Column(
-                                    mainAxisSize: MainAxisSize.max,
-                                    children: [],
-                                  ),
+                                  
+                                  
                                 ],
                               ),
                             ),

@@ -70,7 +70,7 @@ class _DubaiexcursionsAndoptionaltoursWidgetState
                         child: ClipRRect(
                           borderRadius: BorderRadius.circular(8.0),
                           child: Image.network(
-                            'https://images.pexels.com/photos/325193/pexels-photo-325193.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+                            'https://images.pexels.com/photos/442579/pexels-photo-442579.jpeg',
                             width: MediaQuery.sizeOf(context).width,
                             height: 736.0,
                             fit: BoxFit.fitWidth,

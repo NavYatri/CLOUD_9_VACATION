@@ -97,14 +97,8 @@ class _UttarakhandWidgetState extends State<UttarakhandWidget> {
                                       ),
                                     ],
                                   ),
-                                  Column(
-                                    mainAxisSize: MainAxisSize.max,
-                                    children: [],
-                                  ),
-                                  Column(
-                                    mainAxisSize: MainAxisSize.max,
-                                    children: [],
-                                  ),
+                                  
+                                  
                                 ],
                               ),
                             ),

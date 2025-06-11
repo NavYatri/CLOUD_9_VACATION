@@ -97,14 +97,8 @@ class _ManipurWidgetState extends State<ManipurWidget> {
                                       ),
                                     ],
                                   ),
-                                  Column(
-                                    mainAxisSize: MainAxisSize.max,
-                                    children: [],
-                                  ),
-                                  Column(
-                                    mainAxisSize: MainAxisSize.max,
-                                    children: [],
-                                  ),
+                                  
+                                  
                                 ],
                               ),
                             ),

@@ -103,14 +103,8 @@ class _AssamWidgetState extends State<AssamWidget> {
                                       ),
                                     ],
                                   ),
-                                  Column(
-                                    mainAxisSize: MainAxisSize.max,
-                                    children: [],
-                                  ),
-                                  Column(
-                                    mainAxisSize: MainAxisSize.max,
-                                    children: [],
-                                  ),
+                                  
+                                  
                                 ],
                               ),
                             ),

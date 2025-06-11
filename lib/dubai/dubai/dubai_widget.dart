@@ -86,7 +86,7 @@ class _DubaiWidgetState extends State<DubaiWidget> {
                                           borderRadius:
                                               BorderRadius.circular(8.0),
                                           child: Image.network(
-                                            'https://images.pexels.com/photos/325193/pexels-photo-325193.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+                                            'https://images.pexels.com/photos/442579/pexels-photo-442579.jpeg',
                                             width: MediaQuery.sizeOf(context)
                                                 .width,
                                             height: 739.0,
@@ -112,7 +112,7 @@ class _DubaiWidgetState extends State<DubaiWidget> {
                                                             .bodyMedium
                                                             .fontStyle,
                                                   ),
-                                                  color: Color(0xFFD39F47),
+                                                  color: Color(0xD9FFFFFF),
                                                   fontSize: 120.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight: FontWeight.w600,

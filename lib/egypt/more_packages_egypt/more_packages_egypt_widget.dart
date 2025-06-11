@@ -558,7 +558,7 @@ class _MorePackagesEgyptWidgetState extends State<MorePackagesEgyptWidget> {
                                               CrossAxisAlignment.center,
                                           children: [
                                             Text(
-                                              'classic Egypt Tour',
+                                              'Classic Egypt Tour',
                                               style: FlutterFlowTheme.of(
                                                       context)
                                                   .bodyMedium
@@ -1459,7 +1459,7 @@ class _MorePackagesEgyptWidgetState extends State<MorePackagesEgyptWidget> {
                                               CrossAxisAlignment.center,
                                           children: [
                                             Text(
-                                              'classic Egypt Tour',
+                                              'Classic Egypt Tour',
                                               style: FlutterFlowTheme.of(
                                                       context)
                                                   .bodyMedium
@@ -1815,7 +1815,7 @@ class _MorePackagesEgyptWidgetState extends State<MorePackagesEgyptWidget> {
                                               CrossAxisAlignment.center,
                                           children: [
                                             Text(
-                                              'Egypt culture and heritagr',
+                                              'Egypt Culture and Heritage',
                                               style: FlutterFlowTheme.of(
                                                       context)
                                                   .bodyMedium
@@ -2171,7 +2171,7 @@ class _MorePackagesEgyptWidgetState extends State<MorePackagesEgyptWidget> {
                                               CrossAxisAlignment.center,
                                           children: [
                                             Text(
-                                              'cultural Egypt  and beaches',
+                                              'Cultural Egypt  and beaches',
                                               style: FlutterFlowTheme.of(
                                                       context)
                                                   .bodyMedium

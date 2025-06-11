@@ -101,7 +101,7 @@ class _FormpageWidgetState extends State<FormpageWidget> {
                                               MainAxisAlignment.center,
                                           children: [
                                             Text(
-                                              'CLOUD9 VACATION',
+                                              'CLOUD9VACATION',
                                               style: FlutterFlowTheme.of(
                                                       context)
                                                   .bodyMedium
@@ -195,7 +195,7 @@ class _FormpageWidgetState extends State<FormpageWidget> {
                                               MainAxisAlignment.center,
                                           children: [
                                             Text(
-                                              'CLOUD9 VACATION',
+                                              'CLOUD9VACATION',
                                               style: FlutterFlowTheme.of(
                                                       context)
                                                   .bodyMedium
@@ -286,7 +286,7 @@ class _FormpageWidgetState extends State<FormpageWidget> {
                                               MainAxisAlignment.center,
                                           children: [
                                             Text(
-                                              'CLOUD9 VACATION',
+                                              'CLOUD9VACATION',
                                               style: FlutterFlowTheme.of(
                                                       context)
                                                   .bodyMedium

@@ -917,7 +917,7 @@ class _MorepackagesdubaiWidgetState extends State<MorepackagesdubaiWidget> {
                                               CrossAxisAlignment.center,
                                           children: [
                                             Text(
-                                              'Dubai Expres',
+                                              'Dubai Express',
                                               style: FlutterFlowTheme.of(
                                                       context)
                                                   .bodyMedium

@@ -88,7 +88,7 @@ class _BakuAlmatyDelightWidgetState extends State<BakuAlmatyDelightWidget> {
                                           borderRadius:
                                               BorderRadius.circular(8.0),
                                           child: Image.network(
-                                            'https://ychef.files.bbci.co.uk/960x540/p09vhml6.jpeg',
+                                            'https://images.pexels.com/photos/8412701/pexels-photo-8412701.jpeg',
                                             width: MediaQuery.sizeOf(context)
                                                 .width,
                                             height: 739.0,
@@ -98,14 +98,8 @@ class _BakuAlmatyDelightWidgetState extends State<BakuAlmatyDelightWidget> {
                                       ),
                                     ],
                                   ),
-                                  Column(
-                                    mainAxisSize: MainAxisSize.max,
-                                    children: [],
-                                  ),
-                                  Column(
-                                    mainAxisSize: MainAxisSize.max,
-                                    children: [],
-                                  ),
+                                  
+                                  
                                 ],
                               ),
                             ),

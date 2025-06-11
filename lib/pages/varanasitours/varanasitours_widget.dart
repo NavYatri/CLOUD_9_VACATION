@@ -197,7 +197,7 @@ class _VaranasitoursWidgetState extends State<VaranasitoursWidget> {
                                               MainAxisAlignment.center,
                                           children: [
                                             Text(
-                                              'CLOUD9 VACATION',
+                                              'CLOUD9VACATION',
                                               style: FlutterFlowTheme.of(
                                                       context)
                                                   .bodyMedium
@@ -289,7 +289,7 @@ class _VaranasitoursWidgetState extends State<VaranasitoursWidget> {
                                               MainAxisAlignment.center,
                                           children: [
                                             Text(
-                                              'CLOUD9 VACATION',
+                                              'CLOUD9VACATION',
                                               style: FlutterFlowTheme.of(
                                                       context)
                                                   .bodyMedium

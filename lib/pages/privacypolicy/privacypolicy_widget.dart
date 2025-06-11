@@ -121,7 +121,7 @@ class _PrivacypolicyWidgetState extends State<PrivacypolicyWidget> {
                                               MainAxisAlignment.center,
                                           children: [
                                             Text(
-                                              'CLOUD9 VACATION',
+                                              'CLOUD9VACATION',
                                               style: FlutterFlowTheme.of(
                                                       context)
                                                   .bodyMedium
@@ -213,7 +213,7 @@ class _PrivacypolicyWidgetState extends State<PrivacypolicyWidget> {
                                               MainAxisAlignment.center,
                                           children: [
                                             Text(
-                                              'CLOUD9 VACATION',
+                                              'CLOUD9VACATION',
                                               style: FlutterFlowTheme.of(
                                                       context)
                                                   .bodyMedium
