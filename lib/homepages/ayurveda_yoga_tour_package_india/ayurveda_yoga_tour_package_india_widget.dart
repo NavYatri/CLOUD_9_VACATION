@@ -1618,7 +1618,7 @@ class _AyurvedaYogaTourPackageIndiaWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://images.pexels.com/photos/6741820/pexels-photo-6741820.jpeg',
+                                                'https://images.pexels.com/photos/30205132/pexels-photo-30205132.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,

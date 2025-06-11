@@ -69,7 +69,7 @@ class _TribalTrailTourWidgetState extends State<TribalTrailTourWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://himachalservices.nic.in/tribal/images/tribal-areas/PahariDance.jpg',
+                                    'https://images.pexels.com/photos/1130717/pexels-photo-1130717.jpeg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,

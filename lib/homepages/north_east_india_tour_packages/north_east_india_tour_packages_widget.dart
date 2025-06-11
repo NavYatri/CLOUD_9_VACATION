@@ -183,7 +183,7 @@ class _NorthEastIndiaTourPackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6BxeS22M0FqBNAwN1ZB7DeVY3nt75mMl5hg&s',
+                                                'https://images.pexels.com/photos/17937691/pexels-photo-17937691.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -423,7 +423,7 @@ class _NorthEastIndiaTourPackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1gkRvttcUmfsn5mUsWl9JocJBZ4mdXoD1jQ&s',
+                                                'https://images.pexels.com/photos/19934341/pexels-photo-19934341.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -661,7 +661,7 @@ class _NorthEastIndiaTourPackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://images.pexels.com/photos/23522680/pexels-photo-23522680/free-photo-of-key-gompa-monastery-in-mountains-in-india.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+                                                'https://images.pexels.com/photos/570027/pexels-photo-570027.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -746,7 +746,7 @@ class _NorthEastIndiaTourPackagesWidgetState
                                                 alignment: AlignmentDirectional(
                                                     0.0, 0.0),
                                                 child: Text(
-                                                  'Monastic Tour',
+                                                  'Majestic Tour',
                                                   textAlign: TextAlign.center,
                                                   style: FlutterFlowTheme.of(
                                                           context)
@@ -903,7 +903,7 @@ class _NorthEastIndiaTourPackagesWidgetState
                                                       Radius.circular(0.0),
                                                 ),
                                                 child: Image.network(
-                                                  'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6zvpj-PB5hNf71K1_aOq1RXWIw2v63oGmsQ&s',
+                                                  'https://images.pexels.com/photos/1007328/pexels-photo-1007328.jpeg',
                                                   width: double.infinity,
                                                   height: 270.0,
                                                   fit: BoxFit.cover,
@@ -1140,7 +1140,7 @@ class _NorthEastIndiaTourPackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://as2.ftcdn.net/jpg/11/65/55/51/1000_F_1165555122_fgShN2P73c20wfymCz6KtgH43hMuhI5a.jpg',
+                                                'https://images.pexels.com/photos/14690287/pexels-photo-14690287.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -1378,7 +1378,7 @@ class _NorthEastIndiaTourPackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://as1.ftcdn.net/jpg/02/64/31/46/1000_F_264314658_bMWblZcsJj9XTTwkOo1l4Z3eOIx9T3Qv.jpg',
+                                                'https://images.pexels.com/photos/19000373/pexels-photo-19000373.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -2092,7 +2092,7 @@ class _NorthEastIndiaTourPackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnfGgVVnB9L4km9snU9dPbxFLmTH4ePSqzrg&s',
+                                                'https://images.pexels.com/photos/27023262/pexels-photo-27023262.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -2330,7 +2330,7 @@ class _NorthEastIndiaTourPackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://as1.ftcdn.net/jpg/01/78/69/30/1000_F_178693084_opqZgeHjtq2s394u0IUzyHJ6qiwRmzcQ.jpg',
+                                                'https://images.pexels.com/photos/672630/pexels-photo-672630.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -2568,7 +2568,7 @@ class _NorthEastIndiaTourPackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://as1.ftcdn.net/jpg/02/64/31/46/1000_F_264314658_bMWblZcsJj9XTTwkOo1l4Z3eOIx9T3Qv.jpg',
+                                                'https://images.pexels.com/photos/32164019/pexels-photo-32164019.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,

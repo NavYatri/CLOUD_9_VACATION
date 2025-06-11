@@ -193,7 +193,7 @@ class _TribalTourPackagesWidgetState extends State<TribalTourPackagesWidget> {
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6o7CZ_NfjuCy3qpYWT5YjV9e1O7lr-rbKpA&s',
+                                                'https://images.pexels.com/photos/2477361/pexels-photo-2477361.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -433,7 +433,7 @@ class _TribalTourPackagesWidgetState extends State<TribalTourPackagesWidget> {
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN0YJN9ansADhtKL30BcUeKB0147TpuGp8Ag&s',
+                                                'https://images.pexels.com/photos/1469875/pexels-photo-1469875.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -671,7 +671,7 @@ class _TribalTourPackagesWidgetState extends State<TribalTourPackagesWidget> {
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://img.freepik.com/free-photo/warrior-leader-from-ancient-maya-inca-lost-empire_23-2151683558.jpg',
+                                                'https://images.pexels.com/photos/4511053/pexels-photo-4511053.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -909,7 +909,7 @@ class _TribalTourPackagesWidgetState extends State<TribalTourPackagesWidget> {
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://as2.ftcdn.net/jpg/03/10/24/63/1000_F_310246341_869grfwR1b87MN3qyFPe6yZZIRC83X31.jpg',
+                                                'https://images.pexels.com/photos/974398/pexels-photo-974398.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,

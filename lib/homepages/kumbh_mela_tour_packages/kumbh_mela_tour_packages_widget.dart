@@ -193,7 +193,7 @@ class _KumbhMelaTourPackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6o7CZ_NfjuCy3qpYWT5YjV9e1O7lr-rbKpA&s',
+                                                'https://images.pexels.com/photos/30218191/pexels-photo-30218191.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,

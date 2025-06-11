@@ -184,7 +184,7 @@ class _WestIndiaTourPackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6BxeS22M0FqBNAwN1ZB7DeVY3nt75mMl5hg&s',
+                                                'https://images.pexels.com/photos/4430322/pexels-photo-4430322.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -423,7 +423,7 @@ context.pushNamed(
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1gkRvttcUmfsn5mUsWl9JocJBZ4mdXoD1jQ&s',
+                                                'https://as1.ftcdn.net/jpg/01/04/93/18/1000_F_104931871_RG1h29DAr0IQPIZTBoaOpL8bA2vxPByh.jpg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -660,7 +660,7 @@ context.pushNamed(
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://www.capertravelindia.com/images/tour-tab-thumb/shimla-thumb.jpg',
+                                                'https://images.pexels.com/photos/1469875/pexels-photo-1469875.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -902,7 +902,7 @@ context.pushNamed(
                                                       Radius.circular(0.0),
                                                 ),
                                                 child: Image.network(
-                                                  'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6zvpj-PB5hNf71K1_aOq1RXWIw2v63oGmsQ&s',
+                                                  'https://images.pexels.com/photos/29175703/pexels-photo-29175703.jpeg',
                                                   width: double.infinity,
                                                   height: 270.0,
                                                   fit: BoxFit.cover,

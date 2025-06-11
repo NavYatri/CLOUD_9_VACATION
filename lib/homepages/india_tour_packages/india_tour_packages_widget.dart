@@ -192,7 +192,7 @@ class _IndiaTourPackagesWidgetState extends State<IndiaTourPackagesWidget> {
                                             topRight: Radius.circular(0.0),
                                           ),
                                           child: Image.network(
-                                            'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6BxeS22M0FqBNAwN1ZB7DeVY3nt75mMl5hg&s',
+                                            'https://images.pexels.com/photos/672630/pexels-photo-672630.jpeg',
                                             width: double.infinity,
                                             height: 270.0,
                                             fit: BoxFit.cover,
@@ -415,7 +415,7 @@ class _IndiaTourPackagesWidgetState extends State<IndiaTourPackagesWidget> {
                                             topRight: Radius.circular(0.0),
                                           ),
                                           child: Image.network(
-                                            'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1gkRvttcUmfsn5mUsWl9JocJBZ4mdXoD1jQ&s',
+                                            'https://images.pexels.com/photos/32489424/pexels-photo-32489424.jpeg',
                                             width: double.infinity,
                                             height: 270.0,
                                             fit: BoxFit.cover,
@@ -777,7 +777,7 @@ class _IndiaTourPackagesWidgetState extends State<IndiaTourPackagesWidget> {
                                           FFButtonWidget(
                                             onPressed: () async {
                                               context.pushNamed(
-                                                  GoldenTriangleTour7DaysWidget
+                                                  GoldenTrianglewithRanthamboreWidget
                                                       .routeName);
                                             },
                                             text: 'View details',
@@ -860,7 +860,7 @@ class _IndiaTourPackagesWidgetState extends State<IndiaTourPackagesWidget> {
                                               topRight: Radius.circular(0.0),
                                             ),
                                             child: Image.network(
-                                              'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6zvpj-PB5hNf71K1_aOq1RXWIw2v63oGmsQ&s',
+                                              'https://images.pexels.com/photos/2902939/pexels-photo-2902939.jpeg',
                                               width: double.infinity,
                                               height: 270.0,
                                               fit: BoxFit.cover,
@@ -940,7 +940,7 @@ class _IndiaTourPackagesWidgetState extends State<IndiaTourPackagesWidget> {
                                             alignment:
                                                 AlignmentDirectional(0.0, 0.0),
                                             child: Text(
-                                              'The Treasures of Nepal & India Tour',
+                                              'The Treasures of India & Nepal Tour',
                                               textAlign: TextAlign.center,
                                               style: FlutterFlowTheme.of(
                                                       context)
@@ -1522,7 +1522,7 @@ class _IndiaTourPackagesWidgetState extends State<IndiaTourPackagesWidget> {
                                             topRight: Radius.circular(0.0),
                                           ),
                                           child: Image.network(
-                                            'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnfGgVVnB9L4km9snU9dPbxFLmTH4ePSqzrg&s',
+                                            'https://images.pexels.com/photos/29485855/pexels-photo-29485855.jpeg',
                                             width: double.infinity,
                                             height: 270.0,
                                             fit: BoxFit.cover,
@@ -2848,7 +2848,7 @@ class _IndiaTourPackagesWidgetState extends State<IndiaTourPackagesWidget> {
                                             topRight: Radius.circular(0.0),
                                           ),
                                           child: Image.network(
-                                            'https://as2.ftcdn.net/jpg/08/18/77/45/1000_F_818774537_5ktjd5NrFk2TL9SEU43ZnZvPd75nk2iG.jpg',
+                                            'https://images.pexels.com/photos/14690287/pexels-photo-14690287.jpeg',
                                             width: double.infinity,
                                             height: 270.0,
                                             fit: BoxFit.cover,

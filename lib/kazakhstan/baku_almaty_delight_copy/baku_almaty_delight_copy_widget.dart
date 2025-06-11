@@ -70,7 +70,7 @@ class _BakuAlmatyDelightCopyWidgetState
                         child: ClipRRect(
                           borderRadius: BorderRadius.circular(8.0),
                           child: Image.network(
-                            'https://images.pexels.com/photos/2475725/pexels-photo-2475725.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+                            'https://images.pexels.com/photos/5587044/pexels-photo-5587044.jpeg',
                             width: MediaQuery.sizeOf(context).width,
                             height: 736.0,
                             fit: BoxFit.fitWidth,

@@ -71,7 +71,7 @@ class _CulturalEastIndiaTourWidgetState
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://taajoo.com/wp-content/uploads/2021/10/UEX8hzT_East_India_Tour_Banner_Image_1-min.png',
+                                    'https://images.pexels.com/photos/14690287/pexels-photo-14690287.jpeg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

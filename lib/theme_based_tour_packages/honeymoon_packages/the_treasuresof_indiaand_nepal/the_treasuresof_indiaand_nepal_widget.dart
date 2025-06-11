@@ -71,7 +71,7 @@ class _TheTreasuresofIndiaandNepalWidgetState
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://makaluadventure.com/public/uploads/frontend/main/kanchenjunga-expedition-1610856117695.jpg',
+                                    'https://images.pexels.com/photos/1449601/pexels-photo-1449601.jpeg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

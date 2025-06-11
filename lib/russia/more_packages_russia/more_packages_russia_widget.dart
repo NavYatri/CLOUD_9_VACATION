@@ -112,7 +112,7 @@ class _MorePackagesRussiaWidgetState extends State<MorePackagesRussiaWidget> {
                                                             .bodyMedium
                                                             .fontStyle,
                                                   ),
-                                                  color: Color(0xFFD39F47),
+                                                  color: Color(0xD9FFFFFF),
                                                   fontSize: 120.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight: FontWeight.w600,

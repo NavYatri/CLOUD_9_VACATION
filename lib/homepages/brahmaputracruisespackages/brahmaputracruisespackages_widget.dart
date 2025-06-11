@@ -73,7 +73,7 @@ class _BrahmaputracruisespackagesWidgetState
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://static.wixstatic.com/media/12a327_1bb444748ce74120aa09daa0f55d7f06~mv2.jpg/v1/crop/x_303,y_0,w_3393,h_2250/fill/w_560,h_370,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/1575731791259_IMG_20191203_123930%20(1).jpg',
+                                    'https://images.pexels.com/photos/30633049/pexels-photo-30633049.png',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.cover,

@@ -72,7 +72,7 @@ class _HillStationsTourPackagesWidgetState
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://www.anubhavvacations.in/blog/wp-content/uploads/2024/11/picturesque-hill-stations-south-india-2025.webp',
+                                    'https://images.pexels.com/photos/1576858/pexels-photo-1576858.jpeg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,
@@ -194,7 +194,7 @@ class _HillStationsTourPackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6o7CZ_NfjuCy3qpYWT5YjV9e1O7lr-rbKpA&s',
+                                                'https://images.pexels.com/photos/2961109/pexels-photo-2961109.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,

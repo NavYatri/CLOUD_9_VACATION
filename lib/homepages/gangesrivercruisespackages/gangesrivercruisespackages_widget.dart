@@ -73,7 +73,7 @@ class _GangesrivercruisespackagesWidgetState
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://www.greavesindia.co.uk/wp-content/uploads/2018/01/Rishikesh-1.jpg',
+                                    'https://images.pexels.com/photos/12921487/pexels-photo-12921487.jpeg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,
@@ -442,7 +442,7 @@ class _GangesrivercruisespackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1gkRvttcUmfsn5mUsWl9JocJBZ4mdXoD1jQ&s',
+                                                'https://images.pexels.com/photos/8112521/pexels-photo-8112521.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -680,7 +680,7 @@ class _GangesrivercruisespackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://www.capertravelindia.com/images/tour-tab-thumb/shimla-thumb.jpg',
+                                                'https://images.pexels.com/photos/12112985/pexels-photo-12112985.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -1161,7 +1161,7 @@ class _GangesrivercruisespackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnfGgVVnB9L4km9snU9dPbxFLmTH4ePSqzrg&s',
+                                                'https://images.pexels.com/photos/32451790/pexels-photo-32451790.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,

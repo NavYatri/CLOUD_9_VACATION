@@ -912,7 +912,7 @@ class _RajasthanTourPackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https:/www.rajasthantourplanner.com/blog/wp-content/uploads/2018/03/preview.bhuj_token_kenkzt5v.jpg',
+                                                'https://images.pexels.com/photos/1583571/pexels-photo-1583571.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,

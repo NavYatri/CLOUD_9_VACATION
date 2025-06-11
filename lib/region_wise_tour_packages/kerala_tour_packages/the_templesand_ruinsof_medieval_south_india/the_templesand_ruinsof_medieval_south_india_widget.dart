@@ -72,7 +72,7 @@ class _TheTemplesandRuinsofMedievalSouthIndiaWidgetState
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://images.pexels.com/photos/28890056/pexels-photo-28890056/free-photo-of-scenic-houseboats-on-kerala-s-backwaters.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+                                    'https://images.pexels.com/photos/32459098/pexels-photo-32459098.jpeg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.cover,

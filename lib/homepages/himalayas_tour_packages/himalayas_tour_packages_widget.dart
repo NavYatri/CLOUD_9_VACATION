@@ -72,7 +72,7 @@ class _HimalayasTourPackagesWidgetState
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://s7ap1.scene7.com/is/image/incredibleindia/cityscape-of-shimla-himachal-pradesh-city-1-hero?qlt=82&ts=1726730693575',
+                                    'https://images.pexels.com/photos/3534160/pexels-photo-3534160.jpeg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,
@@ -433,7 +433,7 @@ class _HimalayasTourPackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN0YJN9ansADhtKL30BcUeKB0147TpuGp8Ag&s',
+                                                'https://images.pexels.com/photos/14690287/pexels-photo-14690287.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -671,7 +671,7 @@ class _HimalayasTourPackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://as2.ftcdn.net/jpg/02/17/65/41/1000_F_217654121_wsOlfLmzt6cX7Id3xTa3zCHAccfAS05F.jpg',
+                                                'https://images.pexels.com/photos/3155238/pexels-photo-3155238.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -1147,7 +1147,7 @@ class _HimalayasTourPackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://as1.ftcdn.net/jpg/03/97/85/46/1000_F_397854650_gTrv8sO31OOWXxNkHYwwoY9qHiw4UTy1.jpg',
+                                                'https://images.pexels.com/photos/17937691/pexels-photo-17937691.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,

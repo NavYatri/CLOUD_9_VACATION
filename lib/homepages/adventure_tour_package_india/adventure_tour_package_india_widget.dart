@@ -73,7 +73,7 @@ class _AdventureTourPackageIndiaWidgetState
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://cdn.tripspoint.com/uploads/photos/2160/blissful-rishikesh-rafting-and-camping-with-haridwar-tour_TN9MC.jpeg',
+                                    'https://images.pexels.com/photos/1615766/pexels-photo-1615766.jpeg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,
@@ -200,7 +200,7 @@ class _AdventureTourPackageIndiaWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://indiaadventure.com/images/PLACES%20TO%20EXPLORE/WESTERN%20HIMALAYAS/JB_Rabouan_ladakh_021.jpg',
+                                                'https://images.pexels.com/photos/7846484/pexels-photo-7846484.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -441,7 +441,7 @@ class _AdventureTourPackageIndiaWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://pahadilog.com/wp-content/uploads/2023/04/Untitled-design.jpg',
+                                                'https://images.pexels.com/photos/14114690/pexels-photo-14114690.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -1158,7 +1158,7 @@ class _AdventureTourPackageIndiaWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://himtrek.co.in/wp-content/uploads/2023/09/c1cd4217-09d6-49ae-be62-adcdea90c39c.jpg',
+                                                'https://images.pexels.com/photos/9963738/pexels-photo-9963738.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -1636,7 +1636,7 @@ class _AdventureTourPackageIndiaWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://himalayanmotorbike.com/userfiles/image/bike-tours-2019/Motorcycle%20Group%20tour%20India%20Himalayas.jpg',
+                                                'https://images.pexels.com/photos/5201100/pexels-photo-5201100.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -2353,7 +2353,7 @@ class _AdventureTourPackageIndiaWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://as2.ftcdn.net/jpg/04/24/22/09/1000_F_424220999_dFKmHiCgxpxFjGf0UJghGZwnCDFH5UiY.jpg',
+                                                'https://images.pexels.com/photos/3155238/pexels-photo-3155238.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -3548,7 +3548,7 @@ class _AdventureTourPackageIndiaWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://www.solitarytraveller.com/wp-content/uploads/2020/11/trekking_banner.jpg',
+                                                'https://images.pexels.com/photos/2609459/pexels-photo-2609459.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,

@@ -69,7 +69,7 @@ class _BengalMemoriesWidgetState extends State<BengalMemoriesWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://www.transindus.co.uk/media/22048/abn-charaidew-2-2jpg.jpg?anchor=center&mode=crop&width=550&height=350&rnd=133565344800000000',
+                                    'https://images.pexels.com/photos/5568666/pexels-photo-5568666.jpeg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.cover,

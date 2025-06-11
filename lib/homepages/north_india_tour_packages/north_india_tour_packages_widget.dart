@@ -196,7 +196,7 @@ class _NorthIndiaTourPackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6BxeS22M0FqBNAwN1ZB7DeVY3nt75mMl5hg&s',
+                                                'https://images.pexels.com/photos/2257894/pexels-photo-2257894.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -436,7 +436,7 @@ class _NorthIndiaTourPackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1gkRvttcUmfsn5mUsWl9JocJBZ4mdXoD1jQ&s',
+                                                'https://images.pexels.com/photos/2402917/pexels-photo-2402917.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,

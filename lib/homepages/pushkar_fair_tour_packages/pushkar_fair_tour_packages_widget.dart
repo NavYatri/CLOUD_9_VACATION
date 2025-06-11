@@ -193,7 +193,7 @@ class _PushkarFairTourPackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6o7CZ_NfjuCy3qpYWT5YjV9e1O7lr-rbKpA&s',
+                                                'https://images.pexels.com/photos/2735739/pexels-photo-2735739.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -431,7 +431,7 @@ class _PushkarFairTourPackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN0YJN9ansADhtKL30BcUeKB0147TpuGp8Ag&s',
+                                                'https://images.pexels.com/photos/19285083/pexels-photo-19285083.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -669,7 +669,7 @@ class _PushkarFairTourPackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2W68zRWnRvWFLBO0a32cM72tdWhES9v5HGA&s',
+                                                'https://images.pexels.com/photos/21300377/pexels-photo-21300377.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,

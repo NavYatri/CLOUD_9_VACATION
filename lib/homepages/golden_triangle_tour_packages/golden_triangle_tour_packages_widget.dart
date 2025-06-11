@@ -1162,7 +1162,7 @@ class _GoldenTriangleTourPackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://as1.ftcdn.net/jpg/08/69/03/10/1000_F_869031052_sy3OXztUhKZQKn5MsPiYyf0EsqCAuTUs.jpg',
+                                                'https://images.pexels.com/photos/2439787/pexels-photo-2439787.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -2026,7 +2026,7 @@ class _GoldenTriangleTourPackagesWidgetState
                                               FFButtonWidget(
                                                 onPressed: () async {
                                                   context.pushNamed(
-                                                      KashmirHouseBoatTourWidget
+                                                      GoldenTrianglewithHaridhwarandrishkeshWidget
                                                           .routeName);
                                                 },
                                                 text: 'View details',

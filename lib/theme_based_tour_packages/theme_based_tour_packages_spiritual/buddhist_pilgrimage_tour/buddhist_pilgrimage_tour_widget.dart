@@ -103,7 +103,7 @@ class _BuddhistPilgrimageTourWidgetState
                             fontStyle: FontStyle.italic,
                           ),
                           color: Color(0xFFD39F47),
-                          fontSize: 64.0,
+                          fontSize: 32.0,
                           letterSpacing: 0.0,
                           fontWeight: FlutterFlowTheme.of(context)
                               .bodyMedium
@@ -134,48 +134,6 @@ class _BuddhistPilgrimageTourWidgetState
                     child: Column(
                       mainAxisSize: MainAxisSize.max,
                       children: [
-                        Padding(
-                          padding: EdgeInsetsDirectional.fromSTEB(
-                              0.0, 30.0, 0.0, 0.0),
-                          child: Row(
-                            mainAxisSize: MainAxisSize.max,
-                            mainAxisAlignment: MainAxisAlignment.center,
-                            children: [
-                              Align(
-                                alignment: AlignmentDirectional(0.0, 0.0),
-                                child: Padding(
-                                  padding: EdgeInsetsDirectional.fromSTEB(
-                                      0.0, 0.0, 5.0, 0.0),
-                                  child: ClipRRect(
-                                    borderRadius: BorderRadius.circular(8.0),
-                                    child: Image.network(
-                                      'https://i0.wp.com/beyondwildplaces.com/wp-content/uploads/2023/09/Sham-Valley-Trek.jpg?resize=1170%2C600&ssl=1',
-                                      width: MediaQuery.sizeOf(context).width *
-                                          0.4,
-                                      height: 600.0,
-                                      fit: BoxFit.cover,
-                                      alignment: Alignment(0.0, 0.0),
-                                    ),
-                                  ),
-                                ),
-                              ),
-                              Align(
-                                alignment: AlignmentDirectional(0.0, 0.0),
-                                child: ClipRRect(
-                                  borderRadius: BorderRadius.circular(8.0),
-                                  child: Image.network(
-                                    'https://i0.wp.com/beyondwildplaces.com/wp-content/uploads/2023/09/Hemis-Shukshapan-village.jpg?resize=1024%2C768&ssl=1',
-                                    width:
-                                        MediaQuery.sizeOf(context).width * 0.4,
-                                    height: 600.0,
-                                    fit: BoxFit.cover,
-                                    alignment: Alignment(0.0, 0.0),
-                                  ),
-                                ),
-                              ),
-                            ],
-                          ),
-                        ),
                         Wrap(
                           spacing: 0.0,
                           runSpacing: 0.0,

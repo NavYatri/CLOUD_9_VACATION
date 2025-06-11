@@ -197,7 +197,7 @@ class _JammuKashmirTourPackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6BxeS22M0FqBNAwN1ZB7DeVY3nt75mMl5hg&s',
+                                                'https://images.pexels.com/photos/2907578/pexels-photo-2907578.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -437,7 +437,7 @@ class _JammuKashmirTourPackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1gkRvttcUmfsn5mUsWl9JocJBZ4mdXoD1jQ&s',
+                                                'https://images.pexels.com/photos/786946/pexels-photo-786946.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -675,7 +675,7 @@ class _JammuKashmirTourPackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://www.capertravelindia.com/images/tour-tab-thumb/shimla-thumb.jpg',
+                                                'https://images.pexels.com/photos/2439787/pexels-photo-2439787.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -917,7 +917,7 @@ class _JammuKashmirTourPackagesWidgetState
                                                       Radius.circular(0.0),
                                                 ),
                                                 child: Image.network(
-                                                  'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6zvpj-PB5hNf71K1_aOq1RXWIw2v63oGmsQ&s',
+                                                  'https://images.pexels.com/photos/6780256/pexels-photo-6780256.jpeg',
                                                   width: double.infinity,
                                                   height: 270.0,
                                                   fit: BoxFit.cover,

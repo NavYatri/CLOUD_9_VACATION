@@ -72,7 +72,7 @@ class _AdventureTourIndiaAdventureTourPackagesWidgetState
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://www.thehosteller.com/_next/image/?url=https%3A%2F%2Fstatic.thehosteller.com%2Fhostel%2Fimages%2Fimage.jpg%2Fimage-1725447883008.jpg&w=2048&q=75',
+                                    'https://images.pexels.com/photos/18435984/pexels-photo-18435984.jpeg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,

@@ -193,7 +193,7 @@ class _WildlifeTourPackagesIndiaWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6o7CZ_NfjuCy3qpYWT5YjV9e1O7lr-rbKpA&s',
+                                                'https://images.pexels.com/photos/953969/pexels-photo-953969.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -671,7 +671,7 @@ class _WildlifeTourPackagesIndiaWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2W68zRWnRvWFLBO0a32cM72tdWhES9v5HGA&s',
+                                                'https://images.pexels.com/photos/14022301/pexels-photo-14022301.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,

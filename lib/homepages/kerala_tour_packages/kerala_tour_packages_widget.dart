@@ -195,7 +195,7 @@ class _KeralaTourPackagesWidgetState extends State<KeralaTourPackagesWidget> {
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6BxeS22M0FqBNAwN1ZB7DeVY3nt75mMl5hg&s',
+                                                'https://images.pexels.com/photos/2378278/pexels-photo-2378278.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -435,7 +435,7 @@ class _KeralaTourPackagesWidgetState extends State<KeralaTourPackagesWidget> {
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1gkRvttcUmfsn5mUsWl9JocJBZ4mdXoD1jQ&s',
+                                                'https://images.pexels.com/photos/29485855/pexels-photo-29485855.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -673,7 +673,7 @@ class _KeralaTourPackagesWidgetState extends State<KeralaTourPackagesWidget> {
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://www.capertravelindia.com/images/tour-tab-thumb/shimla-thumb.jpg',
+                                                'https://images.pexels.com/photos/14847155/pexels-photo-14847155.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -915,7 +915,7 @@ class _KeralaTourPackagesWidgetState extends State<KeralaTourPackagesWidget> {
                                                       Radius.circular(0.0),
                                                 ),
                                                 child: Image.network(
-                                                  'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6zvpj-PB5hNf71K1_aOq1RXWIw2v63oGmsQ&s',
+                                                  'https://images.pexels.com/photos/15065628/pexels-photo-15065628.jpeg',
                                                   width: double.infinity,
                                                   height: 270.0,
                                                   fit: BoxFit.cover,
@@ -1154,7 +1154,7 @@ class _KeralaTourPackagesWidgetState extends State<KeralaTourPackagesWidget> {
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnfGgVVnB9L4km9snU9dPbxFLmTH4ePSqzrg&s',
+                                                'https://images.pexels.com/photos/1786306/pexels-photo-1786306.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -1392,7 +1392,7 @@ class _KeralaTourPackagesWidgetState extends State<KeralaTourPackagesWidget> {
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://as2.ftcdn.net/jpg/08/03/98/27/1000_F_803982780_na13HJPARFXy38RLCGozwO9pJsVyX9GU.jpg',
+                                                'https://images.pexels.com/photos/1049771/pexels-photo-1049771.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,

@@ -72,7 +72,7 @@ class _TrekkingTourPackagesWidgetState
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://adventureworx.in/wp-content/uploads/2024/09/Complete-Guide-to-Trekking-in-Ladakh-Front-Image.jpg',
+                                    'https://images.pexels.com/photos/2404007/pexels-photo-2404007.jpeg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,
@@ -194,7 +194,7 @@ class _TrekkingTourPackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6o7CZ_NfjuCy3qpYWT5YjV9e1O7lr-rbKpA&s',
+                                                'https://images.pexels.com/photos/877263/pexels-photo-877263.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -434,7 +434,7 @@ class _TrekkingTourPackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN0YJN9ansADhtKL30BcUeKB0147TpuGp8Ag&s',
+                                                'https://images.pexels.com/photos/26184218/pexels-photo-26184218.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -672,7 +672,7 @@ class _TrekkingTourPackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://as1.ftcdn.net/jpg/06/73/09/90/1000_F_673099070_NBa9R1Ewmw3SfhuSeij5hGmedi0n2gZd.jpg',
+                                                'https://images.pexels.com/photos/1178525/pexels-photo-1178525.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,

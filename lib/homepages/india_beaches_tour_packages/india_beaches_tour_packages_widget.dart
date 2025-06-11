@@ -193,7 +193,7 @@ class _IndiaBeachesTourPackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6o7CZ_NfjuCy3qpYWT5YjV9e1O7lr-rbKpA&s',
+                                                'https://images.pexels.com/photos/4428276/pexels-photo-4428276.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -433,7 +433,7 @@ class _IndiaBeachesTourPackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN0YJN9ansADhtKL30BcUeKB0147TpuGp8Ag&s',
+                                                'https://images.pexels.com/photos/4430322/pexels-photo-4430322.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -1385,7 +1385,7 @@ class _IndiaBeachesTourPackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTru_ZRaTx-J7F_rzppQGeOdq4uqMmDRSQ_dw&s',
+                                                'https://images.pexels.com/photos/5897623/pexels-photo-5897623.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -1623,7 +1623,7 @@ class _IndiaBeachesTourPackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTvtHizdEpnA69L9MFUrOzkaKnVhrHFSVhew&s',
+                                                'https://images.pexels.com/photos/31746465/pexels-photo-31746465.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -1861,7 +1861,7 @@ class _IndiaBeachesTourPackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfHWuFMI_r7-r1FOMR421HykuYl7eSB_dlA&s',
+                                                'https://images.pexels.com/photos/29485855/pexels-photo-29485855.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,

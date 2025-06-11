@@ -70,7 +70,7 @@ class _NaganGiriGangaTrekWidgetState extends State<NaganGiriGangaTrekWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQC441Iv3LqS1J9nyJ4zsw5S-L4_hOej6oOwVAW0zxCVGRiSb-f2QYnv8xsMZUvuY_a8nAeYvOv9TvTHayp3mcck5iyFISwbOCaUUtXwmjKYo8amiQJZBUa1ZKF9BPY5gWOwT8-NTe0jBg/s1600/DSCF5425.JPG',
+                                    'https://images.pexels.com/photos/12625752/pexels-photo-12625752.jpeg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,

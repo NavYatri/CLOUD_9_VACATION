@@ -73,7 +73,7 @@ class _UttaranchalTourPackagesWidgetState
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://www.sunriseholidays.in/india/uttaranchal/images/3.jpg',
+                                    'https://images.pexels.com/photos/17928233/pexels-photo-17928233.jpeg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,
@@ -198,7 +198,7 @@ class _UttaranchalTourPackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://trekthehimalayas.com/images/WinterKuariPassTrek/Slider/b23f7e3a-ea45-4267-a998-aac4201b0ebf_Kuari-Pass-1.webp',
+                                                'https://images.pexels.com/photos/3155238/pexels-photo-3155238.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -436,7 +436,7 @@ class _UttaranchalTourPackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://media1.thrillophilia.com/filestore/em7syy4b41bro7bkbtq8fihf4x4u_1524483814_shutterstock_346341785.jpg',
+                                                'https://as2.ftcdn.net/jpg/01/91/06/57/1000_F_191065768_N5CjrjSbPURUySBsM1NRiG2fDFltQISd.jpg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -672,7 +672,7 @@ context.pushNamed(
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://travelogyindia.b-cdn.net/storage/app/itinerary/198/thumbnail-yoga-in-rishikesh.jpg',
+                                                'https://images.pexels.com/photos/1051838/pexels-photo-1051838.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,

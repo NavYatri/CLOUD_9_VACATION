@@ -944,7 +944,7 @@ class _SouthIndiaTourPackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://www.flamingotravels.co.in/blog/wp-content/uploads/2020/08/kerala.jpg',
+                                                'https://images.pexels.com/photos/2378278/pexels-photo-2378278.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -1420,7 +1420,7 @@ class _SouthIndiaTourPackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTru_ZRaTx-J7F_rzppQGeOdq4uqMmDRSQ_dw&s',
+                                                'https://images.pexels.com/photos/1049771/pexels-photo-1049771.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -2610,7 +2610,7 @@ class _SouthIndiaTourPackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://www.southindiatour.org/images/home-karnataka.jpg',
+                                                'https://images.pexels.com/photos/1786306/pexels-photo-1786306.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -2848,7 +2848,7 @@ class _SouthIndiaTourPackagesWidgetState
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https:/www.tourmyindia.com/states/kerala/image/enchanting-kerala3.webp',
+                                                'https://images.pexels.com/photos/9048869/pexels-photo-9048869.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,

@@ -187,7 +187,7 @@ class _SpiritualTourPackagesWidgetState
                                             topRight: Radius.circular(0.0),
                                           ),
                                           child: Image.network(
-                                            'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6o7CZ_NfjuCy3qpYWT5YjV9e1O7lr-rbKpA&s',
+                                            'https://images.pexels.com/photos/16542959/pexels-photo-16542959.jpeg',
                                             width: double.infinity,
                                             height: 270.0,
                                             fit: BoxFit.cover,
@@ -410,7 +410,7 @@ class _SpiritualTourPackagesWidgetState
                                             topRight: Radius.circular(0.0),
                                           ),
                                           child: Image.network(
-                                            'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN0YJN9ansADhtKL30BcUeKB0147TpuGp8Ag&s',
+                                            'https://images.pexels.com/photos/14676832/pexels-photo-14676832.png',
                                             width: double.infinity,
                                             height: 270.0,
                                             fit: BoxFit.cover,
@@ -631,7 +631,7 @@ class _SpiritualTourPackagesWidgetState
                                             topRight: Radius.circular(0.0),
                                           ),
                                           child: Image.network(
-                                            'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2W68zRWnRvWFLBO0a32cM72tdWhES9v5HGA&s',
+                                            'https://images.pexels.com/photos/31817439/pexels-photo-31817439.jpeg',
                                             width: double.infinity,
                                             height: 270.0,
                                             fit: BoxFit.cover,
@@ -852,7 +852,7 @@ class _SpiritualTourPackagesWidgetState
                                             topRight: Radius.circular(0.0),
                                           ),
                                           child: Image.network(
-                                            'https://www.flamingotravels.co.in/blog/wp-content/uploads/2020/08/kerala.jpg',
+                                            'https://images.pexels.com/photos/31969416/pexels-photo-31969416.jpeg',
                                             width: double.infinity,
                                             height: 270.0,
                                             fit: BoxFit.cover,

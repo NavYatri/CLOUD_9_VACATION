@@ -69,7 +69,7 @@ class _YogaRetreatIndiaWidgetState extends State<YogaRetreatIndiaWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://images.pexels.com/photos/5178320/pexels-photo-5178320.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+                                    'https://images.pexels.com/photos/268134/pexels-photo-268134.jpeg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.cover,

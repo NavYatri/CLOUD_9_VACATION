@@ -196,7 +196,7 @@ class _LadakhTourPackagesWidgetState extends State<LadakhTourPackagesWidget> {
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6BxeS22M0FqBNAwN1ZB7DeVY3nt75mMl5hg&s',
+                                                'https://images.pexels.com/photos/5204921/pexels-photo-5204921.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -434,7 +434,7 @@ class _LadakhTourPackagesWidgetState extends State<LadakhTourPackagesWidget> {
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1gkRvttcUmfsn5mUsWl9JocJBZ4mdXoD1jQ&s',
+                                                'https://images.pexels.com/photos/30487801/pexels-photo-30487801.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -672,7 +672,7 @@ class _LadakhTourPackagesWidgetState extends State<LadakhTourPackagesWidget> {
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://www.capertravelindia.com/images/tour-tab-thumb/shimla-thumb.jpg',
+                                                'https://images.pexels.com/photos/2419865/pexels-photo-2419865.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,
@@ -914,7 +914,7 @@ class _LadakhTourPackagesWidgetState extends State<LadakhTourPackagesWidget> {
                                                       Radius.circular(0.0),
                                                 ),
                                                 child: Image.network(
-                                                  'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6zvpj-PB5hNf71K1_aOq1RXWIw2v63oGmsQ&s',
+                                                  'https://images.pexels.com/photos/28488400/pexels-photo-28488400.jpeg',
                                                   width: double.infinity,
                                                   height: 270.0,
                                                   fit: BoxFit.cover,
@@ -1629,7 +1629,7 @@ class _LadakhTourPackagesWidgetState extends State<LadakhTourPackagesWidget> {
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://as2.ftcdn.net/jpg/01/80/53/35/1000_F_180533519_caRxATELkiiX9sgVC3chiOsWukW0RCcu.jpg',
+                                                'https://images.pexels.com/photos/2907578/pexels-photo-2907578.jpeg',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,

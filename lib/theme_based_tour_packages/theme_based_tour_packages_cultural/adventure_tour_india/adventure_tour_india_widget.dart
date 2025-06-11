@@ -70,7 +70,7 @@ class _AdventureTourIndiaWidgetState extends State<AdventureTourIndiaWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://images.pexels.com/photos/14264269/pexels-photo-14264269.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+                                    'https://images.pexels.com/photos/18435984/pexels-photo-18435984.jpeg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.cover,

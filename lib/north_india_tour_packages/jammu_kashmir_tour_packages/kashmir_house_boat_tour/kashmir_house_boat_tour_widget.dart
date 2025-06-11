@@ -137,48 +137,6 @@ class _KashmirHouseBoatTourWidgetState
                     child: Column(
                       mainAxisSize: MainAxisSize.max,
                       children: [
-                        Padding(
-                          padding: EdgeInsetsDirectional.fromSTEB(
-                              0.0, 30.0, 0.0, 0.0),
-                          child: Row(
-                            mainAxisSize: MainAxisSize.max,
-                            mainAxisAlignment: MainAxisAlignment.center,
-                            children: [
-                              Align(
-                                alignment: AlignmentDirectional(0.0, 0.0),
-                                child: Padding(
-                                  padding: EdgeInsetsDirectional.fromSTEB(
-                                      0.0, 0.0, 5.0, 0.0),
-                                  child: ClipRRect(
-                                    borderRadius: BorderRadius.circular(8.0),
-                                    child: Image.network(
-                                      'https://images.pexels.com/photos/14651212/pexels-photo-14651212.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-                                      width: MediaQuery.sizeOf(context).width *
-                                          0.4,
-                                      height: 600.0,
-                                      fit: BoxFit.cover,
-                                      alignment: Alignment(0.0, 0.0),
-                                    ),
-                                  ),
-                                ),
-                              ),
-                              Align(
-                                alignment: AlignmentDirectional(0.0, 0.0),
-                                child: ClipRRect(
-                                  borderRadius: BorderRadius.circular(8.0),
-                                  child: Image.network(
-                                    'https://images.pexels.com/photos/27379157/pexels-photo-27379157/free-photo-of-village-in-gurez.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-                                    width:
-                                        MediaQuery.sizeOf(context).width * 0.4,
-                                    height: 600.0,
-                                    fit: BoxFit.cover,
-                                    alignment: Alignment(0.0, 0.0),
-                                  ),
-                                ),
-                              ),
-                            ],
-                          ),
-                        ),
                         Wrap(
                           spacing: 0.0,
                           runSpacing: 0.0,

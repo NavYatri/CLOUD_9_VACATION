@@ -72,7 +72,7 @@ class _FoothillsofHimalayaswithGoldenTempleWidgetState
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://www.nitworldwideholidays.com/himachal-tour-packages/img/9-days-himachal-hill-station-tour.jpg',
+                                    'https://images.pexels.com/photos/31029368/pexels-photo-31029368.jpeg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,
@@ -137,48 +137,6 @@ class _FoothillsofHimalayaswithGoldenTempleWidgetState
                     child: Column(
                       mainAxisSize: MainAxisSize.max,
                       children: [
-                        Padding(
-                          padding: EdgeInsetsDirectional.fromSTEB(
-                              0.0, 30.0, 0.0, 0.0),
-                          child: Row(
-                            mainAxisSize: MainAxisSize.max,
-                            mainAxisAlignment: MainAxisAlignment.center,
-                            children: [
-                              Align(
-                                alignment: AlignmentDirectional(0.0, 0.0),
-                                child: Padding(
-                                  padding: EdgeInsetsDirectional.fromSTEB(
-                                      0.0, 0.0, 5.0, 0.0),
-                                  child: ClipRRect(
-                                    borderRadius: BorderRadius.circular(8.0),
-                                    child: Image.network(
-                                      'https://as1.ftcdn.net/jpg/03/11/46/10/1000_F_311461036_KEx4FZdwZk7scnsgz7kZkxwQcbtq7Q0I.jpg',
-                                      width: MediaQuery.sizeOf(context).width *
-                                          0.4,
-                                      height: 600.0,
-                                      fit: BoxFit.cover,
-                                      alignment: Alignment(0.0, 0.0),
-                                    ),
-                                  ),
-                                ),
-                              ),
-                              Align(
-                                alignment: AlignmentDirectional(0.0, 0.0),
-                                child: ClipRRect(
-                                  borderRadius: BorderRadius.circular(8.0),
-                                  child: Image.network(
-                                    'https://as1.ftcdn.net/jpg/09/42/52/80/1000_F_942528033_iVBFQvcxxPC1M4XDDP13TB1yU6zp6lbd.jpg',
-                                    width:
-                                        MediaQuery.sizeOf(context).width * 0.4,
-                                    height: 600.0,
-                                    fit: BoxFit.cover,
-                                    alignment: Alignment(0.0, 0.0),
-                                  ),
-                                ),
-                              ),
-                            ],
-                          ),
-                        ),
                         Wrap(
                           spacing: 0.0,
                           runSpacing: 0.0,
