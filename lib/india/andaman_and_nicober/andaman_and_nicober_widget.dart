@@ -1125,7 +1125,7 @@ class _AndamanAndNicoberWidgetState extends State<AndamanAndNicoberWidget> {
                                                             ),
                                                             child:
                                                                 Image.network(
-                                                              'https://picsum.photos/seed/151/600',
+                                                              'https://images.pexels.com/photos/29175703/pexels-photo-29175703.jpeg',
                                                               width: double
                                                                   .infinity,
                                                               height: 300.0,
@@ -1379,7 +1379,7 @@ class _AndamanAndNicoberWidgetState extends State<AndamanAndNicoberWidget> {
                                                             ),
                                                             child:
                                                                 Image.network(
-                                                              'https://picsum.photos/seed/151/600',
+                                                              'https://images.pexels.com/photos/10914023/pexels-photo-10914023.jpeg',
                                                               width: double
                                                                   .infinity,
                                                               height: 300.0,
@@ -1633,7 +1633,7 @@ class _AndamanAndNicoberWidgetState extends State<AndamanAndNicoberWidget> {
                                                             ),
                                                             child:
                                                                 Image.network(
-                                                              'https://picsum.photos/seed/151/600',
+                                                              'https://images.pexels.com/photos/4777690/pexels-photo-4777690.jpeg',
                                                               width: double
                                                                   .infinity,
                                                               height: 300.0,
