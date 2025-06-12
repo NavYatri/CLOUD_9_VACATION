@@ -1628,7 +1628,7 @@ width: () {
                                                 topRight: Radius.circular(0.0),
                                               ),
                                               child: Image.network(
-                                                'https://as2.ftcdn.net/jpg/03/02/41/95/1000_F_302419571_KbPUN1cW30HnbFgWrOeQ5s2N6N0EKSWV.jpg',
+                                                'https://images.pexels.com/photos/1049872/pexels-photo-1049872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                                 width: double.infinity,
                                                 height: 270.0,
                                                 fit: BoxFit.cover,

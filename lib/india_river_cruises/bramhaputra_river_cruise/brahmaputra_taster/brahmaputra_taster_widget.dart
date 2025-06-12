@@ -70,7 +70,7 @@ class _BrahmaputraTasterWidgetState extends State<BrahmaputraTasterWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://images.pexels.com/photos/20860250/pexels-photo-20860250.jpeg',
+                                    'https://images.pexels.com/photos/29447415/pexels-photo-29447415/free-photo-of-fisherman-at-sunset-on-brahmaputra-river-bangladesh.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,

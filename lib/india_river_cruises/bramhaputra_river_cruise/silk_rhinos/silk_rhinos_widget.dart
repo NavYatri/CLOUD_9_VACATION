@@ -69,7 +69,7 @@ class _SilkRhinosWidgetState extends State<SilkRhinosWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://images.pexels.com/photos/31059314/pexels-photo-31059314.jpeg',
+                                    'https://images.pexels.com/photos/15533271/pexels-photo-15533271/free-photo-of-rhinoceroses-eating-in-zoo.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fitWidth,

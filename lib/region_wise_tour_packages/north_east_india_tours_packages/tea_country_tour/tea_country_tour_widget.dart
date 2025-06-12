@@ -69,10 +69,10 @@ class _TeaCountryTourWidgetState extends State<TeaCountryTourWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://images.pexels.com/photos/6131311/pexels-photo-6131311.jpeg',
+                                    'https://images.pexels.com/photos/392100/pexels-photo-392100.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
-                                    fit: BoxFit.fitWidth,
+                                    fit: BoxFit.fill,
                                   ),
                                 ),
                               ),

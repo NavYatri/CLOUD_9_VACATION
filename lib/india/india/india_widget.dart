@@ -897,7 +897,7 @@ class _IndiaWidgetState extends State<IndiaWidget> {
                                                     CrossAxisAlignment.center,
                                                 children: [
                                                   Text(
-                                                    'Incredable India Tour',
+                                                    'Incredible India Tour',
                                                     textAlign: TextAlign.center,
                                                     style: FlutterFlowTheme.of(
                                                             context)
@@ -925,7 +925,7 @@ class _IndiaWidgetState extends State<IndiaWidget> {
                                                         ),
                                                   ),
                                                   Text(
-                                                    'chennai-kanchipuram-tanjore-trichy-cochin-banglore-mumbai-agra-varanasi-delhi',
+                                                    'Chennai-Kanchipuram-Tanjore-Trichy-Cochin-Bengaluru-Mumbai-Agra-Varanasi-Delhi',
                                                     textAlign: TextAlign.center,
                                                     style: FlutterFlowTheme.of(
                                                             context)
