@@ -1504,7 +1504,7 @@ class _AndamanAndNicoberWidgetState extends State<AndamanAndNicoberWidget> {
                                                                   ),
                                                             ),
                                                             Text(
-                                                              'Port Blair - Corbyn?s Cove - North Bay Coral Island - Radhanagar Beach - Wandoor Beach - Port Blair',
+                                                              'Port Blair - Corbyn\'s Cove - North Bay Coral Island - Radhanagar Beach - Wandoor Beach - Port Blair',
                                                               style: FlutterFlowTheme
                                                                       .of(context)
                                                                   .bodyMedium
