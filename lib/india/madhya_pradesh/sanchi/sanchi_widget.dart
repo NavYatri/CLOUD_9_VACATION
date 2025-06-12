@@ -71,7 +71,7 @@ class _SanchiWidgetState extends State<SanchiWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://as1.ftcdn.net/v2/jpg/01/39/93/52/1000_F_139935244_HFzK14QRqRfvs4nQwec1GZ2kbwtIBvMI.jpg',
+                                    'https://s7ap1.scene7.com/is/image/incredibleindia/chaturbhuj-temple-orchha-madhya-pradesh-2-attr-hero?qlt=82&ts=1726670981334',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

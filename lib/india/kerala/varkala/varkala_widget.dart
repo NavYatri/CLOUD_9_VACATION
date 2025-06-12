@@ -71,7 +71,7 @@ class _VarkalaWidgetState extends State<VarkalaWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://static.toiimg.com/photo/27960537.cms',
+                                    'https://images.pexels.com/photos/13044427/pexels-photo-13044427.jpeg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

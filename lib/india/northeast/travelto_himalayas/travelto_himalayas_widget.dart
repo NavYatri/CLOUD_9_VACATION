@@ -72,7 +72,7 @@ class _TraveltoHimalayasWidgetState extends State<TraveltoHimalayasWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://images.pexels.com/photos/974439/pexels-photo-974439.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+                                    'https://images.pexels.com/photos/38326/pexels-photo-38326.jpeg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

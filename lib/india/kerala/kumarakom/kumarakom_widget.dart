@@ -71,7 +71,7 @@ class _KumarakomWidgetState extends State<KumarakomWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://www.keralatourism.org/images/enchanting_kerala/large/the_captivating_water_world_of_kumarakom20140226165302_480_1.jpg',
+                                    'https://images.pexels.com/photos/31460966/pexels-photo-31460966.jpeg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

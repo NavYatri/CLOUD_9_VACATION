@@ -71,7 +71,7 @@ class _ManduWidgetState extends State<ManduWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://static.toiimg.com/photo/97153442.cms',
+                                    'https://images.pexels.com/photos/10975761/pexels-photo-10975761.jpeg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

@@ -71,7 +71,7 @@ class _AlleppeyWidgetState extends State<AlleppeyWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://t3.ftcdn.net/jpg/08/32/24/48/240_F_832244827_7K56VGKkrWjTpbqhKhWBRxOcTZxkaLcr.jpg',
+                                    'https://images.pexels.com/photos/32518621/pexels-photo-32518621.jpeg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

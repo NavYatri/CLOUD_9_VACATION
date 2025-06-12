@@ -71,7 +71,7 @@ class _PeriyarWidgetState extends State<PeriyarWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://t4.ftcdn.net/jpg/01/64/62/13/240_F_164621341_vA1ZtJNeXpctAy7ASvEMtl5R6RG1pzOa.jpg',
+                                    'https://images.pexels.com/photos/13044389/pexels-photo-13044389.jpeg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

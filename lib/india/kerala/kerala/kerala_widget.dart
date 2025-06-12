@@ -87,7 +87,7 @@ class _KeralaWidgetState extends State<KeralaWidget> {
                                           borderRadius:
                                               BorderRadius.circular(8.0),
                                           child: Image.network(
-                                            'https://t4.ftcdn.net/jpg/01/64/62/13/240_F_164621341_vA1ZtJNeXpctAy7ASvEMtl5R6RG1pzOa.jpg',
+                                            'https://images.pexels.com/photos/32518622/pexels-photo-32518622.jpeg',
                                             width: MediaQuery.sizeOf(context)
                                                 .width,
                                             height: 739.0,
