@@ -75,7 +75,7 @@ class _IndiagateWidgetState extends State<IndiagateWidget> {
                                     child: ClipRRect(
                                       borderRadius: BorderRadius.circular(8.0),
                                       child: Image.network(
-                                        'https://s7ap1.scene7.com/is/image/incredibleindia/red-fort-delhi1-attr-hero?qlt=82&ts=1727352314555',
+                                        'https://images.pexels.com/photos/789750/pexels-photo-789750.jpeg',
                                         width: MediaQuery.sizeOf(context).width,
                                         height: 736.0,
                                         fit: BoxFit.fill,

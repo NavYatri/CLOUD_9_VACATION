@@ -71,7 +71,7 @@ class _TravelTopanajiWidgetState extends State<TravelTopanajiWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://static.toiimg.com/photo/52501011.cms',
+                                    'https://images.pexels.com/photos/29072296/pexels-photo-29072296.jpeg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

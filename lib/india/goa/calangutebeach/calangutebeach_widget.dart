@@ -71,10 +71,10 @@ class _CalangutebeachWidgetState extends State<CalangutebeachWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://t3.ftcdn.net/jpg/03/36/45/58/240_F_336455865_7HhAx5R79mmCRAVSxCBuWxoOpoLIMQRK.jpg',
+                                    'https://images.pexels.com/photos/4428272/pexels-photo-4428272.jpeg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
-                                    fit: BoxFit.fitWidth,
+                                    fit: BoxFit.fill,
                                   ),
                                 ),
                               ),

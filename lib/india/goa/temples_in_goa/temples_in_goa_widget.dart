@@ -74,7 +74,7 @@ class _TemplesInGoaWidgetState extends State<TemplesInGoaWidget> {
                                     'https://t3.ftcdn.net/jpg/03/36/45/58/240_F_336455865_7HhAx5R79mmCRAVSxCBuWxoOpoLIMQRK.jpg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
-                                    fit: BoxFit.fitWidth,
+                                    fit: BoxFit.fill,
                                   ),
                                 ),
                               ),

@@ -71,7 +71,7 @@ class _AdventureSportsWidgetState extends State<AdventureSportsWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://assets.traveltriangle.com/blog/wp-content/uploads/2019/11/Trekking_21st-Nov.jpg',
+                                    'https://images.pexels.com/photos/1365425/pexels-photo-1365425.jpeg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

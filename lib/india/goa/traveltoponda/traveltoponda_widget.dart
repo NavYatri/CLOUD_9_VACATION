@@ -71,7 +71,7 @@ class _TraveltopondaWidgetState extends State<TraveltopondaWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://static.toiimg.com/photo/52416442.cms',
+                                    'https://images.pexels.com/photos/5897623/pexels-photo-5897623.jpeg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

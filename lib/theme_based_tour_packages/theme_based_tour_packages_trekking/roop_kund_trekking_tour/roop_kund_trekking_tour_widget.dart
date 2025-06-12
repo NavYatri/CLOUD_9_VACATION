@@ -32,11 +32,6 @@ class _RoopKundTrekkingTourWidgetState
     super.initState();
     _model = createModel(context, () => RoopKundTrekkingTourModel());
 
-    // On page load action.
-    SchedulerBinding.instance.addPostFrameCallback((_) async {
-      await action_blocks.greenbutton(context);
-    });
-
     WidgetsBinding.instance.addPostFrameCallback((_) => safeSetState(() {}));
   }
 

@@ -71,7 +71,7 @@ class _BeachesinGoaWidgetState extends State<BeachesinGoaWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://t3.ftcdn.net/jpg/03/04/86/60/240_F_304866050_wnnf55o9olY7Lw1asuDQ3zDcQ627mMPY.jpg',
+                                    'https://images.pexels.com/photos/4428289/pexels-photo-4428289.jpeg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,
@@ -93,7 +93,7 @@ class _BeachesinGoaWidgetState extends State<BeachesinGoaWidget> {
                 Padding(
                   padding: EdgeInsetsDirectional.fromSTEB(0.0, 40.0, 0.0, 0.0),
                   child: Text(
-                    'BeachesinGoa',
+                    'Beaches in Goa',
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
                           font: GoogleFonts.inriaSerif(
                             fontWeight: FlutterFlowTheme.of(context)

@@ -132,8 +132,20 @@ class _WestIndiaTourPackagesWidgetState
                     clipBehavior: Clip.none,
                     children: [
                       Container(
-                        width: 1200.0,
-                        decoration: BoxDecoration(),
+width: () {
+                          if (MediaQuery.sizeOf(context).width <
+                              kBreakpointSmall) {
+                            return MediaQuery.sizeOf(context).width;
+                          } else if (MediaQuery.sizeOf(context).width <
+                              kBreakpointMedium) {
+                            return MediaQuery.sizeOf(context).width;
+                          } else if (MediaQuery.sizeOf(context).width <
+                              kBreakpointLarge) {
+                            return (MediaQuery.sizeOf(context).width * 0.6);
+                          } else {
+                            return (MediaQuery.sizeOf(context).width * 0.6);
+                          }
+                        }(),                        decoration: BoxDecoration(),
                         child: Column(
                           mainAxisSize: MainAxisSize.max,
                           children: [

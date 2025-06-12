@@ -71,7 +71,7 @@ class _TravelToArambolWidgetState extends State<TravelToArambolWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://t3.ftcdn.net/jpg/12/12/37/44/240_F_1212374483_rzugxZeXgOPB59qQHx6JHmkNAinsG3O9.jpg',
+                                    'https://images.pexels.com/photos/14384530/pexels-photo-14384530.jpeg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

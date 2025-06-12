@@ -71,7 +71,7 @@ class _TraveltoMapusaWidgetState extends State<TraveltoMapusaWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://indiatouristspots.weebly.com/uploads/7/9/4/2/79421790/maruti-temple-mapusa-goa_1_orig.jpg',
+                                    'https://images.pexels.com/photos/4428276/pexels-photo-4428276.jpeg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,

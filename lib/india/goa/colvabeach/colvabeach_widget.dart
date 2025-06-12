@@ -71,7 +71,7 @@ class _ColvabeachWidgetState extends State<ColvabeachWidget> {
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(8.0),
                                   child: Image.network(
-                                    'https://upload.wikimedia.org/wikipedia/commons/0/06/Colv%C3%A1_beach.jpg',
+                                    'https://images.pexels.com/photos/4428272/pexels-photo-4428272.jpeg',
                                     width: MediaQuery.sizeOf(context).width,
                                     height: 736.0,
                                     fit: BoxFit.fill,
