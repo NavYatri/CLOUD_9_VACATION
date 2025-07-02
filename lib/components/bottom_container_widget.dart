@@ -796,63 +796,60 @@ class _BottomContainerWidgetState extends State<BottomContainerWidget> {
                           mainAxisAlignment: MainAxisAlignment.center,
                           children: [
                             Align(
-                              alignment: AlignmentDirectional(0.0, 0.0),
-                              child: Text(
-                                'Terms and Conditions',
-                                textAlign: TextAlign.center,
-                                style: FlutterFlowTheme.of(context)
-                                    .bodyMedium
-                                    .override(
-                                      font: GoogleFonts.inter(
-                                        fontWeight: FlutterFlowTheme.of(context)
-                                            .bodyMedium
-                                            .fontWeight,
-                                        fontStyle: FlutterFlowTheme.of(context)
-                                            .bodyMedium
-                                            .fontStyle,
-                                      ),
-                                      color: FlutterFlowTheme.of(context)
-                                          .primaryBackground,
-                                      fontSize: 12.0,
-                                      letterSpacing: 0.0,
-                                      fontWeight: FlutterFlowTheme.of(context)
-                                          .bodyMedium
-                                          .fontWeight,
-                                      fontStyle: FlutterFlowTheme.of(context)
-                                          .bodyMedium
-                                          .fontStyle,
-                                    ),
-                              ),
-                            ),
-                            Align(
-                              alignment: AlignmentDirectional(0.0, 0.0),
-                              child: Text(
-                                '  |  Privacy Policy',
-                                textAlign: TextAlign.center,
-                                style: FlutterFlowTheme.of(context)
-                                    .bodyMedium
-                                    .override(
-                                      font: GoogleFonts.inter(
-                                        fontWeight: FlutterFlowTheme.of(context)
-                                            .bodyMedium
-                                            .fontWeight,
-                                        fontStyle: FlutterFlowTheme.of(context)
-                                            .bodyMedium
-                                            .fontStyle,
-                                      ),
-                                      color: FlutterFlowTheme.of(context)
-                                          .primaryBackground,
-                                      fontSize: 12.0,
-                                      letterSpacing: 0.0,
-                                      fontWeight: FlutterFlowTheme.of(context)
-                                          .bodyMedium
-                                          .fontWeight,
-                                      fontStyle: FlutterFlowTheme.of(context)
-                                          .bodyMedium
-                                          .fontStyle,
-                                    ),
-                              ),
-                            ),
+  alignment: AlignmentDirectional(0.0, 0.0),
+  child: InkWell(
+    splashColor: Colors.transparent,
+    focusColor: Colors.transparent,
+    hoverColor: Colors.transparent,
+    highlightColor: Colors.transparent,
+    onTap: () async {
+      context.pushNamed('TermsAndConditionsPage'); // Make sure this route is defined
+    },
+    child: Text(
+      'Terms and Conditions',
+      textAlign: TextAlign.center,
+      style: FlutterFlowTheme.of(context).bodyMedium.override(
+            font: GoogleFonts.inter(
+              fontWeight: FlutterFlowTheme.of(context).bodyMedium.fontWeight,
+              fontStyle: FlutterFlowTheme.of(context).bodyMedium.fontStyle,
+            ),
+            color: FlutterFlowTheme.of(context).primaryBackground,
+            fontSize: 12.0,
+            letterSpacing: 0.0,
+            fontWeight: FlutterFlowTheme.of(context).bodyMedium.fontWeight,
+            fontStyle: FlutterFlowTheme.of(context).bodyMedium.fontStyle,
+          ),
+    ),
+  ),
+),
+Align(
+  alignment: AlignmentDirectional(0.0, 0.0),
+  child: InkWell(
+    splashColor: Colors.transparent,
+    focusColor: Colors.transparent,
+    hoverColor: Colors.transparent,
+    highlightColor: Colors.transparent,
+    onTap: () async {
+      context.pushNamed('PrivacyPolicyPage'); // Make sure this route is defined too
+    },
+    child: Text(
+      '  |  Privacy Policy',
+      textAlign: TextAlign.center,
+      style: FlutterFlowTheme.of(context).bodyMedium.override(
+            font: GoogleFonts.inter(
+              fontWeight: FlutterFlowTheme.of(context).bodyMedium.fontWeight,
+              fontStyle: FlutterFlowTheme.of(context).bodyMedium.fontStyle,
+            ),
+            color: FlutterFlowTheme.of(context).primaryBackground,
+            fontSize: 12.0,
+            letterSpacing: 0.0,
+            fontWeight: FlutterFlowTheme.of(context).bodyMedium.fontWeight,
+            fontStyle: FlutterFlowTheme.of(context).bodyMedium.fontStyle,
+          ),
+    ),
+  ),
+),
+
                           ],
                         ),
                       ),
