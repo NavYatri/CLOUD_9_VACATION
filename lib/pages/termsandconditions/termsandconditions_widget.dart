@@ -79,6 +79,7 @@ class _TermsandconditionsWidgetState extends State<TermsandconditionsWidget> {
                                       PageController(initialPage: 0),
                                   scrollDirection: Axis.horizontal,
                                   children: [
+                                    
                                     Stack(
                                       children: [
                                         Align(
@@ -88,7 +89,7 @@ class _TermsandconditionsWidgetState extends State<TermsandconditionsWidget> {
                                             borderRadius:
                                                 BorderRadius.circular(8.0),
                                             child: Image.network(
-                                              'https://ds393qgzrxwzn.cloudfront.net/resize/m600x500/cat1/img/images/0/ElPBtRj97U.jpg',
+                                              'https://images.pexels.com/photos/8112552/pexels-photo-8112552.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
                                               width: MediaQuery.sizeOf(context)
                                                   .width,
                                               height: MediaQuery.sizeOf(context)
@@ -108,7 +109,7 @@ class _TermsandconditionsWidgetState extends State<TermsandconditionsWidget> {
                                             borderRadius:
                                                 BorderRadius.circular(8.0),
                                             child: Image.network(
-                                              'https://resize.indiatvnews.com/en/resize/newbucket/835_-/2024/12/meghalaya-1-1-1733922922.webp',
+                                              'https://images.pexels.com/photos/362690/pexels-photo-362690.jpeg',
                                               width: MediaQuery.sizeOf(context)
                                                   .width,
                                               height: 739.0,
@@ -685,7 +686,7 @@ class _TermsandconditionsWidgetState extends State<TermsandconditionsWidget> {
                                 ),
                                 TextSpan(
                                   text:
-                                      'Rules For Cancellations, Transfers And Changes\n\nTransfer Of your Tour',
+                                      'Rules For Cancellations, Transfers And Changes\n\nTransfer Of your Tour\n',
                                   style: TextStyle(
                                     fontWeight: FontWeight.w600,
                                   ),

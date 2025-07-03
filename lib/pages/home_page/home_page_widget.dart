@@ -1915,7 +1915,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                               fontFamily:
                                                   FlutterFlowTheme.of(context)
                                                       .bodyMediumFamily,
-                                              color: Color(0xFFF2F8F2),
+                                              color: Color(0xFF000000),
                                               fontSize: 14.0,
                                               letterSpacing: 0.0,
                                               fontWeight: FontWeight.w500,
@@ -1938,7 +1938,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                           fontFamily:
                                               FlutterFlowTheme.of(context)
                                                   .bodyMediumFamily,
-                                          color: Color(0xFFF2F8F2),
+                                          color: Color(0xFF000000),
                                           fontSize: 22.0,
                                           letterSpacing: 0.0,
                                           fontWeight: FontWeight.w500,
