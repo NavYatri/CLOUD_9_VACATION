@@ -310,385 +310,179 @@ class _BottomContainerWidgetState extends State<BottomContainerWidget> {
                           mainAxisSize: MainAxisSize.max,
                           mainAxisAlignment: MainAxisAlignment.center,
                           children: [
-                            Align(
-                              alignment: AlignmentDirectional(-1.0, 0.0),
-                              child: Column(
-                                mainAxisSize: MainAxisSize.max,
-                                mainAxisAlignment: MainAxisAlignment.start,
-                                crossAxisAlignment: CrossAxisAlignment.start,
-                                children: [
-                                  Align(
-                                    alignment: AlignmentDirectional(-1.0, 0.0),
-                                    child: ClipRRect(
-                                      borderRadius: BorderRadius.circular(8.0),
-                                      child: Image.asset(
-                                        'assets/images/Heading-removebg-preview.png',
-                                        width: 230.2,
-                                        height: 250.0,
-                                        fit: BoxFit.cover,
-                                      ),
-                                    ),
+                            Column(
+                              mainAxisSize: MainAxisSize.max,
+                              crossAxisAlignment: CrossAxisAlignment.start,
+                              children: [
+                                ClipRRect(
+                                  borderRadius: BorderRadius.circular(8.0),
+                                  child: Image.asset(
+                                    'assets/images/Heading-removebg-preview.png',
+                                    width: 230.2,
+                                    height: 250.0,
+                                    fit: BoxFit.cover,
                                   ),
-                                  Align(
-                                    alignment: AlignmentDirectional(0.0, 0.0),
-                                    child: Row(
-                                      mainAxisSize: MainAxisSize.min,
-                                      mainAxisAlignment:
-                                          MainAxisAlignment.start,
+                                ),
+                                SizedBox(height: 35.0),
+                                Row(
+                                  mainAxisSize: MainAxisSize.min,
+                                  mainAxisAlignment: MainAxisAlignment.start,
+                                  children: [
+                                    Icon(Icons.location_on_outlined, color: Colors.white, size: 50.0),
+                                    SizedBox(width: 25.0),
+                                    Column(
+                                      mainAxisSize: MainAxisSize.max,
                                       children: [
-                                        Icon(
-                                          Icons.location_on_outlined,
-                                          color: Colors.white,
-                                          size: 50.0,
+                                        Text(
+                                          'Address \nNishad raj \nRamnagar \nVaranasi \n221008',
+                                          style: FlutterFlowTheme.of(context).bodyMedium.override(
+                                                fontFamily: 'Quicksand',
+                                                color: FlutterFlowTheme.of(context).primaryBackground,
+                                                fontSize: 15.0,
+                                                fontWeight: FontWeight.w600,
+                                              ),
                                         ),
-                                        Column(
-                                          mainAxisSize: MainAxisSize.max,
-                                          children: [
-                                            Text(
-                                              'Address \nNishad raj \nRamnagar \nVaranasi \n221008',
-                                              style: FlutterFlowTheme.of(
-                                                      context)
-                                                  .bodyMedium
-                                                  .override(
-                                                    font: GoogleFonts.quicksand(
-                                                      fontWeight:
-                                                          FontWeight.w600,
-                                                      fontStyle:
-                                                          FlutterFlowTheme.of(
-                                                                  context)
-                                                              .bodyMedium
-                                                              .fontStyle,
-                                                    ),
-                                                    color: FlutterFlowTheme.of(
-                                                            context)
-                                                        .primaryBackground,
-                                                    fontSize: 15.0,
-                                                    letterSpacing: 0.0,
-                                                    fontWeight: FontWeight.w600,
-                                                    fontStyle:
-                                                        FlutterFlowTheme.of(
-                                                                context)
-                                                            .bodyMedium
-                                                            .fontStyle,
-                                                  ),
-                                            ),
-                                          ],
-                                        ),
-                                      ].divide(SizedBox(width: 25.0)),
+                                      ],
                                     ),
-                                  ),
-                                  Row(
-                                    mainAxisSize: MainAxisSize.min,
-                                    mainAxisAlignment: MainAxisAlignment.start,
-                                    children: [
-                                      Icon(
-                                        Icons.mail_outline_rounded,
-                                        color: Colors.white,
-                                        size: 50.0,
-                                      ),
-                                      Column(
-                                        mainAxisSize: MainAxisSize.max,
-                                        children: [
-                                          Text(
-                                            'navyatri33@gmail.com',
-                                            style: FlutterFlowTheme.of(context)
-                                                .bodyMedium
-                                                .override(
-                                                  font: GoogleFonts.quicksand(
-                                                    fontWeight: FontWeight.w600,
-                                                    fontStyle:
-                                                        FlutterFlowTheme.of(
-                                                                context)
-                                                            .bodyMedium
-                                                            .fontStyle,
-                                                  ),
-                                                  color: FlutterFlowTheme.of(
-                                                          context)
-                                                      .primaryBackground,
-                                                  fontSize: 15.0,
-                                                  letterSpacing: 0.0,
-                                                  fontWeight: FontWeight.w600,
-                                                  fontStyle:
-                                                      FlutterFlowTheme.of(
-                                                              context)
-                                                          .bodyMedium
-                                                          .fontStyle,
-                                                ),
-                                          ),
-                                        ],
-                                      ),
-                                    ].divide(SizedBox(width: 25.0)),
-                                  ),
-                                  Row(
-                                    mainAxisSize: MainAxisSize.min,
-                                    children: [
-                                      Icon(
-                                        Icons.phone_in_talk_rounded,
-                                        color: Colors.white,
-                                        size: 50.0,
-                                      ),
-                                      Column(
-                                        mainAxisSize: MainAxisSize.max,
-                                        children: [
-                                          Text(
-                                            '+91 8882757151',
-                                            style: FlutterFlowTheme.of(context)
-                                                .bodyMedium
-                                                .override(
-                                                  font: GoogleFonts.quicksand(
-                                                    fontWeight: FontWeight.w600,
-                                                    fontStyle:
-                                                        FlutterFlowTheme.of(
-                                                                context)
-                                                            .bodyMedium
-                                                            .fontStyle,
-                                                  ),
-                                                  color: FlutterFlowTheme.of(
-                                                          context)
-                                                      .primaryBackground,
-                                                  fontSize: 15.0,
-                                                  letterSpacing: 0.0,
-                                                  fontWeight: FontWeight.w600,
-                                                  fontStyle:
-                                                      FlutterFlowTheme.of(
-                                                              context)
-                                                          .bodyMedium
-                                                          .fontStyle,
-                                                ),
-                                          ),
-                                        ],
-                                      ),
-                                    ].divide(SizedBox(width: 25.0)),
-                                  ),
-                                ].divide(SizedBox(height: 35.0)),
-                              ),
+                                  ],
+                                ),
+                                SizedBox(height: 35.0),
+                                Row(
+                                  mainAxisSize: MainAxisSize.min,
+                                  mainAxisAlignment: MainAxisAlignment.start,
+                                  children: [
+                                    Icon(Icons.mail_outline_rounded, color: Colors.white, size: 50.0),
+                                    SizedBox(width: 25.0),
+                                    Column(
+                                      mainAxisSize: MainAxisSize.max,
+                                      children: [
+                                        Text(
+                                          'navyatri33@gmail.com',
+                                          style: FlutterFlowTheme.of(context).bodyMedium.override(
+                                                fontFamily: 'Quicksand',
+                                                color: FlutterFlowTheme.of(context).primaryBackground,
+                                                fontSize: 15.0,
+                                                fontWeight: FontWeight.w600,
+                                              ),
+                                        ),
+                                      ],
+                                    ),
+                                  ],
+                                ),
+                                SizedBox(height: 35.0),
+                                Row(
+                                  mainAxisSize: MainAxisSize.min,
+                                  children: [
+                                    Icon(Icons.phone_in_talk_rounded, color: Colors.white, size: 50.0),
+                                    SizedBox(width: 25.0),
+                                    Column(
+                                      mainAxisSize: MainAxisSize.max,
+                                      children: [
+                                        Text(
+                                          '+91 8882757151',
+                                          style: FlutterFlowTheme.of(context).bodyMedium.override(
+                                                fontFamily: 'Quicksand',
+                                                color: FlutterFlowTheme.of(context).primaryBackground,
+                                                fontSize: 15.0,
+                                                fontWeight: FontWeight.w600,
+                                              ),
+                                        ),
+                                      ],
+                                    ),
+                                  ],
+                                ),
+                              ],
                             ),
                             Padding(
-                              padding: EdgeInsetsDirectional.fromSTEB(
-                                  80.0, 320.0, 80.0, 0.0),
+                              padding: EdgeInsetsDirectional.fromSTEB(80.0, 320.0, 80.0, 0.0),
                               child: Column(
                                 mainAxisSize: MainAxisSize.max,
                                 children: [
                                   Text(
                                     'Quick Links',
                                     textAlign: TextAlign.center,
-                                    style: FlutterFlowTheme.of(context)
-                                        .bodyMedium
-                                        .override(
-                                          font: GoogleFonts.inter(
-                                            fontWeight: FontWeight.w600,
-                                            fontStyle:
-                                                FlutterFlowTheme.of(context)
-                                                    .bodyMedium
-                                                    .fontStyle,
-                                          ),
-                                          color: FlutterFlowTheme.of(context)
-                                              .primaryBackground,
+                                    style: FlutterFlowTheme.of(context).bodyMedium.override(
+                                          fontFamily: 'Inter',
+                                          color: FlutterFlowTheme.of(context).primaryBackground,
                                           fontSize: 18.0,
-                                          letterSpacing: 0.0,
                                           fontWeight: FontWeight.w600,
-                                          fontStyle:
-                                              FlutterFlowTheme.of(context)
-                                                  .bodyMedium
-                                                  .fontStyle,
                                         ),
                                   ),
+                                  SizedBox(height: 20.0),
                                   InkWell(
-                                    splashColor: Colors.transparent,
-                                    focusColor: Colors.transparent,
-                                    hoverColor: Colors.transparent,
-                                    highlightColor: Colors.transparent,
                                     onTap: () async {
-              context.pushNamed(AboutUsWidget.routeName);
-            },
+                                      context.pushNamed(AboutUsWidget.routeName);
+                                    },
                                     child: Text(
                                       'About Us',
-                                      style: FlutterFlowTheme.of(context)
-                                          .bodyMedium
-                                          .override(
-                                            font: GoogleFonts.inter(
-                                              fontWeight:
-                                                  FlutterFlowTheme.of(context)
-                                                      .bodyMedium
-                                                      .fontWeight,
-                                              fontStyle:
-                                                  FlutterFlowTheme.of(context)
-                                                      .bodyMedium
-                                                      .fontStyle,
-                                            ),
-                                            color: FlutterFlowTheme.of(context)
-                                                .primaryBackground,
+                                      style: FlutterFlowTheme.of(context).bodyMedium.override(
+                                            fontFamily: 'Inter',
+                                            color: FlutterFlowTheme.of(context).primaryBackground,
                                             fontSize: 15.0,
-                                            letterSpacing: 0.0,
-                                            fontWeight:
-                                                FlutterFlowTheme.of(context)
-                                                    .bodyMedium
-                                                    .fontWeight,
-                                            fontStyle:
-                                                FlutterFlowTheme.of(context)
-                                                    .bodyMedium
-                                                    .fontStyle,
                                           ),
                                     ),
                                   ),
+                                  SizedBox(height: 20.0),
                                   InkWell(
-                                    splashColor: Colors.transparent,
-                                    focusColor: Colors.transparent,
-                                    hoverColor: Colors.transparent,
-                                    highlightColor: Colors.transparent,
                                     onTap: () async {
                                       context.pushNamed(VaranasitoursWidget.routeName);
                                     },
                                     child: Text(
                                       'Varanasi Tours',
-                                      style: FlutterFlowTheme.of(context)
-                                          .bodyMedium
-                                          .override(
-                                            font: GoogleFonts.inter(
-                                              fontWeight:
-                                                  FlutterFlowTheme.of(context)
-                                                      .bodyMedium
-                                                      .fontWeight,
-                                              fontStyle:
-                                                  FlutterFlowTheme.of(context)
-                                                      .bodyMedium
-                                                      .fontStyle,
-                                            ),
-                                            color: FlutterFlowTheme.of(context)
-                                                .primaryBackground,
+                                      style: FlutterFlowTheme.of(context).bodyMedium.override(
+                                            fontFamily: 'Inter',
+                                            color: FlutterFlowTheme.of(context).primaryBackground,
                                             fontSize: 15.0,
-                                            letterSpacing: 0.0,
-                                            fontWeight:
-                                                FlutterFlowTheme.of(context)
-                                                    .bodyMedium
-                                                    .fontWeight,
-                                            fontStyle:
-                                                FlutterFlowTheme.of(context)
-                                                    .bodyMedium
-                                                    .fontStyle,
                                           ),
                                     ),
                                   ),
+                                  SizedBox(height: 20.0),
                                   InkWell(
-                                    splashColor: Colors.transparent,
-                                    focusColor: Colors.transparent,
-                                    hoverColor: Colors.transparent,
-                                    highlightColor: Colors.transparent,
                                     onTap: () async {
                                       context.pushNamed(IndiaTourPackagesWidget.routeName);
                                     },
                                     child: Text(
                                       'Domestic Tours',
-                                      style: FlutterFlowTheme.of(context)
-                                          .bodyMedium
-                                          .override(
-                                            font: GoogleFonts.inter(
-                                              fontWeight:
-                                                  FlutterFlowTheme.of(context)
-                                                      .bodyMedium
-                                                      .fontWeight,
-                                              fontStyle:
-                                                  FlutterFlowTheme.of(context)
-                                                      .bodyMedium
-                                                      .fontStyle,
-                                            ),
-                                            color: FlutterFlowTheme.of(context)
-                                                .primaryBackground,
+                                      style: FlutterFlowTheme.of(context).bodyMedium.override(
+                                            fontFamily: 'Inter',
+                                            color: FlutterFlowTheme.of(context).primaryBackground,
                                             fontSize: 15.0,
-                                            letterSpacing: 0.0,
-                                            fontWeight:
-                                                FlutterFlowTheme.of(context)
-                                                    .bodyMedium
-                                                    .fontWeight,
-                                            fontStyle:
-                                                FlutterFlowTheme.of(context)
-                                                    .bodyMedium
-                                                    .fontStyle,
                                           ),
                                     ),
                                   ),
+                                  SizedBox(height: 20.0),
                                   InkWell(
-                                    splashColor: Colors.transparent,
-                                    focusColor: Colors.transparent,
-                                    hoverColor: Colors.transparent,
-                                    highlightColor: Colors.transparent,
                                     onTap: () async {
                                       context.pushNamed(MaldivesWidget.routeName);
                                     },
                                     child: Text(
                                       'International Tours',
-                                      style: FlutterFlowTheme.of(context)
-                                          .bodyMedium
-                                          .override(
-                                            font: GoogleFonts.inter(
-                                              fontWeight:
-                                                  FlutterFlowTheme.of(context)
-                                                      .bodyMedium
-                                                      .fontWeight,
-                                              fontStyle:
-                                                  FlutterFlowTheme.of(context)
-                                                      .bodyMedium
-                                                      .fontStyle,
-                                            ),
-                                            color: FlutterFlowTheme.of(context)
-                                                .primaryBackground,
+                                      style: FlutterFlowTheme.of(context).bodyMedium.override(
+                                            fontFamily: 'Inter',
+                                            color: FlutterFlowTheme.of(context).primaryBackground,
                                             fontSize: 15.0,
-                                            letterSpacing: 0.0,
-                                            fontWeight:
-                                                FlutterFlowTheme.of(context)
-                                                    .bodyMedium
-                                                    .fontWeight,
-                                            fontStyle:
-                                                FlutterFlowTheme.of(context)
-                                                    .bodyMedium
-                                                    .fontStyle,
                                           ),
                                     ),
                                   ),
+                                  SizedBox(height: 20.0),
                                   InkWell(
-                                    splashColor: Colors.transparent,
-                                    focusColor: Colors.transparent,
-                                    hoverColor: Colors.transparent,
-                                    highlightColor: Colors.transparent,
                                     onTap: () async {
                                       await action_blocks.greenbutton(context);
-                                      },
+                                    },
                                     child: Text(
                                       'Contact',
-                                      style: FlutterFlowTheme.of(context)
-                                          .bodyMedium
-                                          .override(
-                                            font: GoogleFonts.inter(
-                                              fontWeight:
-                                                  FlutterFlowTheme.of(context)
-                                                      .bodyMedium
-                                                      .fontWeight,
-                                              fontStyle:
-                                                  FlutterFlowTheme.of(context)
-                                                      .bodyMedium
-                                                      .fontStyle,
-                                            ),
-                                            color: FlutterFlowTheme.of(context)
-                                                .primaryBackground,
+                                      style: FlutterFlowTheme.of(context).bodyMedium.override(
+                                            fontFamily: 'Inter',
+                                            color: FlutterFlowTheme.of(context).primaryBackground,
                                             fontSize: 15.0,
-                                            letterSpacing: 0.0,
-                                            fontWeight:
-                                                FlutterFlowTheme.of(context)
-                                                    .bodyMedium
-                                                    .fontWeight,
-                                            fontStyle:
-                                                FlutterFlowTheme.of(context)
-                                                    .bodyMedium
-                                                    .fontStyle,
                                           ),
                                     ),
                                   ),
-                                ].divide(SizedBox(height: 20.0)),
+                                ],
                               ),
                             ),
                             Padding(
-                              padding: EdgeInsetsDirectional.fromSTEB(
-                                  0.0, 300.0, 0.0, 0.0),
+                              padding: EdgeInsetsDirectional.fromSTEB(0.0, 300.0, 0.0, 0.0),
                               child: Column(
                                 mainAxisSize: MainAxisSize.max,
                                 crossAxisAlignment: CrossAxisAlignment.center,
@@ -696,62 +490,27 @@ class _BottomContainerWidgetState extends State<BottomContainerWidget> {
                                   Text(
                                     'About Us',
                                     textAlign: TextAlign.center,
-                                    style: FlutterFlowTheme.of(context)
-                                        .bodyMedium
-                                        .override(
-                                          font: GoogleFonts.inter(
-                                            fontWeight: FontWeight.w600,
-                                            fontStyle:
-                                                FlutterFlowTheme.of(context)
-                                                    .bodyMedium
-                                                    .fontStyle,
-                                          ),
-                                          color: FlutterFlowTheme.of(context)
-                                              .primaryBackground,
+                                    style: FlutterFlowTheme.of(context).bodyMedium.override(
+                                          fontFamily: 'Inter',
+                                          color: FlutterFlowTheme.of(context).primaryBackground,
                                           fontSize: 18.0,
-                                          letterSpacing: 0.0,
                                           fontWeight: FontWeight.w600,
-                                          fontStyle:
-                                              FlutterFlowTheme.of(context)
-                                                  .bodyMedium
-                                                  .fontStyle,
                                         ),
                                   ),
+                                  SizedBox(height: 20.0),
                                   Container(
                                     width: 500.0,
-                                    decoration: BoxDecoration(),
                                     child: Text(
                                       'At Cloud9Vacations, we specialize in creating exceptional travel experiences through thoughtfully designed domestic and international holiday packages. Our mission is to become the preferred travel partner for both national and international travelers by consistently delivering excellence in customer service.',
                                       textAlign: TextAlign.justify,
-                                      style: FlutterFlowTheme.of(context)
-                                          .bodyMedium
-                                          .override(
-                                            font: GoogleFonts.inter(
-                                              fontWeight:
-                                                  FlutterFlowTheme.of(context)
-                                                      .bodyMedium
-                                                      .fontWeight,
-                                              fontStyle:
-                                                  FlutterFlowTheme.of(context)
-                                                      .bodyMedium
-                                                      .fontStyle,
-                                            ),
-                                            color: FlutterFlowTheme.of(context)
-                                                .primaryBackground,
+                                      style: FlutterFlowTheme.of(context).bodyMedium.override(
+                                            fontFamily: 'Inter',
+                                            color: FlutterFlowTheme.of(context).primaryBackground,
                                             fontSize: 15.0,
-                                            letterSpacing: 0.0,
-                                            fontWeight:
-                                                FlutterFlowTheme.of(context)
-                                                    .bodyMedium
-                                                    .fontWeight,
-                                            fontStyle:
-                                                FlutterFlowTheme.of(context)
-                                                    .bodyMedium
-                                                    .fontStyle,
                                           ),
                                     ),
                                   ),
-                                ].divide(SizedBox(height: 20.0)),
+                                ],
                               ),
                             ),
                           ],
@@ -766,27 +525,11 @@ class _BottomContainerWidgetState extends State<BottomContainerWidget> {
                         child: Text(
                           'Copyright © 2025 CLOUD9VACATION',
                           textAlign: TextAlign.center,
-                          style:
-                              FlutterFlowTheme.of(context).bodyMedium.override(
-                                    font: GoogleFonts.inter(
-                                      fontWeight: FlutterFlowTheme.of(context)
-                                          .bodyMedium
-                                          .fontWeight,
-                                      fontStyle: FlutterFlowTheme.of(context)
-                                          .bodyMedium
-                                          .fontStyle,
-                                    ),
-                                    color: FlutterFlowTheme.of(context)
-                                        .primaryBackground,
-                                    fontSize: 14.0,
-                                    letterSpacing: 0.0,
-                                    fontWeight: FlutterFlowTheme.of(context)
-                                        .bodyMedium
-                                        .fontWeight,
-                                    fontStyle: FlutterFlowTheme.of(context)
-                                        .bodyMedium
-                                        .fontStyle,
-                                  ),
+                          style: FlutterFlowTheme.of(context).bodyMedium.override(
+                                fontFamily: 'Inter',
+                                color: FlutterFlowTheme.of(context).primaryBackground,
+                                fontSize: 14.0,
+                              ),
                         ),
                       ),
                       Align(
@@ -795,61 +538,34 @@ class _BottomContainerWidgetState extends State<BottomContainerWidget> {
                           mainAxisSize: MainAxisSize.max,
                           mainAxisAlignment: MainAxisAlignment.center,
                           children: [
-                            Align(
-  alignment: AlignmentDirectional(0.0, 0.0),
-  child: InkWell(
-    splashColor: Colors.transparent,
-    focusColor: Colors.transparent,
-    hoverColor: Colors.transparent,
-    highlightColor: Colors.transparent,
-    onTap: () async {
-      context.pushNamed('TermsandconditionsWidget.routeName'); // Make sure this route is defined
-    },
-    child: Text(
-      'Terms and Conditions',
-      textAlign: TextAlign.center,
-      style: FlutterFlowTheme.of(context).bodyMedium.override(
-            font: GoogleFonts.inter(
-              fontWeight: FlutterFlowTheme.of(context).bodyMedium.fontWeight,
-              fontStyle: FlutterFlowTheme.of(context).bodyMedium.fontStyle,
-            ),
-            color: FlutterFlowTheme.of(context).primaryBackground,
-            fontSize: 12.0,
-            letterSpacing: 0.0,
-            fontWeight: FlutterFlowTheme.of(context).bodyMedium.fontWeight,
-            fontStyle: FlutterFlowTheme.of(context).bodyMedium.fontStyle,
-          ),
-    ),
-  ),
-),
-Align(
-  alignment: AlignmentDirectional(0.0, 0.0),
-  child: InkWell(
-    splashColor: Colors.transparent,
-    focusColor: Colors.transparent,
-    hoverColor: Colors.transparent,
-    highlightColor: Colors.transparent,
-    onTap: () async {
-      context.pushNamed('PrivacypolicyWidget.routeName'); // Make sure this route is defined too
-    },
-    child: Text(
-      '  |  Privacy Policy',
-      textAlign: TextAlign.center,
-      style: FlutterFlowTheme.of(context).bodyMedium.override(
-            font: GoogleFonts.inter(
-              fontWeight: FlutterFlowTheme.of(context).bodyMedium.fontWeight,
-              fontStyle: FlutterFlowTheme.of(context).bodyMedium.fontStyle,
-            ),
-            color: FlutterFlowTheme.of(context).primaryBackground,
-            fontSize: 12.0,
-            letterSpacing: 0.0,
-            fontWeight: FlutterFlowTheme.of(context).bodyMedium.fontWeight,
-            fontStyle: FlutterFlowTheme.of(context).bodyMedium.fontStyle,
-          ),
-    ),
-  ),
-),
-
+                            InkWell(
+                              onTap: () async {
+                                context.pushNamed(TermsandconditionsWidget.routeName);
+                              },
+                              child: Text(
+                                'Terms and Conditions',
+                                textAlign: TextAlign.center,
+                                style: FlutterFlowTheme.of(context).bodyMedium.override(
+                                      fontFamily: 'Inter',
+                                      color: FlutterFlowTheme.of(context).primaryBackground,
+                                      fontSize: 12.0,
+                                    ),
+                              ),
+                            ),
+                            InkWell(
+                              onTap: () async {
+                                context.pushNamed(PrivacypolicyWidget.routeName);
+                              },
+                              child: Text(
+                                '  |  Privacy Policy',
+                                textAlign: TextAlign.center,
+                                style: FlutterFlowTheme.of(context).bodyMedium.override(
+                                      fontFamily: 'Inter',
+                                      color: FlutterFlowTheme.of(context).primaryBackground,
+                                      fontSize: 12.0,
+                                    ),
+                              ),
+                            ),
                           ],
                         ),
                       ),
