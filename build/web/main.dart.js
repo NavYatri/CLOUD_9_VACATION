@@ -67726,14 +67726,14 @@ $S:2}
 A.c2R.prototype={
 $0(){var s=0,r=A.E(t.H),q=this
 var $async$$0=A.A(function(a,b){if(a===1)return A.B(b,r)
-while(true)switch(s){case 0:A.N(q.a,"TermsAndConditionsPage",null,t.X)
+while(true)switch(s){case 0:A.N(q.a,"TermsandconditionsWidget.routeName",null,t.X)
 return A.C(null,r)}})
 return A.D($async$$0,r)},
 $S:2}
 A.c2S.prototype={
 $0(){var s=0,r=A.E(t.H),q=this
 var $async$$0=A.A(function(a,b){if(a===1)return A.B(b,r)
-while(true)switch(s){case 0:A.N(q.a,"PrivacyPolicyPage",null,t.X)
+while(true)switch(s){case 0:A.N(q.a,"PrivacypolicyWidget.routeName",null,t.X)
 return A.C(null,r)}})
 return A.D($async$$0,r)},
 $S:2}

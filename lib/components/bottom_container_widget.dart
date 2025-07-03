@@ -803,7 +803,7 @@ class _BottomContainerWidgetState extends State<BottomContainerWidget> {
     hoverColor: Colors.transparent,
     highlightColor: Colors.transparent,
     onTap: () async {
-      context.pushNamed('TermsAndConditionsPage'); // Make sure this route is defined
+      context.pushNamed('TermsandconditionsWidget.routeName'); // Make sure this route is defined
     },
     child: Text(
       'Terms and Conditions',
@@ -830,7 +830,7 @@ Align(
     hoverColor: Colors.transparent,
     highlightColor: Colors.transparent,
     onTap: () async {
-      context.pushNamed('PrivacyPolicyPage'); // Make sure this route is defined too
+      context.pushNamed('PrivacypolicyWidget.routeName'); // Make sure this route is defined too
     },
     child: Text(
       '  |  Privacy Policy',
